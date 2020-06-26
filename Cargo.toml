@@ -8,3 +8,4 @@ edition = "2018"
 
 [dependencies]
 tensorflow = { version = "0.15.0", features = ["tensorflow_gpu"] }
+pcap = "0.7.0"
