@@ -22,6 +22,10 @@ if not pathlib.Path(log_path).exists():
 with open(log_path, 'r') as log:
     for line in enumerate(log):
         line = line[1].split()
-        try: print(ast.literal_eval(line[-1:][0].split(":",1)[1].replace("false","False").replace("true","True")))
+        try:
+            if len(line[1]) == 9 and not line[1][2] == ".":
+                time = line[1]
+            cur_dict = ast.literal_eval(line[-1:][0].split(":",1)[1].replace("false","False").replace("true","True"))
+            print("{} {}".format(time, cur_dict))
         except: pass
 log.close()
