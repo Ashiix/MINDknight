@@ -1,5 +1,5 @@
 use std::fs;
 
 fn main() {
-    println!("sup")
+    println!("Hello world!")
 }
