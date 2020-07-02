@@ -1,0 +1,207 @@
+16:47:16: {'Type': 204, 'Message': 'sup'}
+16:47:42: {'Type': 307, 'VotesFor': [0, 4], 'VotesAgainst': [3, 1, 2], 'Passed': False}
+16:48:09: {'Type': 307, 'VotesFor': [4, 1], 'VotesAgainst': [2, 0, 3], 'Passed': False}
+16:48:26: {'Type': 307, 'VotesFor': [3], 'VotesAgainst': [2, 0, 4, 1], 'Passed': False}
+16:48:39: {'Type': 307, 'VotesFor': [3, 4], 'VotesAgainst': [0, 1, 2], 'Passed': False}
+16:48:50: {'Type': 307, 'VotesFor': [3, 2, 4, 0], 'VotesAgainst': [1], 'Passed': True}
+16:49:00: {'Type': 311, 'Mission': 1, 'Failed': False, 'NumHacks': 0, 'Proposer': 4}
+16:49:27: {'Type': 204, 'Message': 'tyty'}
+16:49:32: {'Type': 204, 'Message': 'ew'}
+16:50:08: {'Type': 307, 'VotesFor': [1, 3], 'VotesAgainst': [0, 4, 2], 'Passed': False}
+16:50:44: {'Type': 307, 'VotesFor': [4, 3], 'VotesAgainst': [0, 1, 2], 'Passed': False}
+16:50:59: {'Type': 204, 'Message': 'incorrect'}
+16:51:20: {'Type': 307, 'VotesFor': [3], 'VotesAgainst': [0, 2, 4, 1], 'Passed': False}
+16:51:29: {'Type': 204, 'Message': 'really?'}
+16:51:44: {'Type': 307, 'VotesFor': [4], 'VotesAgainst': [3, 2, 0, 1], 'Passed': False}
+16:51:46: {'Type': 204, 'Message': 'ah'}
+16:52:03: {'Type': 307, 'VotesFor': [0, 4, 3, 2], 'VotesAgainst': [1], 'Passed': True}
+16:52:06: {'Type': 204, 'Message': 'hmm'}
+16:52:10: {'Type': 311, 'Mission': 2, 'Failed': True, 'NumHacks': 1, 'Proposer': 0}
+16:53:15: {'Type': 204, 'Message': 'panic'}
+16:53:29: {'Type': 204, 'Message': 'interesting'}
+16:53:34: {'Type': 204, 'Message': 'reject'}
+16:54:03: {'Type': 204, 'Message': 'cap'}
+16:54:14: {'Type': 307, 'VotesFor': [0], 'VotesAgainst': [4, 2, 3, 1], 'Passed': False}
+16:54:39: {'Type': 204, 'Message': 'hmmmm'}
+16:54:45: {'Type': 307, 'VotesFor': [3, 0, 2, 1, 4], 'VotesAgainst': [], 'Passed': True}
+16:54:53: {'Type': 311, 'Mission': 3, 'Failed': False, 'NumHacks': 0, 'Proposer': 2}
+16:55:28: {'Type': 204, 'Message': 'ah'}
+16:56:29: {'Type': 307, 'VotesFor': [4, 3, 1, 2, 0], 'VotesAgainst': [], 'Passed': True}
+16:56:35: {'Type': 311, 'Mission': 4, 'Failed': True, 'NumHacks': 1, 'Proposer': 3}
+16:57:09: {'Type': 204, 'Message': 'obv'}
+16:57:35: {'Type': 204, 'Message': '(L)'}
+16:57:39: {'Type': 204, 'Message': 'mhmmm'}
+16:58:27: {'Type': 204, 'Message': 'prop?'}
+16:58:37: {'Type': 307, 'VotesFor': [4, 0, 1], 'VotesAgainst': [2, 3], 'Passed': True}
+16:58:40: {'Type': 204, 'Message': 'LOL'}
+16:58:45: {'Type': 311, 'Mission': 5, 'Failed': True, 'NumHacks': 1, 'Proposer': 4}
+16:58:56: {'Type': 204, 'Message': 'gg'}
+17:00:16: {'Type': 204, 'Message': 'gl'}
+17:00:18: {'Type': 204, 'Message': 'gg'}
+17:00:20: {'Type': 204, 'Message': 'nah'}
+17:00:25: {'Type': 204, 'Message': 'please'}
+17:00:28: {'Type': 204, 'Message': 'incorrect'}
+17:00:31: {'Type': 204, 'Message': 'ggs'}
+17:01:47: {'Type': 307, 'VotesFor': [0, 3, 2, 4, 5, 1], 'VotesAgainst': [], 'Passed': True}
+17:01:54: {'Type': 311, 'Mission': 1, 'Failed': False, 'NumHacks': 0, 'Proposer': 0}
+17:02:45: {'Type': 204, 'Message': 'ok'}
+17:03:04: {'Type': 307, 'VotesFor': [2, 5, 1, 3], 'VotesAgainst': [0, 4], 'Passed': True}
+17:03:14: {'Type': 311, 'Mission': 2, 'Failed': False, 'NumHacks': 0, 'Proposer': 1}
+17:05:04: {'Type': 307, 'VotesFor': [5, 1, 4, 2, 0], 'VotesAgainst': [3], 'Passed': True}
+17:05:07: {'Type': 204, 'Message': 'rip'}
+17:05:09: {'Type': 204, 'Message': 'hacked'}
+17:05:14: {'Type': 311, 'Mission': 3, 'Failed': True, 'NumHacks': 1, 'Proposer': 2}
+17:05:27: {'Type': 204, 'Message': 'YEP'}
+17:07:08: {'Type': 307, 'VotesFor': [3, 5], 'VotesAgainst': [2, 0, 1, 4], 'Passed': False}
+17:07:12: {'Type': 204, 'Message': '????'}
+17:07:33: {'Type': 307, 'VotesFor': [5, 4, 0], 'VotesAgainst': [3, 2, 1], 'Passed': False}
+17:07:48: {'Type': 204, 'Message': 'no'}
+17:07:51: {'Type': 307, 'VotesFor': [0, 5], 'VotesAgainst': [3, 4, 1, 2], 'Passed': False}
+17:08:09: {'Type': 307, 'VotesFor': [0, 4, 5, 1], 'VotesAgainst': [3, 2], 'Passed': True}
+17:08:17: {'Type': 311, 'Mission': 4, 'Failed': True, 'NumHacks': 1, 'Proposer': 0}
+17:10:15: {'Type': 307, 'VotesFor': [3, 1, 2, 5], 'VotesAgainst': [0, 4], 'Passed': True}
+17:10:18: {'Type': 204, 'Message': 'YUP'}
+17:10:19: {'Type': 204, 'Message': 'gg'}
+17:10:24: {'Type': 311, 'Mission': 5, 'Failed': False, 'NumHacks': 0, 'Proposer': 1}
+17:10:30: {'Type': 204, 'Message': 'EZ'}
+17:10:32: {'Type': 204, 'Message': 'GGs'}
+17:55:57: {'Type': 204, 'Message': 'CAP'}
+17:56:34: {'Type': 307, 'VotesFor': [0, 4, 1, 3], 'VotesAgainst': [2], 'Passed': True}
+17:56:44: {'Type': 311, 'Mission': 1, 'Failed': False, 'NumHacks': 0, 'Proposer': 0}
+17:57:11: {'Type': 204, 'Message': 'wdym'}
+17:58:22: {'Type': 204, 'Message': 'brittany'}
+17:58:27: {'Type': 307, 'VotesFor': [1, 0, 3, 2], 'VotesAgainst': [4], 'Passed': True}
+17:58:38: {'Type': 311, 'Mission': 2, 'Failed': False, 'NumHacks': 0, 'Proposer': 1}
+17:58:45: {'Type': 204, 'Message': 'ah'}
+18:00:03: {'Type': 204, 'Message': 'gg'}
+18:00:16: {'Type': 307, 'VotesFor': [3, 0, 4, 1, 2], 'VotesAgainst': [], 'Passed': True}
+18:00:28: {'Type': 311, 'Mission': 3, 'Failed': False, 'NumHacks': 0, 'Proposer': 2}
+18:00:35: {'Type': 204, 'Message': 'nice'}
+18:00:52: {'Type': 204, 'Message': ';)'}
+18:07:04: {'Type': 204, 'Message': 'yo'}
+18:07:15: {'Type': 204, 'Message': 'que?'}
+18:07:52: {'Type': 307, 'VotesFor': [0, 3, 1], 'VotesAgainst': [4, 2], 'Passed': True}
+18:08:01: {'Type': 311, 'Mission': 1, 'Failed': False, 'NumHacks': 0, 'Proposer': 0}
+18:08:54: {'Type': 204, 'Message': 'same'}
+18:08:59: {'Type': 204, 'Message': 'LOL'}
+18:09:10: {'Type': 204, 'Message': 'oh'}
+18:09:21: {'Type': 307, 'VotesFor': [1, 2], 'VotesAgainst': [3, 0, 4], 'Passed': False}
+18:09:49: {'Type': 204, 'Message': ':0'}
+18:09:58: {'Type': 204, 'Message': 'LMAO'}
+18:10:15: {'Type': 307, 'VotesFor': [2, 1], 'VotesAgainst': [3, 0, 4], 'Passed': False}
+18:10:37: {'Type': 307, 'VotesFor': [1, 2], 'VotesAgainst': [3, 0, 4], 'Passed': False}
+18:11:08: {'Type': 307, 'VotesFor': [1, 4, 2], 'VotesAgainst': [0, 3], 'Passed': True}
+18:11:17: {'Type': 311, 'Mission': 2, 'Failed': True, 'NumHacks': 1, 'Proposer': 4}
+18:11:49: {'Type': 204, 'Message': '^'}
+18:12:42: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [0, 2, 3, 4], 'Passed': False}
+18:13:46: {'Type': 204, 'Message': 'LMAO'}
+18:14:00: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [3, 0, 2, 4], 'Passed': False}
+18:14:15: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [2, 3, 0, 4], 'Passed': False}
+18:14:32: {'Type': 204, 'Message': '...'}
+18:14:37: {'Type': 204, 'Message': 'hor'}
+18:14:39: {'Type': 204, 'Message': 'nvm'}
+18:15:00: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [3, 0, 4, 2], 'Passed': False}
+18:15:49: {'Type': 307, 'VotesFor': [0, 3, 1, 2, 4], 'VotesAgainst': [], 'Passed': True}
+18:15:56: {'Type': 311, 'Mission': 3, 'Failed': False, 'NumHacks': 0, 'Proposer': 0}
+18:17:49: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [2, 0, 4, 3], 'Passed': False}
+18:19:14: {'Type': 204, 'Message': 'cool'}
+18:19:19: {'Type': 307, 'VotesFor': [1, 2], 'VotesAgainst': [3, 4, 0], 'Passed': False}
+18:21:11: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [0, 2, 3, 4], 'Passed': False}
+18:21:38: {'Type': 204, 'Message': ':('}
+18:22:15: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [3, 0, 2, 4], 'Passed': False}
+18:22:16: {'Type': 204, 'Message': 'RANDOM'}
+18:22:30: {'Type': 204, 'Message': '<3'}
+18:22:40: {'Type': 307, 'VotesFor': [2, 3, 0, 4], 'VotesAgainst': [1], 'Passed': True}
+18:22:48: {'Type': 311, 'Mission': 4, 'Failed': True, 'NumHacks': 1, 'Proposer': 2}
+18:22:54: {'Type': 204, 'Message': 'hahaha'}
+18:23:27: {'Type': 204, 'Message': 'zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz'}
+18:25:18: {'Type': 307, 'VotesFor': [], 'VotesAgainst': [0, 2, 3, 1, 4], 'Passed': False}
+18:27:18: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [2, 3, 0, 4], 'Passed': False}
+18:28:09: {'Type': 204, 'Message': 'h4???'}
+18:28:11: {'Type': 204, 'Message': 'h?'}
+18:28:16: {'Type': 204, 'Message': 'indewed'}
+18:28:43: {'Type': 307, 'VotesFor': [2, 1], 'VotesAgainst': [0, 4, 3], 'Passed': False}
+18:29:13: {'Type': 307, 'VotesFor': [1, 3], 'VotesAgainst': [2, 0, 4], 'Passed': False}
+18:30:28: {'Type': 307, 'VotesFor': [3, 1, 4, 2, 0], 'VotesAgainst': [], 'Passed': True}
+18:30:37: {'Type': 311, 'Mission': 5, 'Failed': True, 'NumHacks': 2, 'Proposer': 4}
+18:30:42: {'Type': 204, 'Message': 'gg'}
+18:31:01: {'Type': 204, 'Message': 'amigo'}
+18:32:42: {'Type': 204, 'Message': 'ggs'}
+18:34:03: {'Type': 204, 'Message': 'yo'}
+18:34:19: {'Type': 204, 'Message': ',y'}
+18:34:56: {'Type': 307, 'VotesFor': [1, 0, 4], 'VotesAgainst': [2, 3], 'Passed': True}
+18:35:08: {'Type': 311, 'Mission': 1, 'Failed': True, 'NumHacks': 1, 'Proposer': 0}
+18:35:42: {'Type': 204, 'Message': 'same'}
+18:36:41: {'Type': 307, 'VotesFor': [1, 2], 'VotesAgainst': [0, 3, 4], 'Passed': False}
+18:37:47: {'Type': 204, 'Message': 'NO'}
+18:37:57: {'Type': 204, 'Message': 'NEVER'}
+18:38:40: {'Type': 307, 'VotesFor': [2, 4], 'VotesAgainst': [1, 3, 0], 'Passed': False}
+18:39:19: {'Type': 204, 'Message': 'emily'}
+18:39:29: {'Type': 204, 'Message': 'LOL'}
+18:39:46: {'Type': 204, 'Message': 'NOPE'}
+18:40:33: {'Type': 204, 'Message': 'hmm'}
+18:40:33: {'Type': 307, 'VotesFor': [4, 2], 'VotesAgainst': [1, 3, 0], 'Passed': False}
+18:41:37: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [3, 2, 4, 0], 'Passed': False}
+18:42:55: {'Type': 307, 'VotesFor': [4, 3, 2, 0], 'VotesAgainst': [1], 'Passed': True}
+18:43:15: {'Type': 311, 'Mission': 2, 'Failed': True, 'NumHacks': 1, 'Proposer': 2}
+18:43:20: {'Type': 204, 'Message': 'emily'}
+18:43:23: {'Type': 204, 'Message': 'really'}
+18:43:48: {'Type': 204, 'Message': 'nice'}
+18:45:35: {'Type': 307, 'VotesFor': [1, 0], 'VotesAgainst': [3, 4, 2], 'Passed': False}
+18:45:40: {'Type': 204, 'Message': '????/'}
+18:45:43: {'Type': 204, 'Message': '????????????????????????????'}
+18:46:46: {'Type': 307, 'VotesFor': [4, 0], 'VotesAgainst': [1, 2, 3], 'Passed': False}
+18:47:15: {'Type': 204, 'Message': 'loki'}
+18:48:46: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [4, 3, 0, 2], 'Passed': False}
+18:48:47: {'Type': 204, 'Message': 'YUP'}
+18:49:25: {'Type': 307, 'VotesFor': [3, 4, 0], 'VotesAgainst': [1, 2], 'Passed': True}
+18:49:29: {'Type': 204, 'Message': 'gg'}
+18:49:45: {'Type': 311, 'Mission': 3, 'Failed': False, 'NumHacks': 0, 'Proposer': 3}
+18:51:32: {'Type': 204, 'Message': 'no'}
+18:52:10: {'Type': 307, 'VotesFor': [4, 3, 0], 'VotesAgainst': [2, 1], 'Passed': True}
+18:52:14: {'Type': 204, 'Message': 'g'}
+18:52:15: {'Type': 204, 'Message': 'g'}
+18:52:30: {'Type': 311, 'Mission': 4, 'Failed': True, 'NumHacks': 1, 'Proposer': 4}
+18:57:36: {'Type': 307, 'VotesFor': [0, 1], 'VotesAgainst': [2, 5, 6, 3, 4], 'Passed': False}
+18:59:12: {'Type': 307, 'VotesFor': [], 'VotesAgainst': [0, 3, 6, 4, 2, 5, 1], 'Passed': False}
+19:00:05: {'Type': 307, 'VotesFor': [1, 2], 'VotesAgainst': [3, 0, 6, 5, 4], 'Passed': False}
+19:01:01: {'Type': 307, 'VotesFor': [], 'VotesAgainst': [3, 2, 4, 6, 0, 5, 1], 'Passed': False}
+19:01:58: {'Type': 307, 'VotesFor': [4, 6, 3, 1, 0, 5], 'VotesAgainst': [2], 'Passed': True}
+19:02:17: {'Type': 311, 'Mission': 1, 'Failed': False, 'NumHacks': 0, 'Proposer': 4}
+19:04:32: {'Type': 307, 'VotesFor': [5, 6], 'VotesAgainst': [3, 1, 2, 4, 0], 'Passed': False}
+19:05:21: {'Type': 307, 'VotesFor': [6], 'VotesAgainst': [2, 3, 0, 5, 4, 1], 'Passed': False}
+19:06:23: {'Type': 307, 'VotesFor': [0, 1], 'VotesAgainst': [3, 6, 4, 2, 5], 'Passed': False}
+19:07:55: {'Type': 307, 'VotesFor': [1, 6], 'VotesAgainst': [4, 3, 2, 5, 0], 'Passed': False}
+19:08:51: {'Type': 307, 'VotesFor': [2, 3, 5, 1, 6, 0, 4], 'VotesAgainst': [], 'Passed': True}
+19:09:04: {'Type': 311, 'Mission': 2, 'Failed': True, 'NumHacks': 1, 'Proposer': 2}
+19:10:56: {'Type': 307, 'VotesFor': [0, 6], 'VotesAgainst': [1, 2, 5, 3, 4], 'Passed': False}
+19:13:19: {'Type': 307, 'VotesFor': [5, 1], 'VotesAgainst': [0, 6, 2, 3, 4], 'Passed': False}
+19:13:32: {'Type': 307, 'VotesFor': [6], 'VotesAgainst': [3, 4, 1, 0, 2, 5], 'Passed': False}
+19:14:41: {'Type': 307, 'VotesFor': [0, 5], 'VotesAgainst': [6, 2, 4, 1, 3], 'Passed': False}
+19:16:16: {'Type': 307, 'VotesFor': [6, 3, 4, 0, 2, 5, 1], 'VotesAgainst': [], 'Passed': True}
+19:16:36: {'Type': 311, 'Mission': 3, 'Failed': True, 'NumHacks': 1, 'Proposer': 1}
+19:19:13: {'Type': 307, 'VotesFor': [6, 0], 'VotesAgainst': [3, 2, 5, 4, 1], 'Passed': False}
+19:20:37: {'Type': 307, 'VotesFor': [], 'VotesAgainst': [6, 0, 3, 5, 2, 1, 4], 'Passed': False}
+19:21:57: {'Type': 307, 'VotesFor': [6], 'VotesAgainst': [0, 3, 4, 1, 5, 2], 'Passed': False}
+19:22:32: {'Type': 204, 'Message': 'w'}
+19:23:40: {'Type': 307, 'VotesFor': [3, 5, 2, 1, 4], 'VotesAgainst': [6, 0], 'Passed': True}
+19:23:49: {'Type': 311, 'Mission': 4, 'Failed': True, 'NumHacks': 2, 'Proposer': 5}
+19:25:38: {'Type': 307, 'VotesFor': [0], 'VotesAgainst': [1, 4, 2, 3], 'Passed': False}
+19:25:54: {'Type': 307, 'VotesFor': [2], 'VotesAgainst': [1, 4, 3, 0], 'Passed': False}
+19:26:14: {'Type': 307, 'VotesFor': [4, 2], 'VotesAgainst': [1, 0, 3], 'Passed': False}
+19:27:15: {'Type': 307, 'VotesFor': [4, 3, 2], 'VotesAgainst': [1, 0], 'Passed': True}
+19:27:16: {'Type': 204, 'Message': 'mhm'}
+19:27:35: {'Type': 311, 'Mission': 1, 'Failed': False, 'NumHacks': 0, 'Proposer': 3}
+19:29:12: {'Type': 307, 'VotesFor': [4], 'VotesAgainst': [1, 0, 2, 3], 'Passed': False}
+19:30:00: {'Type': 307, 'VotesFor': [0, 2], 'VotesAgainst': [4, 1, 3], 'Passed': False}
+19:31:38: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [0, 4, 2, 3], 'Passed': False}
+19:32:57: {'Type': 307, 'VotesFor': [0, 2], 'VotesAgainst': [4, 1, 3], 'Passed': False}
+19:33:55: {'Type': 204, 'Message': 'interesting'}
+19:34:22: {'Type': 307, 'VotesFor': [3, 4, 1, 0], 'VotesAgainst': [2], 'Passed': True}
+19:34:30: {'Type': 311, 'Mission': 2, 'Failed': False, 'NumHacks': 0, 'Proposer': 3}
+19:34:35: {'Type': 204, 'Message': 'well'}
+19:36:45: {'Type': 307, 'VotesFor': [4, 3], 'VotesAgainst': [2, 1, 0], 'Passed': False}
+19:38:18: {'Type': 307, 'VotesFor': [4], 'VotesAgainst': [0, 1, 2, 3], 'Passed': False}
+19:39:55: {'Type': 307, 'VotesFor': [1, 4, 3], 'VotesAgainst': [2, 0], 'Passed': True}
+19:40:15: {'Type': 311, 'Mission': 3, 'Failed': False, 'NumHacks': 0, 'Proposer': 1}
+19:40:20: {'Type': 204, 'Message': 'gg'}
