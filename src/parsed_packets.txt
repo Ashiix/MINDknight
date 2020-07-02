@@ -1,0 +1,1725 @@
+16:47:09: {'Type': 205, 'Message': 'hi', 'Slot': 3}
+16:47:12: {'Type': 205, 'Message': 'hi', 'Slot': 2}
+16:47:15: {'Type': 205, 'Message': 'tobias zoe', 'Slot': 0}
+16:47:16: {'Type': 205, 'Message': 'sup', 'Slot': 4}
+16:47:22: {'Type': 205, 'Message': 'honk honk !&/#©?@*$°%&', 'Slot': 3}
+16:47:27: {'Type': 205, 'Message': 'situ....', 'Slot': 2}
+16:47:29: {'Type': 205, 'Message': 'kek', 'Slot': 0}
+16:47:30: {'Type': 205, 'Message': 'lol', 'Slot': 3}
+16:47:32: {'Type': 304, 'Proposer': 0, 'SelectedTeam': [0, 1], 'Passed': False}
+16:47:42: {'Type': 307, 'VotesFor': [0, 4], 'VotesAgainst': [3, 1, 2], 'Passed': False}
+16:47:54: {'Type': 304, 'Proposer': 1, 'SelectedTeam': [1, 4], 'Passed': False}
+16:48:02: {'Type': 205, 'Message': 'apprantly if u say two names at the start of the game theyre the hackers', 'Slot': 0}
+16:48:04: {'Type': 205, 'Message': 'shirley for n1 prop you and the person counterclockwise', 'Slot': 3}
+16:48:09: {'Type': 307, 'VotesFor': [4, 1], 'VotesAgainst': [2, 0, 3], 'Passed': False}
+16:48:23: {'Type': 304, 'Proposer': 2, 'SelectedTeam': [2, 3], 'Passed': False}
+16:48:25: {'Type': 205, 'Message': 'like what chance did', 'Slot': 3}
+16:48:26: {'Type': 307, 'VotesFor': [3], 'VotesAgainst': [2, 0, 4, 1], 'Passed': False}
+16:48:34: {'Type': 304, 'Proposer': 3, 'SelectedTeam': [3, 4], 'Passed': False}
+16:48:39: {'Type': 307, 'VotesFor': [3, 4], 'VotesAgainst': [0, 1, 2], 'Passed': False}
+16:48:46: {'Type': 304, 'Proposer': 4, 'SelectedTeam': [0, 4], 'Passed': False}
+16:48:50: {'Type': 307, 'VotesFor': [3, 2, 4, 0], 'VotesAgainst': [1], 'Passed': True}
+16:48:51: {'Type': 205, 'Message': '<sprite name="emoji_hammer">', 'Slot': 3}
+16:48:57: {'Type': 205, 'Message': 'why re', 'Slot': 2}
+16:49:00: {'Type': 311, 'Mission': 1, 'Failed': False, 'NumHacks': 0, 'Proposer': 4}
+16:49:08: {'Type': 205, 'Message': 'good job', 'Slot': 4}
+16:49:12: {'Type': 205, 'Message': 'why take so long andrew', 'Slot': 0}
+16:49:15: {'Type': 205, 'Message': 'prob lvl 1', 'Slot': 3}
+16:49:17: {'Type': 205, 'Message': 'first time playing', 'Slot': 4}
+16:49:20: {'Type': 205, 'Message': 'ak kk', 'Slot': 0}
+16:49:21: {'Type': 205, 'Message': 'fair', 'Slot': 2}
+16:49:25: {'Type': 205, 'Message': 'oh welcome then', 'Slot': 2}
+16:49:28: {'Type': 205, 'Message': 'tyty', 'Slot': 4}
+16:49:32: {'Type': 205, 'Message': 'ew', 'Slot': 4}
+16:49:33: {'Type': 205, 'Message': 'welcome to mindnight', 'Slot': 0}
+16:49:33: {'Type': 205, 'Message': 'stfu chance', 'Slot': 3}
+16:49:35: {'Type': 205, 'Message': 'bitch', 'Slot': 0}
+16:49:41: {'Type': 205, 'Message': 'no', 'Slot': 2}
+16:49:41: {'Type': 205, 'Message': 'clown down', 'Slot': 3}
+16:49:46: {'Type': 205, 'Message': 'honk honk', 'Slot': 4}
+16:49:47: {'Type': 205, 'Message': "you're my bitch now andrew", 'Slot': 0}
+16:49:49: {'Type': 205, 'Message': 'circus in town', 'Slot': 4}
+16:50:01: {'Type': 304, 'Proposer': 0, 'SelectedTeam': [0, 2, 3], 'Passed': False}
+16:50:07: {'Type': 205, 'Message': '/!& @#© prop', 'Slot': 3}
+16:50:08: {'Type': 307, 'VotesFor': [1, 3], 'VotesAgainst': [0, 4, 2], 'Passed': False}
+16:50:11: {'Type': 205, 'Message': 'kek', 'Slot': 0}
+16:50:16: {'Type': 205, 'Message': 'why accept shirley', 'Slot': 2}
+16:50:17: {'Type': 205, 'Message': 'smh shirley', 'Slot': 3}
+16:50:24: {'Type': 205, 'Message': 'Zoe', 'Slot': 0}
+16:50:24: {'Type': 205, 'Message': 'shirley acting strange', 'Slot': 4}
+16:50:27: {'Type': 304, 'Proposer': 1, 'SelectedTeam': [], 'Passed': True}
+16:50:31: {'Type': 205, 'Message': 'sup tobias', 'Slot': 3}
+16:50:31: {'Type': 205, 'Message': 'wanna be my bitch', 'Slot': 0}
+16:50:34: {'Type': 205, 'Message': 'no', 'Slot': 3}
+16:50:34: {'Type': 304, 'Proposer': 2, 'SelectedTeam': [2, 3, 4], 'Passed': False}
+16:50:42: {'Type': 205, 'Message': 'i hate men', 'Slot': 3}
+16:50:44: {'Type': 307, 'VotesFor': [4, 3], 'VotesAgainst': [0, 1, 2], 'Passed': False}
+16:50:52: {'Type': 205, 'Message': 'well thats ok i already have andrew <sprite name="emoji_cute">', 'Slot': 0}
+16:50:59: {'Type': 205, 'Message': 'incorrect', 'Slot': 4}
+16:51:00: {'Type': 304, 'Proposer': 3, 'SelectedTeam': [1, 2, 3], 'Passed': False}
+16:51:07: {'Type': 205, 'Message': 'nt shirley', 'Slot': 2}
+16:51:08: {'Type': 205, 'Message': 'ye u my bitch', 'Slot': 0}
+16:51:16: {'Type': 205, 'Message': 'shirley is just new i assume', 'Slot': 3}
+16:51:20: {'Type': 307, 'VotesFor': [3], 'VotesAgainst': [0, 2, 4, 1], 'Passed': False}
+16:51:23: {'Type': 205, 'Message': 'not to worried about her', 'Slot': 3}
+16:51:26: {'Type': 205, 'Message': 'i think it shirley and zoe', 'Slot': 0}
+16:51:29: {'Type': 205, 'Message': 'really?', 'Slot': 4}
+16:51:30: {'Type': 205, 'Message': 'yeah possibly new', 'Slot': 2}
+16:51:32: {'Type': 205, 'Message': 'ye', 'Slot': 0}
+16:51:36: {'Type': 304, 'Proposer': 4, 'SelectedTeam': [0, 2, 4], 'Passed': False}
+16:51:44: {'Type': 307, 'VotesFor': [4], 'VotesAgainst': [3, 2, 0, 1], 'Passed': False}
+16:51:46: {'Type': 205, 'Message': 'ah', 'Slot': 4}
+16:51:47: {'Type': 205, 'Message': 'pfff', 'Slot': 0}
+16:51:51: {'Type': 304, 'Proposer': 0, 'SelectedTeam': [0, 2, 4], 'Passed': False}
+16:51:55: {'Type': 205, 'Message': 'gg', 'Slot': 0}
+16:51:56: {'Type': 205, 'Message': '<sprite name="emoji_hammer">', 'Slot': 3}
+16:51:56: {'Type': 205, 'Message': 'bleh', 'Slot': 2}
+16:52:03: {'Type': 307, 'VotesFor': [0, 4, 3, 2], 'VotesAgainst': [1], 'Passed': True}
+16:52:06: {'Type': 205, 'Message': 'hmm', 'Slot': 4}
+16:52:10: {'Type': 311, 'Mission': 2, 'Failed': True, 'NumHacks': 1, 'Proposer': 0}
+16:52:17: {'Type': 205, 'Message': 'or not', 'Slot': 0}
+16:52:19: {'Type': 205, 'Message': 'ffs', 'Slot': 2}
+16:52:21: {'Type': 205, 'Message': 'smh', 'Slot': 3}
+16:52:22: {'Type': 205, 'Message': 'tobias you sly guy', 'Slot': 4}
+16:52:26: {'Type': 205, 'Message': 'i kinda treust chance', 'Slot': 4}
+16:52:34: {'Type': 205, 'Message': 'but in the first node you let it go through to get sus off u', 'Slot': 4}
+16:52:37: {'Type': 205, 'Message': 'im going with tobias / shirley', 'Slot': 3}
+16:52:50: {'Type': 205, 'Message': 'yeah my gut likes that', 'Slot': 2}
+16:52:58: {'Type': 205, 'Message': 'ok', 'Slot': 0}
+16:52:58: {'Type': 205, 'Message': 'tobias was being aggressive against me when everything i propped is meta', 'Slot': 3}
+16:53:04: {'Type': 205, 'Message': 'lol', 'Slot': 0}
+16:53:12: {'Type': 205, 'Message': 'did i butthurt you', 'Slot': 0}
+16:53:15: {'Type': 205, 'Message': 'that bad zoe?', 'Slot': 0}
+16:53:15: {'Type': 205, 'Message': 'panic', 'Slot': 4}
+16:53:22: {'Type': 205, 'Message': 'no response', 'Slot': 4}
+16:53:22: {'Type': 205, 'Message': 'p a n i k', 'Slot': 3}
+16:53:29: {'Type': 205, 'Message': 'interesting', 'Slot': 4}
+16:53:33: {'Type': 205, 'Message': 'tobias i will decapitate you', 'Slot': 2}
+16:53:35: {'Type': 205, 'Message': 'reject', 'Slot': 4}
+16:53:42: {'Type': 205, 'Message': 'i will throw this game like last game', 'Slot': 0}
+16:53:44: {'Type': 205, 'Message': 'if u want me too', 'Slot': 0}
+16:53:45: {'Type': 304, 'Proposer': 1, 'SelectedTeam': [0, 3], 'Passed': False}
+16:53:45: {'Type': 205, 'Message': 'no shirley', 'Slot': 3}
+16:53:47: {'Type': 205, 'Message': 'shirley bro', 'Slot': 2}
+16:53:49: {'Type': 205, 'Message': '°@*# it', 'Slot': 3}
+16:53:54: {'Type': 205, 'Message': 'ye sure', 'Slot': 0}
+16:53:56: {'Type': 205, 'Message': 'imma throw', 'Slot': 0}
+16:53:59: {'Type': 205, 'Message': 'a throwing agent', 'Slot': 0}
+16:54:03: {'Type': 205, 'Message': 'cap', 'Slot': 4}
+16:54:07: {'Type': 205, 'Message': '<sprite name="emoji_smile">', 'Slot': 0}
+16:54:10: {'Type': 205, 'Message': 'and you cant report me', 'Slot': 0}
+16:54:11: {'Type': 205, 'Message': 'L', 'Slot': 2}
+16:54:13: {'Type': 205, 'Message': 'shirley vote', 'Slot': 4}
+16:54:13: {'Type': 205, 'Message': 'whatsoever', 'Slot': 0}
+16:54:14: {'Type': 307, 'VotesFor': [0], 'VotesAgainst': [4, 2, 3, 1], 'Passed': False}
+16:54:19: {'Type': 205, 'Message': 'tobias chill', 'Slot': 3}
+16:54:22: {'Type': 205, 'Message': 'only you tobias?', 'Slot': 4}
+16:54:23: {'Type': 205, 'Message': 'nobody really cares tobias lol', 'Slot': 2}
+16:54:25: {'Type': 205, 'Message': "bruh we're tryna play", 'Slot': 3}
+16:54:32: {'Type': 304, 'Proposer': 2, 'SelectedTeam': [2, 3], 'Passed': False}
+16:54:39: {'Type': 205, 'Message': 'hmmmm', 'Slot': 4}
+16:54:41: {'Type': 205, 'Message': 'u should', 'Slot': 0}
+16:54:44: {'Type': 205, 'Message': 'cuz agents lose', 'Slot': 0}
+16:54:45: {'Type': 307, 'VotesFor': [3, 0, 2, 1, 4], 'VotesAgainst': [], 'Passed': True}
+16:54:47: {'Type': 205, 'Message': 'no matter what', 'Slot': 0}
+16:54:48: {'Type': 205, 'Message': '<sprite name="emoji_cute">', 'Slot': 0}
+16:54:49: {'Type': 205, 'Message': '???', 'Slot': 3}
+16:54:53: {'Type': 311, 'Mission': 3, 'Failed': False, 'NumHacks': 0, 'Proposer': 2}
+16:55:01: {'Type': 205, 'Message': 'oh well tobias', 'Slot': 4}
+16:55:02: {'Type': 205, 'Message': 'howd that get full acc', 'Slot': 3}
+16:55:11: {'Type': 205, 'Message': 'was not expecting full acc either', 'Slot': 2}
+16:55:11: {'Type': 205, 'Message': 'this is a dead game anyways why play a dead game serious', 'Slot': 0}
+16:55:17: {'Type': 205, 'Message': 'when only like 50 ppl play it', 'Slot': 0}
+16:55:20: {'Type': 205, 'Message': 'what does full acc mean', 'Slot': 4}
+16:55:21: {'Type': 205, 'Message': 'whateve bro ur hating', 'Slot': 2}
+16:55:25: {'Type': 205, 'Message': 'full accept', 'Slot': 2}
+16:55:25: {'Type': 205, 'Message': 'na', 'Slot': 0}
+16:55:27: {'Type': 205, 'Message': 'im chillin', 'Slot': 0}
+16:55:28: {'Type': 205, 'Message': 'ah', 'Slot': 4}
+16:55:29: {'Type': 205, 'Message': 'like every1 accept', 'Slot': 2}
+16:55:29: {'Type': 205, 'Message': 'everyone accepted the prop', 'Slot': 3}
+16:55:30: {'Type': 205, 'Message': 'youre a  loser', 'Slot': 0}
+16:55:30: {'Type': 205, 'Message': 'full acc', 'Slot': 3}
+16:55:40: {'Type': 205, 'Message': 'cry', 'Slot': 2}
+16:55:43: {'Type': 205, 'Message': 'losers play dead games serious', 'Slot': 0}
+16:55:44: {'Type': 205, 'Message': 'tobais stay mad we found you out early', 'Slot': 4}
+16:55:50: {'Type': 205, 'Message': 'ur playing it man', 'Slot': 2}
+16:55:51: {'Type': 205, 'Message': 'na i see u crying <sprite name="emoji_cute">', 'Slot': 0}
+16:55:55: {'Type': 205, 'Message': 'hold this L', 'Slot': 2}
+16:55:55: {'Type': 205, 'Message': 'how can i emote', 'Slot': 4}
+16:55:59: {'Type': 205, 'Message': 'not seriously', 'Slot': 0}
+16:56:02: {'Type': 205, 'Message': 'dumbass chancew', 'Slot': 0}
+16:56:04: {'Type': 205, 'Message': 'LMAO', 'Slot': 0}
+16:56:05: {'Type': 205, 'Message': 'andrew press 1<sprite name="emoji_hammer">', 'Slot': 3}
+16:56:10: {'Type': 205, 'Message': '1 - 7', 'Slot': 3}
+16:56:13: {'Type': 205, 'Message': 'there should be a peace sign nex to the text bar click it', 'Slot': 2}
+16:56:15: {'Type': 205, 'Message': 'goddam hammer emote', 'Slot': 3}
+16:56:22: {'Type': 304, 'Proposer': 3, 'SelectedTeam': [2, 3, 4], 'Passed': False}
+16:56:26: {'Type': 205, 'Message': 'ok cool prop this', 'Slot': 0}
+16:56:27: {'Type': 205, 'Message': '<sprite name="emoji_smile">', 'Slot': 0}
+16:56:29: {'Type': 307, 'VotesFor': [4, 3, 1, 2, 0], 'VotesAgainst': [], 'Passed': True}
+16:56:33: {'Type': 205, 'Message': 'gg', 'Slot': 3}
+16:56:33: {'Type': 205, 'Message': 'enjoy', 'Slot': 0}
+16:56:35: {'Type': 311, 'Mission': 4, 'Failed': True, 'NumHacks': 1, 'Proposer': 3}
+16:56:41: {'Type': 205, 'Message': '<sprite name="emoji_smile">', 'Slot': 0}
+16:56:44: {'Type': 205, 'Message': 'what', 'Slot': 2}
+16:56:45: {'Type': 205, 'Message': 'good job zore', 'Slot': 0}
+16:56:47: {'Type': 205, 'Message': 'zoe*', 'Slot': 0}
+16:56:49: {'Type': 205, 'Message': 'chance zoe', 'Slot': 4}
+16:56:49: {'Type': 205, 'Message': "you're so smart", 'Slot': 0}
+16:56:54: {'Type': 205, 'Message': 'you guys let it go through last time', 'Slot': 4}
+16:57:00: {'Type': 205, 'Message': 'bro what', 'Slot': 2}
+16:57:07: {'Type': 205, 'Message': 'its one of oyu', 'Slot': 4}
+16:57:09: {'Type': 205, 'Message': 'obv', 'Slot': 4}
+16:57:13: {'Type': 205, 'Message': 'andrew if u and shirley are the hackers', 'Slot': 0}
+16:57:14: {'Type': 205, 'Message': 'fast to point fingers', 'Slot': 2}
+16:57:16: {'Type': 205, 'Message': 'ill let you win', 'Slot': 0}
+16:57:17: {'Type': 205, 'Message': 'is it', 'Slot': 2}
+16:57:19: {'Type': 205, 'Message': 'dont get defensive now chance', 'Slot': 4}
+16:57:27: {'Type': 205, 'Message': 'to make these "lvl 30s" lose', 'Slot': 0}
+16:57:30: {'Type': 205, 'Message': 'their w/l ratio', 'Slot': 0}
+16:57:32: {'Type': 205, 'Message': 'naw bro you hella aggressive ', 'Slot': 2}
+16:57:35: {'Type': 205, 'Message': 'interemesting', 'Slot': 2}
+16:57:35: {'Type': 205, 'Message': '<sprite name="emoji_time">', 'Slot': 4}
+16:57:39: {'Type': 205, 'Message': 'mhmmm', 'Slot': 4}
+16:57:39: {'Type': 205, 'Message': 'you me and shirley', 'Slot': 0}
+16:57:43: {'Type': 205, 'Message': 'if you both hackers', 'Slot': 0}
+16:57:48: {'Type': 205, 'Message': 'or the one who hasnt said anything', 'Slot': 4}
+16:57:56: {'Type': 205, 'Message': 'tobias wrent you the one making fun of people for takign the game seriously, and now youre flexing about hurting peoples w/l', 'Slot': 3}
+16:57:57: {'Type': 205, 'Message': 'shirley prolly 9 years old', 'Slot': 2}
+16:57:59: {'Type': 205, 'Message': 'yeah honestly zoe and chance are sus', 'Slot': 4}
+16:58:06: {'Type': 205, 'Message': 'i agree', 'Slot': 0}
+16:58:11: {'Type': 205, 'Message': 'but so are you tobias', 'Slot': 4}
+16:58:11: {'Type': 205, 'Message': 'talkin out your /%?', 'Slot': 2}
+16:58:16: {'Type': 205, 'Message': '15 :/', 'Slot': 1}
+16:58:19: {'Type': 205, 'Message': 'theres no vote history to go off of because throwing', 'Slot': 3}
+16:58:19: {'Type': 205, 'Message': 'just prop it and acc if ur hacker', 'Slot': 0}
+16:58:21: {'Type': 205, 'Message': 'with shirley', 'Slot': 0}
+16:58:24: {'Type': 205, 'Message': 'shirley u are alive', 'Slot': 2}
+16:58:27: {'Type': 205, 'Message': 'ill let u win', 'Slot': 0}
+16:58:28: {'Type': 205, 'Message': 'prop?', 'Slot': 4}
+16:58:28: {'Type': 205, 'Message': 'whats goin on bro', 'Slot': 2}
+16:58:30: {'Type': 205, 'Message': 'lol', 'Slot': 0}
+16:58:33: {'Type': 205, 'Message': 'yeah', 'Slot': 0}
+16:58:34: {'Type': 304, 'Proposer': 4, 'SelectedTeam': [0, 1, 4], 'Passed': False}
+16:58:34: {'Type': 205, 'Message': 'nothing', 'Slot': 1}
+16:58:37: {'Type': 307, 'VotesFor': [4, 0, 1], 'VotesAgainst': [2, 3], 'Passed': True}
+16:58:40: {'Type': 205, 'Message': 'LOL', 'Slot': 4}
+16:58:43: {'Type': 205, 'Message': 'gg', 'Slot': 2}
+16:58:45: {'Type': 311, 'Mission': 5, 'Failed': True, 'NumHacks': 1, 'Proposer': 4}
+16:58:52: {'Type': 205, 'Message': '#%@& shirley', 'Slot': 4}
+16:58:56: {'Type': 205, 'Message': 'gg', 'Slot': 4}
+16:59:00: {'Type': 205, 'Message': 'well i at least got one lvl 30 an L', 'Slot': 0}
+16:59:01: {'Type': 205, 'Message': 'tobias wtf', 'Slot': 3}
+16:59:02: {'Type': 205, 'Message': 'this game is fun', 'Slot': 4}
+16:59:09: {'Type': 205, 'Message': 'LOL', 'Slot': 0}
+16:59:11: {'Type': 205, 'Message': 'how', 'Slot': 3}
+16:59:21: {'Type': 205, 'Message': 'tobias is just bad', 'Slot': 2}
+16:59:24: {'Type': 205, 'Message': 'no like', 'Slot': 3}
+16:59:25: {'Type': 205, 'Message': 'im good', 'Slot': 0}
+16:59:28: {'Type': 205, 'Message': 'he doesnt have a profile', 'Slot': 3}
+16:59:31: {'Type': 205, 'Message': 'he cant be reported', 'Slot': 3}
+16:59:31: {'Type': 205, 'Message': 'im good that you cant report me', 'Slot': 0}
+16:59:36: {'Type': 205, 'Message': 'kappa', 'Slot': 0}
+16:59:43: {'Type': 205, 'Message': 'who cares', 'Slot': 2}
+16:59:45: {'Type': 205, 'Message': 'i assume you laucnhed the game without passing in a steam id variable', 'Slot': 3}
+16:59:47: {'Type': 205, 'Message': 'you dont loser', 'Slot': 0}
+16:59:49: {'Type': 205, 'Message': 'kekw', 'Slot': 0}
+16:59:56: {'Type': 205, 'Message': 'only care about yourself', 'Slot': 0}
+17:00:02: {'Type': 205, 'Message': 'ill report u 2 now <sprite name="emoji_cute">', 'Slot': 0}
+17:00:05: {'Type': 205, 'Message': 'omg bro hes so cool he doesnt have a profile', 'Slot': 2}
+17:00:06: {'Type': 205, 'Message': '&*©$ you taking out your issues on people in a game', 'Slot': 4}
+17:00:12: {'Type': 205, 'Message': 'na', 'Slot': 0}
+17:00:13: {'Type': 205, 'Message': 'that;s tough man', 'Slot': 4}
+17:00:16: {'Type': 205, 'Message': 'eh whatever gg', 'Slot': 3}
+17:00:16: {'Type': 205, 'Message': 'gl', 'Slot': 4}
+17:00:17: {'Type': 205, 'Message': 'fix ur username', 'Slot': 0}
+17:00:18: {'Type': 205, 'Message': 'gg', 'Slot': 4}
+17:00:20: {'Type': 205, 'Message': 'chance well played', 'Slot': 3}
+17:00:20: {'Type': 205, 'Message': 'its an email', 'Slot': 0}
+17:00:20: {'Type': 205, 'Message': 'nah', 'Slot': 4}
+17:00:22: {'Type': 205, 'Message': 'yeah ik', 'Slot': 4}
+17:00:23: {'Type': 205, 'Message': 'email me', 'Slot': 4}
+17:00:25: {'Type': 205, 'Message': 'please', 'Slot': 4}
+17:00:25: {'Type': 205, 'Message': 'bad username', 'Slot': 0}
+17:00:27: {'Type': 205, 'Message': 'loser', 'Slot': 0}
+17:00:27: {'Type': 205, 'Message': 'thanks u 2 zoe', 'Slot': 2}
+17:00:28: {'Type': 205, 'Message': 'kekw', 'Slot': 0}
+17:00:28: {'Type': 205, 'Message': 'incorrect', 'Slot': 4}
+17:00:29: {'Type': 205, 'Message': 'gg', 'Slot': 2}
+17:00:31: {'Type': 205, 'Message': 'ggs', 'Slot': 4}
+17:01:18: {'Type': 205, 'Message': 'welp 6 man gg', 'Slot': 2}
+17:01:21: {'Type': 205, 'Message': '?', 'Slot': 0}
+17:01:24: {'Type': 205, 'Message': 'oh la la', 'Slot': 3}
+17:01:34: {'Type': 205, 'Message': 'how you guys doin', 'Slot': 3}
+17:01:44: {'Type': 304, 'Proposer': 0, 'SelectedTeam': [0, 1], 'Passed': False}
+17:01:47: {'Type': 307, 'VotesFor': [0, 3, 2, 4, 5, 1], 'VotesAgainst': [], 'Passed': True}
+17:01:49: {'Type': 205, 'Message': 'alive', 'Slot': 2}
+17:01:54: {'Type': 311, 'Mission': 1, 'Failed': False, 'NumHacks': 0, 'Proposer': 0}
+17:02:11: {'Type': 205, 'Message': '6 man shouldnt exist change my mind', 'Slot': 2}
+17:02:17: {'Type': 205, 'Message': 'no', 'Slot': 0}
+17:02:46: {'Type': 205, 'Message': 'ok', 'Slot': 3}
+17:02:55: {'Type': 304, 'Proposer': 1, 'SelectedTeam': [1, 2, 5], 'Passed': False}
+17:03:04: {'Type': 307, 'VotesFor': [2, 5, 1, 3], 'VotesAgainst': [0, 4], 'Passed': True}
+17:03:14: {'Type': 311, 'Mission': 2, 'Failed': False, 'NumHacks': 0, 'Proposer': 1}
+17:03:24: {'Type': 205, 'Message': 'lucky guess braetonix', 'Slot': 2}
+17:03:41: {'Type': 205, 'Message': 'shirley let the first node through to drop sus on him', 'Slot': 3}
+17:03:41: {'Type': 205, 'Message': 'or hackers are playin the long game but i dont think so', 'Slot': 0}
+17:04:08: {'Type': 205, 'Message': 'h. im more sus of braetonix', 'Slot': 4}
+17:04:11: {'Type': 205, 'Message': 'and then voted no cause braetonix got lucky i assume', 'Slot': 3}
+17:04:14: {'Type': 205, 'Message': 'why?', 'Slot': 0}
+17:04:21: {'Type': 205, 'Message': 'either its clean or one hacker is in and joel is a hacker and acc out of node hoping the other would hack', 'Slot': 2}
+17:04:26: {'Type': 205, 'Message': 'why sus of brae?', 'Slot': 0}
+17:04:31: {'Type': 205, 'Message': 'so joel, why did you acc out of node', 'Slot': 2}
+17:04:43: {'Type': 205, 'Message': 'its already at 2', 'Slot': 3}
+17:04:49: {'Type': 205, 'Message': 'put me in and see then you can figure it out', 'Slot': 3}
+17:04:56: {'Type': 205, 'Message': 'simple really', 'Slot': 3}
+17:04:56: {'Type': 304, 'Proposer': 2, 'SelectedTeam': [0, 1, 2, 5], 'Passed': False}
+17:05:03: {'Type': 205, 'Message': 'shirely gonna ruin', 'Slot': 3}
+17:05:04: {'Type': 307, 'VotesFor': [5, 1, 4, 2, 0], 'VotesAgainst': [3], 'Passed': True}
+17:05:07: {'Type': 205, 'Message': 'rip', 'Slot': 3}
+17:05:09: {'Type': 205, 'Message': 'gg', 'Slot': 2}
+17:05:09: {'Type': 205, 'Message': 'hacked', 'Slot': 3}
+17:05:14: {'Type': 311, 'Mission': 3, 'Failed': True, 'NumHacks': 1, 'Proposer': 2}
+17:05:19: {'Type': 205, 'Message': 'bruh', 'Slot': 0}
+17:05:21: {'Type': 205, 'Message': 'oof', 'Slot': 4}
+17:05:21: {'Type': 205, 'Message': 'wooooaaaah omg no wayyy', 'Slot': 3}
+17:05:22: {'Type': 205, 'Message': 'aight shirley is hacker ', 'Slot': 2}
+17:05:27: {'Type': 205, 'Message': 'should of denied', 'Slot': 4}
+17:05:28: {'Type': 205, 'Message': 'YEP', 'Slot': 3}
+17:05:42: {'Type': 205, 'Message': 'its ok this is a 3 man now well just do n2 again lul', 'Slot': 2}
+17:05:44: {'Type': 205, 'Message': 'aight imma take me braetonix cameron mook', 'Slot': 3}
+17:05:54: {'Type': 205, 'Message': 'oh three people?', 'Slot': 3}
+17:05:55: {'Type': 205, 'Message': 'this is why 6 man is broken', 'Slot': 2}
+17:06:00: {'Type': 205, 'Message': 'why no take yourself?', 'Slot': 4}
+17:06:06: {'Type': 205, 'Message': 'i said me', 'Slot': 3}
+17:06:12: {'Type': 205, 'Message': 'but its 3 man so idk', 'Slot': 3}
+17:06:17: {'Type': 205, 'Message': 'if i trust mook', 'Slot': 3}
+17:06:20: {'Type': 205, 'Message': 'its joel / shirley', 'Slot': 2}
+17:06:24: {'Type': 205, 'Message': '<sprite name="emoji_thinking">', 'Slot': 0}
+17:06:25: {'Type': 205, 'Message': 'gabby shirley', 'Slot': 3}
+17:06:30: {'Type': 205, 'Message': 'you gotta trust me on this', 'Slot': 3}
+17:06:33: {'Type': 205, 'Message': 'well it doesnt  matter because its 3 man', 'Slot': 2}
+17:06:34: {'Type': 205, 'Message': 'why', 'Slot': 4}
+17:06:35: {'Type': 205, 'Message': 'sources: dude turst me', 'Slot': 3}
+17:06:35: {'Type': 205, 'Message': 'so stf', 'Slot': 2}
+17:06:37: {'Type': 205, 'Message': 'stfu', 'Slot': 2}
+17:06:41: {'Type': 304, 'Proposer': 3, 'SelectedTeam': [1, 2, 3], 'Passed': False}
+17:06:44: {'Type': 205, 'Message': 'cant argue w that', 'Slot': 4}
+17:06:46: {'Type': 205, 'Message': "just pass lol, we're not acc you", 'Slot': 2}
+17:06:51: {'Type': 205, 'Message': "we're doing n2 again", 'Slot': 2}
+17:07:06: {'Type': 205, 'Message': 'maaybe its joel tho', 'Slot': 4}
+17:07:08: {'Type': 307, 'VotesFor': [3, 5], 'VotesAgainst': [2, 0, 1, 4], 'Passed': False}
+17:07:11: {'Type': 205, 'Message': 'omg', 'Slot': 2}
+17:07:12: {'Type': 205, 'Message': '????', 'Slot': 3}
+17:07:14: {'Type': 205, 'Message': 'it doesnt matter', 'Slot': 2}
+17:07:18: {'Type': 205, 'Message': 'do n2 again', 'Slot': 2}
+17:07:20: {'Type': 205, 'Message': 'are  you dumb', 'Slot': 2}
+17:07:21: {'Type': 205, 'Message': 'fine ill put braetonix cameron mook', 'Slot': 3}
+17:07:27: {'Type': 304, 'Proposer': 4, 'SelectedTeam': [2, 4, 5], 'Passed': False}
+17:07:33: {'Type': 307, 'VotesFor': [5, 4, 0], 'VotesAgainst': [3, 2, 1], 'Passed': False}
+17:07:45: {'Type': 304, 'Proposer': 5, 'SelectedTeam': [3, 4, 5], 'Passed': False}
+17:07:48: {'Type': 205, 'Message': 'mook what the *%©°', 'Slot': 2}
+17:07:49: {'Type': 205, 'Message': 'no', 'Slot': 3}
+17:07:50: {'Type': 205, 'Message': 'are you high', 'Slot': 2}
+17:07:51: {'Type': 307, 'VotesFor': [0, 5], 'VotesAgainst': [3, 4, 1, 2], 'Passed': False}
+17:07:58: {'Type': 205, 'Message': 'ofc shirley', 'Slot': 3}
+17:08:02: {'Type': 304, 'Proposer': 0, 'SelectedTeam': [0, 1, 2], 'Passed': False}
+17:08:09: {'Type': 307, 'VotesFor': [0, 4, 5, 1], 'VotesAgainst': [3, 2], 'Passed': True}
+17:08:13: {'Type': 205, 'Message': 'what the &$*©', 'Slot': 2}
+17:08:14: {'Type': 205, 'Message': 'how', 'Slot': 2}
+17:08:17: {'Type': 311, 'Mission': 4, 'Failed': True, 'NumHacks': 1, 'Proposer': 0}
+17:08:25: {'Type': 205, 'Message': 'are you retarded mook', 'Slot': 2}
+17:08:37: {'Type': 205, 'Message': 'why the @#&° acc', 'Slot': 2}
+17:08:46: {'Type': 205, 'Message': 'it could be braetonix tho', 'Slot': 4}
+17:08:49: {'Type': 205, 'Message': 'omg', 'Slot': 2}
+17:08:52: {'Type': 205, 'Message': 'n2 was sec', 'Slot': 2}
+17:08:58: {'Type': 205, 'Message': 'shirley and braetonix have always been together', 'Slot': 4}
+17:09:03: {'Type': 205, 'Message': 'its shirley', 'Slot': 3}
+17:09:08: {'Type': 205, 'Message': 'i swear to god, if we n2 people gets hacked, mook its your fault we lose the game', 'Slot': 2}
+17:09:09: {'Type': 205, 'Message': 'and you taken sus off you gabby', 'Slot': 3}
+17:09:14: {'Type': 205, 'Message': 'but it is brob shirley', 'Slot': 4}
+17:09:21: {'Type': 205, 'Message': 'what does n2 mean', 'Slot': 3}
+17:09:24: {'Type': 205, 'Message': 'node 2', 'Slot': 2}
+17:09:28: {'Type': 205, 'Message': 'node 2', 'Slot': 0}
+17:09:28: {'Type': 205, 'Message': "we're propping the people in node 2", 'Slot': 2}
+17:09:29: {'Type': 205, 'Message': 'node 2', 'Slot': 0}
+17:09:36: {'Type': 205, 'Message': 'cameron braetonix mook', 'Slot': 2}
+17:09:46: {'Type': 205, 'Message': 'i dont like mook but ill yes', 'Slot': 3}
+17:09:48: {'Type': 205, 'Message': 'please pass', 'Slot': 2}
+17:09:49: {'Type': 205, 'Message': 'cauise not gabby and shirley', 'Slot': 3}
+17:10:03: {'Type': 205, 'Message': 'put mook in', 'Slot': 2}
+17:10:06: {'Type': 205, 'Message': 'jesus chrsit', 'Slot': 2}
+17:10:06: {'Type': 205, 'Message': 'mook and me', 'Slot': 3}
+17:10:09: {'Type': 304, 'Proposer': 1, 'SelectedTeam': [1, 2, 3, 5], 'Passed': False}
+17:10:12: {'Type': 205, 'Message': 'mook youre literally thowing if we lose this', 'Slot': 2}
+17:10:15: {'Type': 307, 'VotesFor': [3, 1, 2, 5], 'VotesAgainst': [0, 4], 'Passed': True}
+17:10:16: {'Type': 205, 'Message': 'shirley and gabby will not reject', 'Slot': 3}
+17:10:18: {'Type': 205, 'Message': 'YUP', 'Slot': 3}
+17:10:19: {'Type': 205, 'Message': 'gg', 'Slot': 3}
+17:10:19: {'Type': 205, 'Message': 'oof', 'Slot': 0}
+17:10:20: {'Type': 205, 'Message': 'f', 'Slot': 4}
+17:10:24: {'Type': 311, 'Mission': 5, 'Failed': False, 'NumHacks': 0, 'Proposer': 1}
+17:10:30: {'Type': 205, 'Message': 'EZ', 'Slot': 3}
+17:10:32: {'Type': 205, 'Message': 'GGs', 'Slot': 3}
+17:10:33: {'Type': 205, 'Message': 'cant believe we got n4', 'Slot': 0}
+17:10:37: {'Type': 205, 'Message': 'what did i say baby', 'Slot': 3}
+17:10:37: {'Type': 205, 'Message': 'ggs', 'Slot': 4}
+17:10:39: {'Type': 205, 'Message': 'shirley ikr', 'Slot': 2}
+17:10:42: {'Type': 205, 'Message': 'mook is a dumbass', 'Slot': 2}
+17:10:57: {'Type': 205, 'Message': 'gg guys that was fun af', 'Slot': 3}
+17:11:00: {'Type': 205, 'Message': 'reported for attempted throwing', 'Slot': 2}
+17:11:01: {'Type': 205, 'Message': 'gg', 'Slot': 0}
+17:11:01: {'Type': 205, 'Message': 'anyway', 'Slot': 2}
+17:11:02: {'Type': 205, 'Message': 'gg', 'Slot': 4}
+17:11:02: {'Type': 205, 'Message': 'gg', 'Slot': 2}
+17:55:46: {'Type': 205, 'Message': 'hey everyone', 'Slot': 4}
+17:55:54: {'Type': 205, 'Message': 'well now I want to leave becuase I am agent', 'Slot': 1}
+17:55:57: {'Type': 205, 'Message': 'hi there', 'Slot': 2}
+17:55:58: {'Type': 205, 'Message': 'CAP', 'Slot': 0}
+17:56:01: {'Type': 205, 'Message': 'cap', 'Slot': 4}
+17:56:11: {'Type': 304, 'Proposer': 0, 'SelectedTeam': [0, 4], 'Passed': False}
+17:56:13: {'Type': 205, 'Message': 'marcel situ', 'Slot': 3}
+17:56:34: {'Type': 307, 'VotesFor': [0, 4, 1, 3], 'VotesAgainst': [2], 'Passed': True}
+17:56:39: {'Type': 205, 'Message': 'i perfer being agent lmao', 'Slot': 4}
+17:56:44: {'Type': 311, 'Mission': 1, 'Failed': False, 'NumHacks': 0, 'Proposer': 0}
+17:56:55: {'Type': 205, 'Message': 'i like you berty', 'Slot': 0}
+17:57:06: {'Type': 205, 'Message': 'can we speed this up?', 'Slot': 1}
+17:57:10: {'Type': 205, 'Message': 'i mean ', 'Slot': 1}
+17:57:12: {'Type': 205, 'Message': 'wdym', 'Slot': 0}
+17:57:12: {'Type': 205, 'Message': 'really', 'Slot': 1}
+17:57:16: {'Type': 205, 'Message': 'there is a skip button', 'Slot': 0}
+17:57:16: {'Type': 205, 'Message': 'i could have just bluffed lmao', 'Slot': 4}
+17:57:19: {'Type': 205, 'Message': 'what does it do', 'Slot': 0}
+17:57:24: {'Type': 205, 'Message': 'you didnt', 'Slot': 1}
+17:57:35: {'Type': 205, 'Message': 'me and situ are on on the same wave lenght', 'Slot': 1}
+17:57:40: {'Type': 304, 'Proposer': 1, 'SelectedTeam': [0, 2, 4], 'Passed': False}
+17:57:51: {'Type': 205, 'Message': 'n1+1?', 'Slot': 4}
+17:57:57: {'Type': 205, 'Message': 'what does that mean', 'Slot': 0}
+17:58:02: {'Type': 205, 'Message': "we're hackers", 'Slot': 3}
+17:58:04: {'Type': 205, 'Message': 'take a guess', 'Slot': 1}
+17:58:06: {'Type': 205, 'Message': 'acc this', 'Slot': 3}
+17:58:22: {'Type': 205, 'Message': 'brittany', 'Slot': 0}
+17:58:27: {'Type': 307, 'VotesFor': [1, 0, 3, 2], 'VotesAgainst': [4], 'Passed': True}
+17:58:30: {'Type': 205, 'Message': 'node ', 'Slot': 4}
+17:58:38: {'Type': 311, 'Mission': 2, 'Failed': False, 'NumHacks': 0, 'Proposer': 1}
+17:58:43: {'Type': 205, 'Message': 'gg lmao', 'Slot': 2}
+17:58:44: {'Type': 205, 'Message': 'oh.', 'Slot': 4}
+17:58:45: {'Type': 205, 'Message': 'ah', 'Slot': 0}
+17:58:48: {'Type': 205, 'Message': 'gg', 'Slot': 3}
+17:58:51: {'Type': 205, 'Message': 'like really not in the mode for lieing', 'Slot': 1}
+17:59:01: {'Type': 205, 'Message': 'epic report for marcel', 'Slot': 3}
+17:59:02: {'Type': 205, 'Message': 'lmao', 'Slot': 3}
+17:59:04: {'Type': 205, 'Message': 'uhhhh ok', 'Slot': 0}
+17:59:21: {'Type': 205, 'Message': 'watch this one get hacked', 'Slot': 4}
+17:59:26: {'Type': 205, 'Message': 'situ you said our names out loud then proceeded to acc node 1', 'Slot': 1}
+17:59:34: {'Type': 205, 'Message': 'doesnt mean anything', 'Slot': 3}
+17:59:38: {'Type': 205, 'Message': '.......', 'Slot': 1}
+17:59:41: {'Type': 205, 'Message': 'marcel just said youre on the same wavelength', 'Slot': 2}
+17:59:45: {'Type': 205, 'Message': 'thats not incriminating ', 'Slot': 2}
+17:59:56: {'Type': 304, 'Proposer': 2, 'SelectedTeam': [0, 2], 'Passed': False}
+18:00:03: {'Type': 205, 'Message': 'gg', 'Slot': 0}
+18:00:05: {'Type': 205, 'Message': 'gg', 'Slot': 3}
+18:00:06: {'Type': 205, 'Message': 'like you even acced node 2', 'Slot': 1}
+18:00:08: {'Type': 205, 'Message': 'report marcel', 'Slot': 3}
+18:00:11: {'Type': 205, 'Message': 'you did too', 'Slot': 3}
+18:00:15: {'Type': 205, 'Message': 'you proped it out of node', 'Slot': 3}
+18:00:16: {'Type': 307, 'VotesFor': [3, 0, 4, 1, 2], 'VotesAgainst': [], 'Passed': True}
+18:00:17: {'Type': 205, 'Message': 'yall just chill', 'Slot': 4}
+18:00:28: {'Type': 311, 'Mission': 3, 'Failed': False, 'NumHacks': 0, 'Proposer': 2}
+18:00:32: {'Type': 205, 'Message': 'gg', 'Slot': 2}
+18:00:34: {'Type': 205, 'Message': 'gg', 'Slot': 4}
+18:00:35: {'Type': 205, 'Message': 'nice', 'Slot': 0}
+18:00:35: {'Type': 205, 'Message': 'hahaha', 'Slot': 3}
+18:00:37: {'Type': 205, 'Message': 'gillnite', 'Slot': 3}
+18:00:46: {'Type': 205, 'Message': 'terry is that your email lmaooo', 'Slot': 4}
+18:00:47: {'Type': 205, 'Message': 'oh its the no account person', 'Slot': 2}
+18:00:50: {'Type': 205, 'Message': 'email me', 'Slot': 0}
+18:00:53: {'Type': 205, 'Message': ';)', 'Slot': 0}
+18:00:53: {'Type': 205, 'Message': 'well  fudge me ', 'Slot': 1}
+18:00:56: {'Type': 205, 'Message': 'lol', 'Slot': 1}
+18:00:58: {'Type': 205, 'Message': 'marcel why', 'Slot': 0}
+18:00:59: {'Type': 205, 'Message': 'imagine unironically using aol', 'Slot': 2}
+18:01:00: {'Type': 205, 'Message': 'idk who you are', 'Slot': 1}
+18:01:02: {'Type': 205, 'Message': 'what a nerd', 'Slot': 2}
+18:01:03: {'Type': 205, 'Message': 'marcel why throw', 'Slot': 3}
+18:01:05: {'Type': 205, 'Message': 'just dont play and you wont get reported', 'Slot': 0}
+18:01:12: {'Type': 205, 'Message': 'LMAO SONNY', 'Slot': 2}
+18:01:19: {'Type': 205, 'Message': 'report marcel', 'Slot': 3}
+18:01:25: {'Type': 205, 'Message': 'eeeeee', 'Slot': 1}
+18:01:26: {'Type': 205, 'Message': 'she didnt throw lol', 'Slot': 2}
+18:01:29: {'Type': 205, 'Message': 'she did', 'Slot': 3}
+18:01:30: {'Type': 205, 'Message': 'lol', 'Slot': 3}
+18:01:39: {'Type': 205, 'Message': 'alright', 'Slot': 2}
+18:06:48: {'Type': 205, 'Message': 'hola', 'Slot': 0}
+18:06:55: {'Type': 205, 'Message': 'hola seniora', 'Slot': 4}
+18:06:59: {'Type': 205, 'Message': 'hi', 'Slot': 2}
+18:07:04: {'Type': 205, 'Message': 'yo', 'Slot': 1}
+18:07:10: {'Type': 205, 'Message': 'que onda putito que tranza por la cancha?', 'Slot': 0}
+18:07:16: {'Type': 205, 'Message': 'que?', 'Slot': 1}
+18:07:19: {'Type': 304, 'Proposer': 0, 'SelectedTeam': [0, 4], 'Passed': False}
+18:07:23: {'Type': 205, 'Message': 'no me gusta la comida de china', 'Slot': 1}
+18:07:34: {'Type': 205, 'Message': 'can you actually speak english now?', 'Slot': 4}
+18:07:36: {'Type': 205, 'Message': 'xdddd', 'Slot': 0}
+18:07:42: {'Type': 205, 'Message': 'yes, i can', 'Slot': 0}
+18:07:48: {'Type': 205, 'Message': 'morty, solo habla ingles en mindnight', 'Slot': 2}
+18:07:49: {'Type': 205, 'Message': 'oh ok', 'Slot': 2}
+18:07:52: {'Type': 307, 'VotesFor': [0, 3, 1], 'VotesAgainst': [4, 2], 'Passed': True}
+18:08:01: {'Type': 311, 'Mission': 1, 'Failed': False, 'NumHacks': 0, 'Proposer': 0}
+18:08:26: {'Type': 205, 'Message': 'Hanna, ur spanish or got on google translate? xD', 'Slot': 4}
+18:08:29: {'Type': 205, 'Message': 'yeah, but i wanna say hola, to identified myself', 'Slot': 0}
+18:08:34: {'Type': 205, 'Message': 'im mexican <sprite name="emoji_big_smile">', 'Slot': 0}
+18:08:41: {'Type': 205, 'Message': 'ah hola mi amigo', 'Slot': 1}
+18:08:45: {'Type': 205, 'Message': 'i took high school spanish B)', 'Slot': 2}
+18:08:45: {'Type': 205, 'Message': '<3', 'Slot': 0}
+18:08:51: {'Type': 205, 'Message': 'thats nice', 'Slot': 0}
+18:08:52: {'Type': 205, 'Message': 'also my family speaks it', 'Slot': 2}
+18:08:53: {'Type': 205, 'Message': 'lmao', 'Slot': 2}
+18:08:53: {'Type': 205, 'Message': 'Cool, i actually like tacos <3', 'Slot': 4}
+18:08:54: {'Type': 205, 'Message': 'same', 'Slot': 1}
+18:08:57: {'Type': 205, 'Message': 'LMAO', 'Slot': 2}
+18:08:59: {'Type': 205, 'Message': 'LOL', 'Slot': 1}
+18:09:04: {'Type': 205, 'Message': 'the tacos from tacos bell arent real', 'Slot': 0}
+18:09:05: {'Type': 304, 'Proposer': 1, 'SelectedTeam': [0, 1, 2], 'Passed': False}
+18:09:07: {'Type': 205, 'Message': 'i speak tacos', 'Slot': 2}
+18:09:10: {'Type': 205, 'Message': 'oh', 'Slot': 1}
+18:09:14: {'Type': 205, 'Message': 'Nacho also good', 'Slot': 4}
+18:09:14: {'Type': 205, 'Message': 'they arnt?', 'Slot': 1}
+18:09:18: {'Type': 205, 'Message': 'they are so fckin good', 'Slot': 1}
+18:09:19: {'Type': 205, 'Message': 'Chips with cheese are indeed amazing', 'Slot': 4}
+18:09:21: {'Type': 205, 'Message': 'morty agreed but that doesnt mean theyre fuckign amazing', 'Slot': 2}
+18:09:21: {'Type': 307, 'VotesFor': [1, 2], 'VotesAgainst': [3, 0, 4], 'Passed': False}
+18:09:26: {'Type': 205, 'Message': 'are we hammering?', 'Slot': 0}
+18:09:31: {'Type': 205, 'Message': 'what does hammering mean', 'Slot': 1}
+18:09:32: {'Type': 205, 'Message': "no but we're propping to hammer", 'Slot': 2}
+18:09:32: {'Type': 205, 'Message': 'True xd', 'Slot': 0}
+18:09:36: {'Type': 205, 'Message': 'im a little new sorry', 'Slot': 1}
+18:09:38: {'Type': 205, 'Message': 'smooth', 'Slot': 2}
+18:09:42: {'Type': 205, 'Message': 'Hammering means getting in without luble', 'Slot': 4}
+18:09:49: {'Type': 205, 'Message': ':0', 'Slot': 1}
+18:09:53: {'Type': 205, 'Message': 'what', 'Slot': 0}
+18:09:55: {'Type': 205, 'Message': 'stfu evan i already made that joke', 'Slot': 2}
+18:09:58: {'Type': 205, 'Message': 'LMAO', 'Slot': 1}
+18:09:58: {'Type': 205, 'Message': 'or the "4/5" node team rejected', 'Slot': 4}
+18:09:59: {'Type': 304, 'Proposer': 2, 'SelectedTeam': [1, 2, 4], 'Passed': False}
+18:10:10: {'Type': 205, 'Message': 'Heck off hanna <3', 'Slot': 4}
+18:10:15: {'Type': 307, 'VotesFor': [2, 1], 'VotesAgainst': [3, 0, 4], 'Passed': False}
+18:10:18: {'Type': 205, 'Message': 'acc or clown', 'Slot': 2}
+18:10:21: {'Type': 205, 'Message': 'evan', 'Slot': 2}
+18:10:23: {'Type': 205, 'Message': 'what a clown', 'Slot': 2}
+18:10:24: {'Type': 205, 'Message': 'honk honk', 'Slot': 1}
+18:10:25: {'Type': 205, 'Message': 'why did hanna and cassy acc that???', 'Slot': 0}
+18:10:28: {'Type': 304, 'Proposer': 3, 'SelectedTeam': [2, 3, 4], 'Passed': False}
+18:10:30: {'Type': 205, 'Message': 'NIAH', 'Slot': 4}
+18:10:33: {'Type': 205, 'Message': 'cos we were in it ', 'Slot': 2}
+18:10:34: {'Type': 205, 'Message': 'lol', 'Slot': 2}
+18:10:35: {'Type': 205, 'Message': 'can we just go', 'Slot': 1}
+18:10:37: {'Type': 307, 'VotesFor': [1, 2], 'VotesAgainst': [3, 0, 4], 'Passed': False}
+18:10:38: {'Type': 205, 'Message': 'no', 'Slot': 2}
+18:10:46: {'Type': 205, 'Message': 'i havent rejected anything yet cause its only the second', 'Slot': 1}
+18:10:47: {'Type': 205, 'Message': 'Cassy is a name for a hooker', 'Slot': 4}
+18:10:50: {'Type': 205, 'Message': 'why did cassy acc if he wasant on it', 'Slot': 0}
+18:10:50: {'Type': 205, 'Message': 'it doesn matter right', 'Slot': 1}
+18:10:58: {'Type': 205, 'Message': '?', 'Slot': 0}
+18:11:00: {'Type': 205, 'Message': 'i accept everything', 'Slot': 1}
+18:11:02: {'Type': 205, 'Message': 'cassy if youre a girl why do you have a male avatar', 'Slot': 2}
+18:11:02: {'Type': 304, 'Proposer': 4, 'SelectedTeam': [0, 2, 4], 'Passed': False}
+18:11:04: {'Type': 205, 'Message': 'shut up reverse trap', 'Slot': 2}
+18:11:08: {'Type': 307, 'VotesFor': [1, 4, 2], 'VotesAgainst': [0, 3], 'Passed': True}
+18:11:11: {'Type': 205, 'Message': 'jk', 'Slot': 2}
+18:11:12: {'Type': 205, 'Message': '<sprite name="emoji_heart">', 'Slot': 2}
+18:11:13: {'Type': 205, 'Message': 'what', 'Slot': 0}
+18:11:17: {'Type': 311, 'Mission': 2, 'Failed': True, 'NumHacks': 1, 'Proposer': 4}
+18:11:24: {'Type': 205, 'Message': 'its a ponytail', 'Slot': 1}
+18:11:27: {'Type': 205, 'Message': 'welp', 'Slot': 2}
+18:11:31: {'Type': 205, 'Message': 'didnt notice the hammer', 'Slot': 0}
+18:11:33: {'Type': 205, 'Message': 'I mean, hanna imageing being gae and wanting to smash but the other guy is actually female kek', 'Slot': 4}
+18:11:33: {'Type': 205, 'Message': 'no its a manbun', 'Slot': 2}
+18:11:38: {'Type': 205, 'Message': 'reverse traps ', 'Slot': 4}
+18:11:42: {'Type': 205, 'Message': 'i cant use hammer emote', 'Slot': 1}
+18:11:46: {'Type': 205, 'Message': '<sprite name="emoji_hammer">', 'Slot': 2}
+18:11:49: {'Type': 205, 'Message': '<sprite name="emoji_hammer">', 'Slot': 4}
+18:11:49: {'Type': 205, 'Message': '^', 'Slot': 1}
+18:11:54: {'Type': 205, 'Message': 'thats like a 4000 emoji', 'Slot': 0}
+18:11:57: {'Type': 205, 'Message': 'get flexed on', 'Slot': 2}
+18:12:04: {'Type': 205, 'Message': 'Also n1 was a con', 'Slot': 4}
+18:12:06: {'Type': 205, 'Message': 'yea morty i hav e70 hours', 'Slot': 2}
+18:12:07: {'Type': 205, 'Message': 'major flex', 'Slot': 1}
+18:12:08: {'Type': 205, 'Message': 'so like', 'Slot': 2}
+18:12:09: {'Type': 205, 'Message': 'epz', 'Slot': 2}
+18:12:11: {'Type': 205, 'Message': 'Likely', 'Slot': 4}
+18:12:12: {'Type': 205, 'Message': 'nice', 'Slot': 0}
+18:12:15: {'Type': 205, 'Message': 'i have 1.2k', 'Slot': 1}
+18:12:17: {'Type': 205, 'Message': 'aka i have no life', 'Slot': 2}
+18:12:18: {'Type': 205, 'Message': 'u are going to trick anyone here', 'Slot': 0}
+18:12:21: {'Type': 205, 'Message': '1.2k milliseconds', 'Slot': 1}
+18:12:29: {'Type': 205, 'Message': 'haha cassy ur so funny stfu', 'Slot': 2}
+18:12:30: {'Type': 304, 'Proposer': 0, 'SelectedTeam': [0, 3], 'Passed': False}
+18:12:42: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [0, 2, 3, 4], 'Passed': False}
+18:12:45: {'Type': 205, 'Message': 'jkjk', 'Slot': 2}
+18:12:45: {'Type': 205, 'Message': 'stuf nerd hjajajajajajaja', 'Slot': 1}
+18:12:47: {'Type': 205, 'Message': 'so, im kinda sure that hanna and cassy are hackers', 'Slot': 0}
+18:12:48: {'Type': 205, 'Message': 'i love you all', 'Slot': 2}
+18:12:49: {'Type': 205, 'Message': 'cassy', 'Slot': 3}
+18:12:58: {'Type': 205, 'Message': 'I hate you all equaly <3', 'Slot': 4}
+18:12:58: {'Type': 205, 'Message': 'who do i pick', 'Slot': 1}
+18:13:06: {'Type': 205, 'Message': 'evan wanted to hammer me tho', 'Slot': 2}
+18:13:08: {'Type': 205, 'Message': ':O', 'Slot': 2}
+18:13:09: {'Type': 205, 'Message': 'tell me and i pick', 'Slot': 1}
+18:13:15: {'Type': 205, 'Message': 'cassy just pass smh', 'Slot': 2}
+18:13:18: {'Type': 304, 'Proposer': 1, 'SelectedTeam': [], 'Passed': True}
+18:13:18: {'Type': 205, 'Message': 'I want to hammer anything that moves owo', 'Slot': 4}
+18:13:19: {'Type': 205, 'Message': 'pick goku and freeze and fight', 'Slot': 0}
+18:13:20: {'Type': 205, 'Message': 'ty', 'Slot': 2}
+18:13:21: {'Type': 205, 'Message': 'lol', 'Slot': 3}
+18:13:23: {'Type': 205, 'Message': 'oh didnt know i could', 'Slot': 1}
+18:13:25: {'Type': 205, 'Message': 'dont give evan the virginhammer', 'Slot': 2}
+18:13:35: {'Type': 205, 'Message': 'Hey, I touched female once', 'Slot': 4}
+18:13:38: {'Type': 304, 'Proposer': 2, 'SelectedTeam': [0, 2], 'Passed': False}
+18:13:41: {'Type': 205, 'Message': 'your mom dont count', 'Slot': 1}
+18:13:43: {'Type': 205, 'Message': 'your mom doesnt count', 'Slot': 2}
+18:13:44: {'Type': 205, 'Message': 'LOL', 'Slot': 2}
+18:13:46: {'Type': 205, 'Message': 'LMAO', 'Slot': 1}
+18:13:46: {'Type': 205, 'Message': 'good timing', 'Slot': 2}
+18:13:53: {'Type': 205, 'Message': 'the doctor at birth doesnt count', 'Slot': 0}
+18:13:53: {'Type': 205, 'Message': 'Actully my grandma but k', 'Slot': 4}
+18:14:00: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [3, 0, 2, 4], 'Passed': False}
+18:14:03: {'Type': 205, 'Message': 'cassy', 'Slot': 2}
+18:14:07: {'Type': 205, 'Message': 'sus', 'Slot': 2}
+18:14:11: {'Type': 304, 'Proposer': 3, 'SelectedTeam': [3, 4], 'Passed': False}
+18:14:15: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [2, 3, 0, 4], 'Passed': False}
+18:14:21: {'Type': 205, 'Message': 'hm', 'Slot': 3}
+18:14:21: {'Type': 205, 'Message': 'who will hammer?', 'Slot': 0}
+18:14:25: {'Type': 205, 'Message': 'me? nice', 'Slot': 0}
+18:14:28: {'Type': 205, 'Message': 'you', 'Slot': 3}
+18:14:31: {'Type': 205, 'Message': 'Hana, whats ur mood rn?', 'Slot': 4}
+18:14:33: {'Type': 205, 'Message': '...', 'Slot': 1}
+18:14:37: {'Type': 205, 'Message': 'hor', 'Slot': 1}
+18:14:39: {'Type': 205, 'Message': 'nvm', 'Slot': 1}
+18:14:54: {'Type': 304, 'Proposer': 4, 'SelectedTeam': [2, 4], 'Passed': False}
+18:15:00: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [3, 0, 4, 2], 'Passed': False}
+18:15:06: {'Type': 205, 'Message': 'im not doing n2-1', 'Slot': 2}
+18:15:09: {'Type': 205, 'Message': 'guys can we just say yes for once', 'Slot': 1}
+18:15:10: {'Type': 205, 'Message': 'idc who', 'Slot': 1}
+18:15:16: {'Type': 205, 'Message': 'Yet you accepted N1 +1?', 'Slot': 4}
+18:15:31: {'Type': 304, 'Proposer': 0, 'SelectedTeam': [0, 4], 'Passed': False}
+18:15:35: {'Type': 205, 'Message': 'wait', 'Slot': 0}
+18:15:40: {'Type': 205, 'Message': 'fuckkk', 'Slot': 0}
+18:15:44: {'Type': 205, 'Message': 'y choose the same as n1', 'Slot': 0}
+18:15:48: {'Type': 205, 'Message': 'i', 'Slot': 0}
+18:15:49: {'Type': 307, 'VotesFor': [0, 3, 1, 2, 4], 'VotesAgainst': [], 'Passed': True}
+18:15:50: {'Type': 205, 'Message': 'welp', 'Slot': 2}
+18:15:56: {'Type': 311, 'Mission': 3, 'Failed': False, 'NumHacks': 0, 'Proposer': 0}
+18:16:06: {'Type': 205, 'Message': 'welp, now i trust evan', 'Slot': 0}
+18:16:15: {'Type': 205, 'Message': 'it can still be a bluff', 'Slot': 3}
+18:16:17: {'Type': 205, 'Message': 'NEEVVERRR SURRENDEEERRRR', 'Slot': 1}
+18:16:19: {'Type': 205, 'Message': 'You wanted to say that you trust me evan more?', 'Slot': 4}
+18:16:27: {'Type': 205, 'Message': 'True', 'Slot': 0}
+18:16:43: {'Type': 205, 'Message': 'guys i need to shiut', 'Slot': 1}
+18:16:48: {'Type': 205, 'Message': 'can we timeout really quick', 'Slot': 1}
+18:16:52: {'Type': 205, 'Message': 'so, is hanna and cassy or hanna and sonny', 'Slot': 0}
+18:16:56: {'Type': 205, 'Message': 'cassy i swear to god', 'Slot': 2}
+18:16:57: {'Type': 205, 'Message': 'Oh yes, daddy %*?© in my maw ', 'Slot': 4}
+18:17:04: {'Type': 205, 'Message': 'cmon now', 'Slot': 1}
+18:17:04: {'Type': 205, 'Message': '*opens wide*', 'Slot': 4}
+18:17:06: {'Type': 205, 'Message': 'evan ban yourself', 'Slot': 2}
+18:17:10: {'Type': 205, 'Message': 'please', 'Slot': 2}
+18:17:15: {'Type': 205, 'Message': 'omo', 'Slot': 4}
+18:17:17: {'Type': 205, 'Message': 'is there assassination', 'Slot': 1}
+18:17:19: {'Type': 205, 'Message': 'OwO', 'Slot': 0}
+18:17:24: {'Type': 205, 'Message': 'can we kill evan for saying that', 'Slot': 1}
+18:17:28: {'Type': 205, 'Message': 'yes', 'Slot': 2}
+18:17:33: {'Type': 205, 'Message': 'meep', 'Slot': 4}
+18:17:34: {'Type': 304, 'Proposer': 1, 'SelectedTeam': [0, 1, 4], 'Passed': False}
+18:17:40: {'Type': 205, 'Message': 'd i e', 'Slot': 2}
+18:17:42: {'Type': 205, 'Message': 'hanna and sonny', 'Slot': 1}
+18:17:48: {'Type': 205, 'Message': '<sprite name="emoji_sad_face">', 'Slot': 2}
+18:17:49: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [2, 0, 4, 3], 'Passed': False}
+18:17:51: {'Type': 205, 'Message': 'i saw you guys in the alley way', 'Slot': 1}
+18:17:54: {'Type': 205, 'Message': 'stfu', 'Slot': 2}
+18:17:56: {'Type': 205, 'Message': 'no you didnt', 'Slot': 2}
+18:17:59: {'Type': 205, 'Message': 'you saw nothing', 'Slot': 2}
+18:18:01: {'Type': 205, 'Message': 'shut the *°!% up', 'Slot': 2}
+18:18:05: {'Type': 205, 'Message': 'Hanna, you where with me in node, that means that now you have gae', 'Slot': 4}
+18:18:07: {'Type': 205, 'Message': 'so, evan has the hammer, isnt it?', 'Slot': 0}
+18:18:07: {'Type': 205, 'Message': 'UwU', 'Slot': 4}
+18:18:10: {'Type': 205, 'Message': 'shh', 'Slot': 4}
+18:18:11: {'Type': 304, 'Proposer': 2, 'SelectedTeam': [], 'Passed': True}
+18:18:14: {'Type': 205, 'Message': 'oh &°$/ yea', 'Slot': 2}
+18:18:18: {'Type': 205, 'Message': 'dont give him hammer', 'Slot': 2}
+18:18:28: {'Type': 205, 'Message': 'WHAT HAMMER', 'Slot': 1}
+18:18:29: {'Type': 304, 'Proposer': 3, 'SelectedTeam': [0, 2, 3], 'Passed': False}
+18:18:29: {'Type': 205, 'Message': '*sad woof*', 'Slot': 4}
+18:18:30: {'Type': 205, 'Message': 'I DONT GET IT', 'Slot': 1}
+18:18:33: {'Type': 205, 'Message': 'WHAT #*?©&$/ HACMMER', 'Slot': 1}
+18:18:40: {'Type': 205, 'Message': 'hammer is when the node teams rejected is 4/5', 'Slot': 2}
+18:18:40: {'Type': 205, 'Message': 'hammer is 4/5', 'Slot': 0}
+18:18:53: {'Type': 205, 'Message': 'I mean, tbh hanna, you can hammer me any time you want', 'Slot': 4}
+18:18:54: {'Type': 205, 'Message': 'if a node gets denied on 4/5, ,hackers get that node', 'Slot': 2}
+18:18:57: {'Type': 205, 'Message': 'so you have to acc ', 'Slot': 2}
+18:18:59: {'Type': 205, 'Message': 'hackers always need to refuse at 4/5', 'Slot': 0}
+18:18:59: {'Type': 205, 'Message': 'or hackers get it', 'Slot': 2}
+18:19:02: {'Type': 205, 'Message': 'Not even node hanna', 'Slot': 4}
+18:19:08: {'Type': 205, 'Message': 'If 4/5 gets rejected, the game is over', 'Slot': 4}
+18:19:10: {'Type': 205, 'Message': 'oh i see the thing on the right now', 'Slot': 1}
+18:19:12: {'Type': 205, 'Message': 'hackers insta win', 'Slot': 4}
+18:19:12: {'Type': 205, 'Message': 'yea hackers should always refuse 4/5', 'Slot': 2}
+18:19:13: {'Type': 205, 'Message': 'node teams rej', 'Slot': 1}
+18:19:15: {'Type': 205, 'Message': 'cool', 'Slot': 1}
+18:19:19: {'Type': 307, 'VotesFor': [1, 2], 'VotesAgainst': [3, 4, 0], 'Passed': False}
+18:19:33: {'Type': 205, 'Message': 'im going with evan / cassy', 'Slot': 2}
+18:19:37: {'Type': 205, 'Message': 'cassy has the hammer rn, smh', 'Slot': 4}
+18:19:44: {'Type': 205, 'Message': 'then pass', 'Slot': 2}
+18:19:46: {'Type': 205, 'Message': 'dummy', 'Slot': 2}
+18:19:51: {'Type': 205, 'Message': 'no, coz u then have it <sprite name="emoji_smile">', 'Slot': 4}
+18:19:58: {'Type': 205, 'Message': 'morty evan are agent 100% sure', 'Slot': 0}
+18:20:01: {'Type': 205, 'Message': 'evan then tell your partner cassy to pass too', 'Slot': 2}
+18:20:05: {'Type': 304, 'Proposer': 4, 'SelectedTeam': [], 'Passed': True}
+18:20:08: {'Type': 205, 'Message': 'Cassy, pass for me ', 'Slot': 4}
+18:20:12: {'Type': 205, 'Message': 'oml lol', 'Slot': 2}
+18:20:14: {'Type': 205, 'Message': 'why tho', 'Slot': 2}
+18:20:16: {'Type': 205, 'Message': 'what', 'Slot': 0}
+18:20:20: {'Type': 205, 'Message': 'well gg agents have hammer', 'Slot': 2}
+18:20:24: {'Type': 205, 'Message': 'why did u pass?', 'Slot': 0}
+18:20:34: {'Type': 205, 'Message': 'shh, hanna they dont know that yet', 'Slot': 4}
+18:20:38: {'Type': 205, 'Message': 'jk', 'Slot': 4}
+18:20:39: {'Type': 205, 'Message': 'morty dont pass or sonny has hammer', 'Slot': 2}
+18:20:40: {'Type': 205, 'Message': 'er', 'Slot': 2}
+18:20:45: {'Type': 205, 'Message': 'evan will', 'Slot': 2}
+18:20:46: {'Type': 205, 'Message': '(law requires me to state that was a joke)', 'Slot': 4}
+18:20:48: {'Type': 205, 'Message': 'cos cassy will pas', 'Slot': 2}
+18:20:56: {'Type': 205, 'Message': 'just prop smething *!#', 'Slot': 2}
+18:21:00: {'Type': 304, 'Proposer': 0, 'SelectedTeam': [0, 2, 4], 'Passed': False}
+18:21:06: {'Type': 205, 'Message': 'not that ©@/ dumbass', 'Slot': 2}
+18:21:08: {'Type': 205, 'Message': 'Ah yes, N2 again will work', 'Slot': 4}
+18:21:11: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [0, 2, 3, 4], 'Passed': False}
+18:21:13: {'Type': 205, 'Message': 'lo', 'Slot': 2}
+18:21:19: {'Type': 205, 'Message': 'sus vibes', 'Slot': 3}
+18:21:19: {'Type': 205, 'Message': 'True xd', 'Slot': 0}
+18:21:21: {'Type': 205, 'Message': 'i love that i am the only one accepting', 'Slot': 1}
+18:21:26: {'Type': 205, 'Message': 'you are all corrupt', 'Slot': 1}
+18:21:29: {'Type': 205, 'Message': 'smh', 'Slot': 4}
+18:21:34: {'Type': 205, 'Message': "no we're not hackers", 'Slot': 2}
+18:21:39: {'Type': 205, 'Message': '<sprite name="emoji_sad_face">', 'Slot': 1}
+18:21:42: {'Type': 205, 'Message': 'what if we accept this one?', 'Slot': 0}
+18:21:44: {'Type': 205, 'Message': 'Hanna x cassy, I ship it', 'Slot': 4}
+18:21:49: {'Type': 205, 'Message': 'Casba', 'Slot': 4}
+18:21:50: {'Type': 205, 'Message': 'stfu', 'Slot': 2}
+18:21:52: {'Type': 205, 'Message': '*casna', 'Slot': 4}
+18:21:54: {'Type': 205, 'Message': 'im already yours evan~', 'Slot': 2}
+18:21:58: {'Type': 205, 'Message': 'owo', 'Slot': 0}
+18:22:04: {'Type': 205, 'Message': 'No, u dont have a tail, i will not smash', 'Slot': 4}
+18:22:07: {'Type': 304, 'Proposer': 1, 'SelectedTeam': [0, 2, 4], 'Passed': False}
+18:22:09: {'Type': 205, 'Message': 'owo', 'Slot': 2}
+18:22:12: {'Type': 205, 'Message': 'lol', 'Slot': 3}
+18:22:12: {'Type': 205, 'Message': 'what is that prop lol', 'Slot': 2}
+18:22:12: {'Type': 205, 'Message': 'uwu', 'Slot': 4}
+18:22:15: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [3, 0, 2, 4], 'Passed': False}
+18:22:17: {'Type': 205, 'Message': 'RANDOM', 'Slot': 1}
+18:22:19: {'Type': 205, 'Message': 'why prop n2 again', 'Slot': 2}
+18:22:20: {'Type': 205, 'Message': '&%°', 'Slot': 2}
+18:22:22: {'Type': 205, 'Message': 'WHO DO YOU WANT JESUS CHRIST', 'Slot': 1}
+18:22:24: {'Type': 304, 'Proposer': 2, 'SelectedTeam': [0, 2, 3], 'Passed': False}
+18:22:26: {'Type': 205, 'Message': 'NOTHING MAKES YOU HAPPY', 'Slot': 1}
+18:22:29: {'Type': 205, 'Message': 'this', 'Slot': 2}
+18:22:31: {'Type': 205, 'Message': '<3', 'Slot': 1}
+18:22:32: {'Type': 205, 'Message': 'i want this', 'Slot': 2}
+18:22:32: {'Type': 205, 'Message': 'COZ SHE IS A WOMAN CASSY', 'Slot': 4}
+18:22:32: {'Type': 205, 'Message': '<sprite name="emoji_heart">', 'Slot': 2}
+18:22:34: {'Type': 205, 'Message': 'hackers always need to refuse this', 'Slot': 0}
+18:22:34: {'Type': 205, 'Message': 'i think this is it', 'Slot': 3}
+18:22:35: {'Type': 205, 'Message': 'SHE IS A WOMAN', 'Slot': 4}
+18:22:37: {'Type': 205, 'Message': 'i hate woman', 'Slot': 2}
+18:22:40: {'Type': 307, 'VotesFor': [2, 3, 0, 4], 'VotesAgainst': [1], 'Passed': True}
+18:22:41: {'Type': 205, 'Message': 'yea', 'Slot': 2}
+18:22:43: {'Type': 205, 'Message': 'hackers ref', 'Slot': 2}
+18:22:44: {'Type': 205, 'Message': 'LMAO', 'Slot': 0}
+18:22:45: {'Type': 205, 'Message': 'ty cassy', 'Slot': 2}
+18:22:48: {'Type': 311, 'Mission': 4, 'Failed': True, 'NumHacks': 1, 'Proposer': 2}
+18:22:54: {'Type': 205, 'Message': 'hahaha', 'Slot': 1}
+18:22:55: {'Type': 205, 'Message': ':o', 'Slot': 2}
+18:22:55: {'Type': 205, 'Message': 'so ez', 'Slot': 1}
+18:22:58: {'Type': 205, 'Message': 'a hacker bluffed', 'Slot': 2}
+18:23:02: {'Type': 205, 'Message': 'i am HUGE hacker ;)))', 'Slot': 1}
+18:23:02: {'Type': 205, 'Message': 'so is cassy and hanna', 'Slot': 0}
+18:23:04: {'Type': 205, 'Message': 'I dont want to say anything, hanna in both hacked nodes', 'Slot': 4}
+18:23:13: {'Type': 205, 'Message': 'True', 'Slot': 0}
+18:23:19: {'Type': 205, 'Message': 'morty also', 'Slot': 3}
+18:23:25: {'Type': 205, 'Message': 'I dont want to say anything, morty in both hacked nodes', 'Slot': 2}
+18:23:27: {'Type': 205, 'Message': 'zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz', 'Slot': 1}
+18:23:27: {'Type': 205, 'Message': 'morty also in 2 sec nodes', 'Slot': 4}
+18:23:30: {'Type': 205, 'Message': 'i have been in all', 'Slot': 0}
+18:23:49: {'Type': 205, 'Message': 'morty might have hacked n2', 'Slot': 3}
+18:23:54: {'Type': 205, 'Message': 'hanna hacked n4', 'Slot': 3}
+18:23:57: {'Type': 205, 'Message': 'idk yet', 'Slot': 3}
+18:23:57: {'Type': 205, 'Message': 'since morty is in 2 hacked, and 2 secured, it means its 50/50 chance he is hacker', 'Slot': 4}
+18:24:01: {'Type': 205, 'Message': 'ok so i can believe evan is inno', 'Slot': 2}
+18:24:02: {'Type': 205, 'Message': 'flawless logic ', 'Slot': 4}
+18:24:05: {'Type': 205, 'Message': 'no why i wouldnt hack n3?', 'Slot': 0}
+18:24:09: {'Type': 205, 'Message': 'odds are morty is too', 'Slot': 2}
+18:24:13: {'Type': 205, 'Message': 'evan could be innocent', 'Slot': 3}
+18:24:15: {'Type': 205, 'Message': 'i think sonny is hack', 'Slot': 2}
+18:24:17: {'Type': 205, 'Message': 'er no', 'Slot': 2}
+18:24:18: {'Type': 205, 'Message': 'wait', 'Slot': 2}
+18:24:22: {'Type': 205, 'Message': 'no morty has to be', 'Slot': 2}
+18:24:27: {'Type': 205, 'Message': 'no im not', 'Slot': 0}
+18:24:27: {'Type': 205, 'Message': 'Sony was not even in a single node', 'Slot': 4}
+18:24:29: {'Type': 205, 'Message': 'morty _ cassy', 'Slot': 2}
+18:24:30: {'Type': 205, 'Message': 'trust me pls', 'Slot': 0}
+18:24:34: {'Type': 205, 'Message': 'nvm he was, just with hanna', 'Slot': 4}
+18:24:34: {'Type': 205, 'Message': 'smh', 'Slot': 4}
+18:24:39: {'Type': 205, 'Message': '^^^', 'Slot': 2}
+18:24:48: {'Type': 304, 'Proposer': 3, 'SelectedTeam': [1, 3, 4], 'Passed': False}
+18:24:51: {'Type': 205, 'Message': 'its morty + sonny, evan is def clean', 'Slot': 2}
+18:24:59: {'Type': 205, 'Message': 'Hanna, stop useing your female demon body to lure poor simps into ur hacks', 'Slot': 4}
+18:25:02: {'Type': 205, 'Message': 'I WHOLEHARTEDLY TRUST EVAN', 'Slot': 1}
+18:25:04: {'Type': 205, 'Message': 'yeah evan is def clean aent', 'Slot': 0}
+18:25:06: {'Type': 205, 'Message': 'agent', 'Slot': 0}
+18:25:08: {'Type': 205, 'Message': 'NOT SONNY', 'Slot': 1}
+18:25:17: {'Type': 205, 'Message': 'evan i paid 10k for this skin im going to use it', 'Slot': 2}
+18:25:18: {'Type': 307, 'VotesFor': [], 'VotesAgainst': [0, 2, 3, 1, 4], 'Passed': False}
+18:25:22: {'Type': 205, 'Message': 'why not me', 'Slot': 3}
+18:25:23: {'Type': 205, 'Message': 'TRAPPPP', 'Slot': 4}
+18:25:29: {'Type': 205, 'Message': 'i onlt been in one node', 'Slot': 3}
+18:25:34: {'Type': 205, 'Message': 'only', 'Slot': 3}
+18:25:34: {'Type': 205, 'Message': 'traps are not ©@#', 'Slot': 2}
+18:25:36: {'Type': 205, 'Message': 'change my mind', 'Slot': 2}
+18:25:40: {'Type': 205, 'Message': 'they are ga y', 'Slot': 1}
+18:25:41: {'Type': 205, 'Message': 'even when you know theyre a trap uwu', 'Slot': 2}
+18:25:43: {'Type': 205, 'Message': 'Looking at r34 they are', 'Slot': 4}
+18:25:44: {'Type': 205, 'Message': 'hanna,why u dont sus form cassy? she didnt acc hammer', 'Slot': 0}
+18:26:00: {'Type': 205, 'Message': 'ok am i a girl or guy', 'Slot': 1}
+18:26:02: {'Type': 205, 'Message': 'she acc everything', 'Slot': 2}
+18:26:05: {'Type': 205, 'Message': 'Cassy just seems stupid enought to be agent tbh', 'Slot': 4}
+18:26:11: {'Type': 205, 'Message': 'but she didnt acc hammer in n4', 'Slot': 0}
+18:26:12: {'Type': 205, 'Message': 'shes just dumb', 'Slot': 2}
+18:26:14: {'Type': 205, 'Message': 'i can see that lol', 'Slot': 3}
+18:26:18: {'Type': 304, 'Proposer': 4, 'SelectedTeam': [], 'Passed': True}
+18:26:19: {'Type': 205, 'Message': 'lol', 'Slot': 2}
+18:26:20: {'Type': 205, 'Message': 'cassy is a name of a woman', 'Slot': 0}
+18:26:24: {'Type': 205, 'Message': 'fair enough', 'Slot': 2}
+18:26:29: {'Type': 205, 'Message': 'wait i was thinking it was casey', 'Slot': 1}
+18:26:29: {'Type': 205, 'Message': 'youre right cassy is hacker', 'Slot': 2}
+18:26:30: {'Type': 205, 'Message': 'cassy is a name for a hooker', 'Slot': 4}
+18:26:31: {'Type': 205, 'Message': 'not cassy', 'Slot': 1}
+18:26:35: {'Type': 304, 'Proposer': 0, 'SelectedTeam': [], 'Passed': True}
+18:26:36: {'Type': 205, 'Message': 'you already said that', 'Slot': 1}
+18:26:40: {'Type': 304, 'Proposer': 1, 'SelectedTeam': [0, 1, 4], 'Passed': False}
+18:26:42: {'Type': 205, 'Message': 'hanna is more of a hooker name to be fair', 'Slot': 2}
+18:26:46: {'Type': 205, 'Message': 'Ik, im just reinforceing that statement', 'Slot': 4}
+18:26:46: {'Type': 205, 'Message': '$&/*° you sonny and hanna!', 'Slot': 1}
+18:26:53: {'Type': 205, 'Message': 'Hanna montana the hooker', 'Slot': 4}
+18:26:53: {'Type': 205, 'Message': 'i dont wanna hanna hammers', 'Slot': 0}
+18:27:05: {'Type': 205, 'Message': 'Guys, and cassy reverse trap', 'Slot': 4}
+18:27:05: {'Type': 205, 'Message': 'look i sill dont get that but', 'Slot': 1}
+18:27:10: {'Type': 205, 'Message': 'can we so smth', 'Slot': 1}
+18:27:10: {'Type': 205, 'Message': 'we should all go and hammer hanna rn', 'Slot': 4}
+18:27:14: {'Type': 205, 'Message': 'since she has female skin', 'Slot': 4}
+18:27:18: {'Type': 205, 'Message': 'Evan you are off the #°$%* charts', 'Slot': 1}
+18:27:18: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [2, 3, 0, 4], 'Passed': False}
+18:27:19: {'Type': 205, 'Message': 'smh', 'Slot': 2}
+18:27:27: {'Type': 205, 'Message': 'what dos smh mean?', 'Slot': 0}
+18:27:32: {'Type': 205, 'Message': 'shaking my head', 'Slot': 1}
+18:27:32: {'Type': 205, 'Message': 'does', 'Slot': 0}
+18:27:33: {'Type': 205, 'Message': 'Remember to say no ?©°/ if *%$©° touch', 'Slot': 4}
+18:27:37: {'Type': 205, 'Message': 'hmm', 'Slot': 2}
+18:27:41: {'Type': 205, 'Message': 'then a gain', 'Slot': 2}
+18:27:44: {'Type': 205, 'Message': 'they censored that, rip', 'Slot': 4}
+18:27:44: {'Type': 205, 'Message': 'ty', 'Slot': 0}
+18:27:45: {'Type': 205, 'Message': 'is there a way to de-censor chat', 'Slot': 1}
+18:27:48: {'Type': 205, 'Message': 'sonny is new and might not know hammer', 'Slot': 2}
+18:27:54: {'Type': 205, 'Message': 'er', 'Slot': 2}
+18:27:56: {'Type': 205, 'Message': 'hacker proto', 'Slot': 2}
+18:27:59: {'Type': 205, 'Message': 'ik hammer', 'Slot': 3}
+18:28:01: {'Type': 205, 'Message': 'so h4 couldve been a bluff', 'Slot': 2}
+18:28:07: {'Type': 205, 'Message': 'but prob not', 'Slot': 2}
+18:28:09: {'Type': 205, 'Message': 'h4???', 'Slot': 1}
+18:28:11: {'Type': 205, 'Message': 'h?', 'Slot': 1}
+18:28:12: {'Type': 205, 'Message': 'n4', 'Slot': 2}
+18:28:13: {'Type': 205, 'Message': 'imr etarded', 'Slot': 2}
+18:28:16: {'Type': 205, 'Message': 'indewed', 'Slot': 1}
+18:28:18: {'Type': 205, 'Message': 'n4?', 'Slot': 0}
+18:28:19: {'Type': 304, 'Proposer': 2, 'SelectedTeam': [1, 2, 4], 'Passed': False}
+18:28:20: {'Type': 205, 'Message': "I mean, tbh, proto's r34 is quite hot", 'Slot': 4}
+18:28:21: {'Type': 205, 'Message': 'node 4', 'Slot': 1}
+18:28:27: {'Type': 205, 'Message': 'ugh', 'Slot': 2}
+18:28:30: {'Type': 205, 'Message': 'what is proto and what is r34', 'Slot': 1}
+18:28:37: {'Type': 205, 'Message': 'oh boy', 'Slot': 2}
+18:28:38: {'Type': 205, 'Message': 'Cassy so pure lmao', 'Slot': 4}
+18:28:43: {'Type': 307, 'VotesFor': [2, 1], 'VotesAgainst': [0, 4, 3], 'Passed': False}
+18:28:44: {'Type': 205, 'Message': 'look up r34', 'Slot': 2}
+18:28:45: {'Type': 205, 'Message': 'im not a degen i guess', 'Slot': 1}
+18:28:54: {'Type': 205, 'Message': 'its a good image library', 'Slot': 2}
+18:28:56: {'Type': 205, 'Message': 'hanna and cassy are hackers 100% sure', 'Slot': 0}
+18:28:57: {'Type': 304, 'Proposer': 3, 'SelectedTeam': [1, 3, 4], 'Passed': False}
+18:29:06: {'Type': 205, 'Message': 'Protos are a fictional furry spices, also r34 is the rule 34 of the internet', 'Slot': 4}
+18:29:13: {'Type': 307, 'VotesFor': [1, 3], 'VotesAgainst': [2, 0, 4], 'Passed': False}
+18:29:22: {'Type': 205, 'Message': 'and what is that rule\\', 'Slot': 1}
+18:29:23: {'Type': 205, 'Message': "morty we know you're a hacker relax", 'Slot': 2}
+18:29:24: {'Type': 205, 'Message': 'or maybe sonny is a hacker', 'Slot': 0}
+18:29:24: {'Type': 205, 'Message': 'evan me and cassy', 'Slot': 3}
+18:29:30: {'Type': 205, 'Message': 'Google "rules of the internet"', 'Slot': 4}
+18:29:33: {'Type': 205, 'Message': 'cant be me', 'Slot': 3}
+18:29:34: {'Type': 205, 'Message': 'morty acussing everyone ', 'Slot': 1}
+18:29:37: {'Type': 205, 'Message': 'why me?', 'Slot': 0}
+18:29:38: {'Type': 205, 'Message': 'evan, just put cassy hanna evan', 'Slot': 2}
+18:29:40: {'Type': 205, 'Message': 'ok i will', 'Slot': 1}
+18:29:40: {'Type': 205, 'Message': 'cant be me', 'Slot': 0}
+18:29:41: {'Type': 205, 'Message': 'why i have hammer?', 'Slot': 4}
+18:29:45: {'Type': 205, 'Message': 'ye', 'Slot': 2}
+18:29:54: {'Type': 205, 'Message': 'cassy is a dumb agent', 'Slot': 3}
+18:29:58: {'Type': 205, 'Message': 'sonny you do know proto right?', 'Slot': 4}
+18:30:01: {'Type': 205, 'Message': 'hanna and morty are sus', 'Slot': 3}
+18:30:01: {'Type': 205, 'Message': '"There is #!/$ of it. No exceptions."', 'Slot': 1}
+18:30:02: {'Type': 205, 'Message': 'good luck evan, may your prop let us win', 'Slot': 2}
+18:30:03: {'Type': 205, 'Message': 'got it', 'Slot': 1}
+18:30:11: {'Type': 205, 'Message': 'yeah', 'Slot': 3}
+18:30:11: {'Type': 205, 'Message': 'why is cassy an agent?', 'Slot': 0}
+18:30:17: {'Type': 205, 'Message': 'F', 'Slot': 0}
+18:30:18: {'Type': 304, 'Proposer': 4, 'SelectedTeam': [1, 2, 4], 'Passed': False}
+18:30:20: {'Type': 205, 'Message': 'gg', 'Slot': 2}
+18:30:20: {'Type': 205, 'Message': 'cassy is just dumb', 'Slot': 3}
+18:30:21: {'Type': 205, 'Message': 'rip', 'Slot': 3}
+18:30:21: {'Type': 205, 'Message': '*!©$ it, i had fun', 'Slot': 4}
+18:30:22: {'Type': 205, 'Message': 'ezpz', 'Slot': 2}
+18:30:24: {'Type': 205, 'Message': 'we lose', 'Slot': 3}
+18:30:25: {'Type': 205, 'Message': 'ezzz', 'Slot': 4}
+18:30:26: {'Type': 205, 'Message': 'its cassy hanna', 'Slot': 2}
+18:30:27: {'Type': 205, 'Message': 'evan why?', 'Slot': 0}
+18:30:28: {'Type': 307, 'VotesFor': [3, 1, 4, 2, 0], 'VotesAgainst': [], 'Passed': True}
+18:30:28: {'Type': 205, 'Message': '<sprite name="emoji_heart">', 'Slot': 2}
+18:30:31: {'Type': 205, 'Message': 'hes hacker', 'Slot': 3}
+18:30:34: {'Type': 205, 'Message': 'Im a s', 'Slot': 4}
+18:30:37: {'Type': 311, 'Mission': 5, 'Failed': True, 'NumHacks': 2, 'Proposer': 4}
+18:30:42: {'Type': 205, 'Message': 'gg', 'Slot': 1}
+18:30:44: {'Type': 205, 'Message': 'Im a simp, thats why', 'Slot': 4}
+18:30:47: {'Type': 205, 'Message': 'I FUCKKING KNOW IT', 'Slot': 0}
+18:30:52: {'Type': 205, 'Message': 'PUTOS TODOS', 'Slot': 0}
+18:30:54: {'Type': 205, 'Message': 'well', 'Slot': 3}
+18:30:57: {'Type': 205, 'Message': 'also, I whould have not guessed between cassy and sonny either way tbh', 'Slot': 4}
+18:30:59: {'Type': 205, 'Message': 'tu ?&$© madre', 'Slot': 1}
+18:31:01: {'Type': 205, 'Message': 'amigo', 'Slot': 1}
+18:31:04: {'Type': 205, 'Message': 'yea morty idk why nobody listened to you', 'Slot': 2}
+18:31:09: {'Type': 205, 'Message': 'I KNOW', 'Slot': 0}
+18:31:12: {'Type': 205, 'Message': 'yea. shame on you morty', 'Slot': 4}
+18:31:13: {'Type': 205, 'Message': 'I HATE SIMPS', 'Slot': 0}
+18:31:17: {'Type': 205, 'Message': '+1 to morty he tried', 'Slot': 2}
+18:31:18: {'Type': 205, 'Message': 'tu tienes peqenues huevos jajajjaa', 'Slot': 1}
+18:31:28: {'Type': 205, 'Message': 'Hanna, why you didnt sec tho?', 'Slot': 4}
+18:31:30: {'Type': 205, 'Message': 'cassy eres adorable xd', 'Slot': 0}
+18:31:35: {'Type': 205, 'Message': 'i dont think huevos means what you think it does', 'Slot': 2}
+18:31:36: {'Type': 205, 'Message': 'nasty ', 'Slot': 1}
+18:31:39: {'Type': 205, 'Message': 'owo', 'Slot': 0}
+18:31:39: {'Type': 205, 'Message': 'gtf away from me', 'Slot': 1}
+18:31:41: {'Type': 205, 'Message': 'im 35', 'Slot': 1}
+18:31:44: {'Type': 205, 'Message': 'grown man', 'Slot': 1}
+18:31:45: {'Type': 205, 'Message': 'me too', 'Slot': 0}
+18:31:47: {'Type': 205, 'Message': 'lmao', 'Slot': 0}
+18:31:57: {'Type': 205, 'Message': 'jk im 9', 'Slot': 1}
+18:32:00: {'Type': 205, 'Message': 'please leave me alone', 'Slot': 1}
+18:32:03: {'Type': 205, 'Message': 'evan +1 for carrying us', 'Slot': 2}
+18:32:06: {'Type': 205, 'Message': 'Hanna, you said that if i proped you and cassy i will be able to hammer you smh <sprite name="emoji_sad_face">', 'Slot': 4}
+18:32:06: {'Type': 205, 'Message': 'THATS BETTER', 'Slot': 0}
+18:32:10: {'Type': 205, 'Message': 'cassy -1 for being garee', 'Slot': 2}
+18:32:11: {'Type': 205, 'Message': 'gae', 'Slot': 2}
+18:32:16: {'Type': 205, 'Message': 'huevos mean, esticleesss or eggs', 'Slot': 0}
+18:32:22: {'Type': 205, 'Message': 'incorrect i am heterosexual', 'Slot': 1}
+18:32:29: {'Type': 205, 'Message': '-1 for being straight', 'Slot': 2}
+18:32:31: {'Type': 205, 'Message': 'Im microwave', 'Slot': 4}
+18:32:34: {'Type': 205, 'Message': 'HI HETEROSEXUAL IM KAMERS', 'Slot': 0}
+18:32:34: {'Type': 205, 'Message': 'huevos = $#!©%', 'Slot': 1}
+18:32:40: {'Type': 205, 'Message': 'attack chopper', 'Slot': 1}
+18:32:43: {'Type': 205, 'Message': 'ggs', 'Slot': 1}
+18:33:59: {'Type': 205, 'Message': 'hey everyone', 'Slot': 0}
+18:34:03: {'Type': 205, 'Message': 'yo', 'Slot': 1}
+18:34:04: {'Type': 205, 'Message': 'Hello ladies', 'Slot': 3}
+18:34:07: {'Type': 205, 'Message': 'hey huys', 'Slot': 4}
+18:34:09: {'Type': 205, 'Message': 'just had a toxic af hacker game lmao', 'Slot': 0}
+18:34:18: {'Type': 205, 'Message': 'sameee', 'Slot': 4}
+18:34:20: {'Type': 205, 'Message': ',y', 'Slot': 1}
+18:34:21: {'Type': 205, 'Message': 'someone got genuinley mad because i played em', 'Slot': 0}
+18:34:24: {'Type': 205, 'Message': 'lol', 'Slot': 2}
+18:34:28: {'Type': 304, 'Proposer': 0, 'SelectedTeam': [0, 1], 'Passed': False}
+18:34:31: {'Type': 205, 'Message': 'my main goal is to blow up, then act like i dont know nobody ahahhaha', 'Slot': 1}
+18:34:32: {'Type': 205, 'Message': 'Play me daddy', 'Slot': 3}
+18:34:36: {'Type': 205, 'Message': 'im using my bf computer so the keyboard chunky af sorry', 'Slot': 4}
+18:34:44: {'Type': 205, 'Message': 'lmaoo', 'Slot': 0}
+18:34:50: {'Type': 205, 'Message': 'chunky keyboard', 'Slot': 0}
+18:34:56: {'Type': 307, 'VotesFor': [1, 0, 4], 'VotesAgainst': [2, 3], 'Passed': True}
+18:35:02: {'Type': 205, 'Message': 'how tf does keyboard mat', 'Slot': 2}
+18:35:08: {'Type': 311, 'Mission': 1, 'Failed': True, 'NumHacks': 1, 'Proposer': 0}
+18:35:15: {'Type': 205, 'Message': 'oh', 'Slot': 0}
+18:35:15: {'Type': 205, 'Message': 'oh &/°! ballsy', 'Slot': 2}
+18:35:16: {'Type': 205, 'Message': 'loki is hacker', 'Slot': 1}
+18:35:17: {'Type': 205, 'Message': 'sounds good', 'Slot': 1}
+18:35:24: {'Type': 205, 'Message': 'ooo', 'Slot': 4}
+18:35:27: {'Type': 205, 'Message': 'how can i prove my innocence....', 'Slot': 1}
+18:35:28: {'Type': 205, 'Message': 'well from my pov, carl is hacker', 'Slot': 0}
+18:35:33: {'Type': 205, 'Message': 'Loki stop playing us smh', 'Slot': 3}
+18:35:38: {'Type': 205, 'Message': 'i have to trust carl more because on my screen it says loki is hacker', 'Slot': 2}
+18:35:38: {'Type': 205, 'Message': 'loki you tried', 'Slot': 1}
+18:35:43: {'Type': 205, 'Message': 'same', 'Slot': 1}
+18:35:47: {'Type': 205, 'Message': 'lmao', 'Slot': 2}
+18:35:50: {'Type': 205, 'Message': 'what lmao', 'Slot': 0}
+18:35:53: {'Type': 205, 'Message': 'loki for sure', 'Slot': 4}
+18:35:58: {'Type': 205, 'Message': 'dont know what to say? cat got your tongue?', 'Slot': 1}
+18:36:03: {'Type': 205, 'Message': 'did you just admit to being a hacker?', 'Slot': 0}
+18:36:14: {'Type': 205, 'Message': 'and then use that to set me up', 'Slot': 0}
+18:36:15: {'Type': 304, 'Proposer': 1, 'SelectedTeam': [1, 2, 3], 'Passed': False}
+18:36:16: {'Type': 205, 'Message': 'hahahaha', 'Slot': 4}
+18:36:17: {'Type': 205, 'Message': 'sure', 'Slot': 2}
+18:36:18: {'Type': 205, 'Message': 'sure', 'Slot': 2}
+18:36:25: {'Type': 205, 'Message': 'hey loki, theres this thing called', 'Slot': 2}
+18:36:27: {'Type': 205, 'Message': 'a joke', 'Slot': 2}
+18:36:28: {'Type': 205, 'Message': 'welcome', 'Slot': 2}
+18:36:33: {'Type': 205, 'Message': 'Wtf is a joke', 'Slot': 3}
+18:36:33: {'Type': 205, 'Message': 'i dont like anyone except for emily and braetonix', 'Slot': 1}
+18:36:37: {'Type': 205, 'Message': '<3', 'Slot': 3}
+18:36:38: {'Type': 205, 'Message': 'but i gotta see if i can trust zoe', 'Slot': 1}
+18:36:41: {'Type': 307, 'VotesFor': [1, 2], 'VotesAgainst': [0, 3, 4], 'Passed': False}
+18:36:41: {'Type': 205, 'Message': 'yeah, never heard of those', 'Slot': 0}
+18:36:49: {'Type': 205, 'Message': 'that looks bad', 'Slot': 1}
+18:37:01: {'Type': 205, 'Message': 'loki really?', 'Slot': 1}
+18:37:01: {'Type': 205, 'Message': 'Zoe are you trying to make jokes in mindnight? REPORTED!!!!0!', 'Slot': 3}
+18:37:06: {'Type': 205, 'Message': '(jk)', 'Slot': 3}
+18:37:09: {'Type': 205, 'Message': 'either way, that makes carl hacker and oe ultra sus to me', 'Slot': 0}
+18:37:11: {'Type': 205, 'Message': 'if loki is in j reject', 'Slot': 1}
+18:37:13: {'Type': 205, 'Message': 'zoe', 'Slot': 0}
+18:37:13: {'Type': 205, 'Message': 'so simple', 'Slot': 1}
+18:37:27: {'Type': 205, 'Message': 'yupp ', 'Slot': 4}
+18:37:34: {'Type': 205, 'Message': 'carl andn loki are bging kinda aggro, im getting vibes from both of them', 'Slot': 2}
+18:37:42: {'Type': 205, 'Message': 'without knowing too much i think n1 was a double', 'Slot': 2}
+18:37:43: {'Type': 304, 'Proposer': 2, 'SelectedTeam': [0, 2, 3], 'Passed': False}
+18:37:48: {'Type': 205, 'Message': 'NO', 'Slot': 1}
+18:37:50: {'Type': 205, 'Message': 'IT WAS LOKI', 'Slot': 1}
+18:37:50: {'Type': 205, 'Message': 'but thats just a hunch', 'Slot': 2}
+18:37:53: {'Type': 205, 'Message': 'I SWEAR TO GOOOOOOOD', 'Slot': 1}
+18:37:57: {'Type': 205, 'Message': 'NEVER', 'Slot': 1}
+18:38:01: {'Type': 205, 'Message': 'so i wanna see how this plays out', 'Slot': 2}
+18:38:02: {'Type': 205, 'Message': 'im actually confused now', 'Slot': 4}
+18:38:06: {'Type': 205, 'Message': 'Tbh im tempted', 'Slot': 3}
+18:38:11: {'Type': 205, 'Message': 'im not liking this', 'Slot': 0}
+18:38:23: {'Type': 205, 'Message': 'oe seems sus', 'Slot': 0}
+18:38:25: {'Type': 205, 'Message': 'zoe', 'Slot': 0}
+18:38:30: {'Type': 205, 'Message': 'wdym', 'Slot': 2}
+18:38:34: {'Type': 205, 'Message': 'ITS LOKI AND ZOE', 'Slot': 1}
+18:38:36: {'Type': 205, 'Message': 'that joke', 'Slot': 0}
+18:38:38: {'Type': 205, 'Message': 'i reffed n1? thats bout it', 'Slot': 2}
+18:38:38: {'Type': 205, 'Message': 'HE IS FALS ACC. HER', 'Slot': 1}
+18:38:40: {'Type': 205, 'Message': 'lmao', 'Slot': 2}
+18:38:40: {'Type': 307, 'VotesFor': [2, 4], 'VotesAgainst': [1, 3, 0], 'Passed': False}
+18:38:43: {'Type': 205, 'Message': 'ok lets see wtv', 'Slot': 4}
+18:38:46: {'Type': 205, 'Message': 'u got me :fist:', 'Slot': 2}
+18:38:48: {'Type': 205, 'Message': 'OR LOKI EMILY', 'Slot': 1}
+18:38:59: {'Type': 205, 'Message': 'no dear god', 'Slot': 4}
+18:39:03: {'Type': 304, 'Proposer': 3, 'SelectedTeam': [], 'Passed': True}
+18:39:05: {'Type': 205, 'Message': 'i need to catch up', 'Slot': 4}
+18:39:07: {'Type': 205, 'Message': 'all you have to say is no dear god?', 'Slot': 1}
+18:39:07: {'Type': 205, 'Message': 'brae?', 'Slot': 2}
+18:39:08: {'Type': 205, 'Message': 'hmh', 'Slot': 3}
+18:39:10: {'Type': 205, 'Message': 'i literLLY REF ONE WITH ME IN LMAO', 'Slot': 0}
+18:39:12: {'Type': 205, 'Message': 'cool cool', 'Slot': 1}
+18:39:15: {'Type': 205, 'Message': 'caps', 'Slot': 0}
+18:39:16: {'Type': 205, 'Message': 'its loki and amily', 'Slot': 1}
+18:39:19: {'Type': 205, 'Message': 'emily', 'Slot': 1}
+18:39:22: {'Type': 205, 'Message': 'braetonix passed to carl', 'Slot': 2}
+18:39:23: {'Type': 205, 'Message': 'You know zoe, I tend to keep hammer off ppl that where in hacked n1', 'Slot': 3}
+18:39:28: {'Type': 205, 'Message': 'Emily pass?', 'Slot': 3}
+18:39:29: {'Type': 205, 'Message': 'LOL', 'Slot': 1}
+18:39:32: {'Type': 205, 'Message': 'YOU REALLY TRYING THAT?', 'Slot': 1}
+18:39:38: {'Type': 205, 'Message': 'what', 'Slot': 0}
+18:39:41: {'Type': 304, 'Proposer': 4, 'SelectedTeam': [1, 2, 4], 'Passed': False}
+18:39:43: {'Type': 205, 'Message': 'idk', 'Slot': 2}
+18:39:44: {'Type': 205, 'Message': 'dont evven ', 'Slot': 1}
+18:39:46: {'Type': 205, 'Message': 'NOPE', 'Slot': 1}
+18:39:51: {'Type': 205, 'Message': 'emily what are you tryging', 'Slot': 1}
+18:39:55: {'Type': 205, 'Message': 'it wont workl', 'Slot': 1}
+18:40:01: {'Type': 205, 'Message': 'this is gonna get hacked', 'Slot': 0}
+18:40:06: {'Type': 205, 'Message': 'tis should be insta ref', 'Slot': 1}
+18:40:10: {'Type': 205, 'Message': 'yeah cause emily in it', 'Slot': 1}
+18:40:13: {'Type': 205, 'Message': 'loki and carl def are giving off hacker vibes, but the odds of a double hack in first n1 prop are ridiculously lol', 'Slot': 2}
+18:40:17: {'Type': 205, 'Message': 'why tho', 'Slot': 4}
+18:40:18: {'Type': 205, 'Message': 'Tbh, I kinda wish there was whispers in this game', 'Slot': 3}
+18:40:26: {'Type': 205, 'Message': 'that would be op', 'Slot': 1}
+18:40:26: {'Type': 205, 'Message': 'that would be nice', 'Slot': 0}
+18:40:33: {'Type': 307, 'VotesFor': [4, 2], 'VotesAgainst': [1, 3, 0], 'Passed': False}
+18:40:33: {'Type': 205, 'Message': 'hmm', 'Slot': 1}
+18:40:42: {'Type': 205, 'Message': 'loki please pass', 'Slot': 2}
+18:40:45: {'Type': 205, 'Message': 'instant reject', 'Slot': 1}
+18:40:45: {'Type': 205, 'Message': 'Lokiiii hammer? ', 'Slot': 3}
+18:40:52: {'Type': 205, 'Message': 'you dont want to leave it on carl, do you?', 'Slot': 3}
+18:40:59: {'Type': 304, 'Proposer': 0, 'SelectedTeam': [], 'Passed': True}
+18:41:03: {'Type': 304, 'Proposer': 1, 'SelectedTeam': [1, 2, 3], 'Passed': False}
+18:41:05: {'Type': 205, 'Message': 'loki if you dont pass youre super  sus', 'Slot': 2}
+18:41:06: {'Type': 205, 'Message': 'ye', 'Slot': 2}
+18:41:10: {'Type': 205, 'Message': 'thats what i thought, too bad you had to be reminded of that', 'Slot': 3}
+18:41:13: {'Type': 205, 'Message': 'didnt notice lmao, thanks braetonix', 'Slot': 0}
+18:41:13: {'Type': 205, 'Message': 'yea', 'Slot': 2}
+18:41:19: {'Type': 205, 'Message': 'you shouldnt hav said that braetonix', 'Slot': 2}
+18:41:26: {'Type': 205, 'Message': 'its another free node for hackers if you dont accept', 'Slot': 1}
+18:41:37: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [3, 2, 4, 0], 'Passed': False}
+18:41:40: {'Type': 205, 'Message': 'carl is a hacker', 'Slot': 4}
+18:41:42: {'Type': 205, 'Message': 'Zoe, I wanted a hammer on you since i love you', 'Slot': 3}
+18:41:47: {'Type': 205, 'Message': 'yall kinda slow', 'Slot': 1}
+18:41:47: {'Type': 205, 'Message': '<sprite name="emoji_heart"> you bby', 'Slot': 2}
+18:41:48: {'Type': 205, 'Message': 'aww', 'Slot': 0}
+18:41:48: {'Type': 205, 'Message': 'coz ur pink', 'Slot': 3}
+18:41:49: {'Type': 205, 'Message': '<sprite name="emoji_kiss">', 'Slot': 2}
+18:41:54: {'Type': 205, 'Message': 'you two are sweet', 'Slot': 0}
+18:41:57: {'Type': 205, 'Message': 'loki and i are safe', 'Slot': 4}
+18:42:01: {'Type': 205, 'Message': 'and... um... I actually can find anything good about you  beside being pink', 'Slot': 3}
+18:42:02: {'Type': 205, 'Message': 'zoe pick me', 'Slot': 4}
+18:42:02: {'Type': 205, 'Message': 'sorry', 'Slot': 3}
+18:42:02: {'Type': 205, 'Message': 'its loki and emily and im done talking about it', 'Slot': 1}
+18:42:07: {'Type': 205, 'Message': 'lol carl', 'Slot': 4}
+18:42:30: {'Type': 304, 'Proposer': 2, 'SelectedTeam': [2, 3, 4], 'Passed': False}
+18:42:39: {'Type': 205, 'Message': '*smacks lips*', 'Slot': 3}
+18:42:46: {'Type': 205, 'Message': 'sigh, another hacked', 'Slot': 0}
+18:42:48: {'Type': 205, 'Message': 'this is my best prop', 'Slot': 2}
+18:42:55: {'Type': 307, 'VotesFor': [4, 3, 2, 0], 'VotesAgainst': [1], 'Passed': True}
+18:42:58: {'Type': 205, 'Message': 'so far carl', 'Slot': 4}
+18:42:59: {'Type': 205, 'Message': 'carl?', 'Slot': 0}
+18:43:00: {'Type': 205, 'Message': 'lets see now', 'Slot': 4}
+18:43:15: {'Type': 311, 'Mission': 2, 'Failed': True, 'NumHacks': 1, 'Proposer': 2}
+18:43:20: {'Type': 205, 'Message': 'emily', 'Slot': 1}
+18:43:21: {'Type': 205, 'Message': 'carl zoe', 'Slot': 4}
+18:43:21: {'Type': 205, 'Message': 'yup', 'Slot': 0}
+18:43:22: {'Type': 205, 'Message': 'ugh', 'Slot': 2}
+18:43:23: {'Type': 205, 'Message': 'really', 'Slot': 1}
+18:43:23: {'Type': 205, 'Message': 'carl zoe', 'Slot': 4}
+18:43:31: {'Type': 205, 'Message': 'carl zoe?', 'Slot': 0}
+18:43:31: {'Type': 205, 'Message': 'end of discussion', 'Slot': 4}
+18:43:34: {'Type': 205, 'Message': 'stop trying to blame others', 'Slot': 1}
+18:43:34: {'Type': 205, 'Message': 'seems ok', 'Slot': 0}
+18:43:38: {'Type': 205, 'Message': 'its obv you and loki', 'Slot': 1}
+18:43:41: {'Type': 205, 'Message': 'lol', 'Slot': 4}
+18:43:41: {'Type': 205, 'Message': 'no other poss.', 'Slot': 1}
+18:43:42: {'Type': 205, 'Message': 'hahah', 'Slot': 4}
+18:43:47: {'Type': 205, 'Message': 'all you can say it lol hahhaha', 'Slot': 1}
+18:43:48: {'Type': 205, 'Message': 'brae has been really passive', 'Slot': 2}
+18:43:49: {'Type': 205, 'Message': 'cark zoe 100%', 'Slot': 4}
+18:43:49: {'Type': 205, 'Message': 'nice', 'Slot': 1}
+18:43:59: {'Type': 205, 'Message': 'i trust me brae and em', 'Slot': 0}
+18:44:01: {'Type': 205, 'Message': 'Bruh, zoe i actually passed hammer off loki onto you', 'Slot': 3}
+18:44:05: {'Type': 205, 'Message': 'of course you trust em', 'Slot': 1}
+18:44:07: {'Type': 205, 'Message': 'idk whats passive for you', 'Slot': 3}
+18:44:07: {'Type': 205, 'Message': 'ye ik', 'Slot': 2}
+18:44:13: {'Type': 205, 'Message': 'zoe carl ', 'Slot': 4}
+18:44:14: {'Type': 205, 'Message': 'i mean like in a good way', 'Slot': 2}
+18:44:18: {'Type': 205, 'Message': 'loki, look, i know your a hacker, and you can try and play this off, but you wont win', 'Slot': 1}
+18:44:24: {'Type': 205, 'Message': 'actually you might', 'Slot': 1}
+18:44:24: {'Type': 205, 'Message': 'lol carl u talk alot', 'Slot': 4}
+18:44:26: {'Type': 205, 'Message': 'carl accusing emily makes me think em is innocent', 'Slot': 0}
+18:44:27: {'Type': 205, 'Message': 'idk', 'Slot': 2}
+18:44:30: {'Type': 205, 'Message': 'brae ', 'Slot': 2}
+18:44:32: {'Type': 205, 'Message': 'thanks loki', 'Slot': 4}
+18:44:34: {'Type': 205, 'Message': 'thats it', 'Slot': 4}
+18:44:36: {'Type': 205, 'Message': 'idgaf what you think loki you are a hacker', 'Slot': 1}
+18:44:37: {'Type': 205, 'Message': 'put us to confirm', 'Slot': 2}
+18:44:37: {'Type': 205, 'Message': 'zoe carl', 'Slot': 4}
+18:44:41: {'Type': 205, 'Message': 'just wait till end and yall will se', 'Slot': 1}
+18:44:46: {'Type': 205, 'Message': 'YOU WILL ALl SEEEE', 'Slot': 1}
+18:44:53: {'Type': 205, 'Message': 'braetonix loki emily we are safe', 'Slot': 4}
+18:44:54: {'Type': 304, 'Proposer': 3, 'SelectedTeam': [2, 3], 'Passed': False}
+18:44:58: {'Type': 205, 'Message': 'noway', 'Slot': 4}
+18:44:59: {'Type': 205, 'Message': 'good picks', 'Slot': 1}
+18:45:03: {'Type': 205, 'Message': 'i wont accept zoe is hacker', 'Slot': 4}
+18:45:06: {'Type': 205, 'Message': 'i would rather brae and em', 'Slot': 0}
+18:45:11: {'Type': 205, 'Message': 'prop', 'Slot': 2}
+18:45:13: {'Type': 205, 'Message': 'ofc you want em since they are hacker', 'Slot': 1}
+18:45:13: {'Type': 205, 'Message': 'er', 'Slot': 2}
+18:45:14: {'Type': 205, 'Message': 'vote', 'Slot': 2}
+18:45:19: {'Type': 205, 'Message': 'hahaha', 'Slot': 4}
+18:45:23: {'Type': 205, 'Message': 'this is risky', 'Slot': 0}
+18:45:25: {'Type': 205, 'Message': 'carl zoe u wanna blv me do ', 'Slot': 4}
+18:45:26: {'Type': 205, 'Message': 'Im accepting', 'Slot': 3}
+18:45:27: {'Type': 205, 'Message': 'if not dont', 'Slot': 4}
+18:45:28: {'Type': 205, 'Message': 'loki vote', 'Slot': 2}
+18:45:30: {'Type': 205, 'Message': 'loki u blv me', 'Slot': 4}
+18:45:30: {'Type': 205, 'Message': 'common lets do it', 'Slot': 3}
+18:45:33: {'Type': 205, 'Message': 'brat blv me', 'Slot': 4}
+18:45:35: {'Type': 307, 'VotesFor': [1, 0], 'VotesAgainst': [3, 4, 2], 'Passed': False}
+18:45:37: {'Type': 205, 'Message': 'its us vs carl zoe', 'Slot': 4}
+18:45:39: {'Type': 205, 'Message': 'looool', 'Slot': 3}
+18:45:40: {'Type': 205, 'Message': 'YES', 'Slot': 2}
+18:45:40: {'Type': 205, 'Message': '????/', 'Slot': 1}
+18:45:42: {'Type': 205, 'Message': 'GET PLAYED!', 'Slot': 3}
+18:45:43: {'Type': 205, 'Message': '????????????????????????????', 'Slot': 1}
+18:45:44: {'Type': 205, 'Message': 'THEY FELL FOR BAIT', 'Slot': 2}
+18:45:48: {'Type': 205, 'Message': 'brae ttfu', 'Slot': 2}
+18:45:52: {'Type': 205, 'Message': 'its loki / braetonix', 'Slot': 2}
+18:45:54: {'Type': 304, 'Proposer': 4, 'SelectedTeam': [0, 4], 'Passed': False}
+18:45:55: {'Type': 205, 'Message': 'too bad it didnt gave us any info also', 'Slot': 3}
+18:45:59: {'Type': 205, 'Message': 'NO $!#*%&° WAY', 'Slot': 1}
+18:46:00: {'Type': 205, 'Message': 'smh zoe...', 'Slot': 3}
+18:46:02: {'Type': 205, 'Message': 'this seems safest to me', 'Slot': 0}
+18:46:03: {'Type': 205, 'Message': 'LOKI WAS IN n1 ', 'Slot': 1}
+18:46:06: {'Type': 205, 'Message': 'brae i trusted you <sprite name="emoji_sad_face">', 'Slot': 2}
+18:46:07: {'Type': 205, 'Message': 'DONT TRUST HIM', 'Slot': 1}
+18:46:09: {'Type': 205, 'Message': 'ITS ALL LIES ', 'Slot': 1}
+18:46:11: {'Type': 205, 'Message': 'ref', 'Slot': 2}
+18:46:16: {'Type': 205, 'Message': 'sources; %*°#&©$ TRUST ME', 'Slot': 1}
+18:46:16: {'Type': 205, 'Message': 'dont let loki in it', 'Slot': 2}
+18:46:24: {'Type': 205, 'Message': 'And why you think its me? I mean 2 ppl acced out of node, meaning 1 agent at least', 'Slot': 3}
+18:46:27: {'Type': 205, 'Message': 'so...?', 'Slot': 3}
+18:46:30: {'Type': 205, 'Message': 'i dont trust  you though oe', 'Slot': 0}
+18:46:33: {'Type': 205, 'Message': 'zoe', 'Slot': 0}
+18:46:37: {'Type': 205, 'Message': 'loki stfu hacker', 'Slot': 1}
+18:46:40: {'Type': 205, 'Message': 'zoe hacker 100%', 'Slot': 4}
+18:46:40: {'Type': 205, 'Message': 'carl has been acc the whole gme', 'Slot': 2}
+18:46:43: {'Type': 205, 'Message': 'that joke at the start still makes me sus', 'Slot': 0}
+18:46:44: {'Type': 205, 'Message': 'and carl', 'Slot': 4}
+18:46:44: {'Type': 205, 'Message': 'loki = hacker ', 'Slot': 1}
+18:46:44: {'Type': 205, 'Message': 'loki = hacker ', 'Slot': 1}
+18:46:45: {'Type': 205, 'Message': 'loki = hacker ', 'Slot': 1}
+18:46:46: {'Type': 307, 'VotesFor': [4, 0], 'VotesAgainst': [1, 2, 3], 'Passed': False}
+18:46:52: {'Type': 205, 'Message': 'oh look who acc', 'Slot': 1}
+18:46:55: {'Type': 205, 'Message': 'i played the hacker outside to acc', 'Slot': 2}
+18:46:57: {'Type': 205, 'Message': 'two hackers trying to win', 'Slot': 1}
+18:46:57: {'Type': 205, 'Message': 'Honestly, i think i gonna go with myself and emily', 'Slot': 3}
+18:46:59: {'Type': 205, 'Message': 'okay guys', 'Slot': 4}
+18:46:59: {'Type': 205, 'Message': 'braetonix _ loki', 'Slot': 2}
+18:47:01: {'Type': 205, 'Message': 'zoey for sure', 'Slot': 4}
+18:47:10: {'Type': 205, 'Message': 'carl or loki not sure of them', 'Slot': 4}
+18:47:10: {'Type': 205, 'Message': 'loki are you dumb', 'Slot': 2}
+18:47:13: {'Type': 205, 'Message': 'this is very risky without me', 'Slot': 0}
+18:47:15: {'Type': 205, 'Message': 'DUDE', 'Slot': 2}
+18:47:15: {'Type': 205, 'Message': 'loki', 'Slot': 1}
+18:47:24: {'Type': 205, 'Message': 'thx', 'Slot': 2}
+18:47:26: {'Type': 205, 'Message': 'imo pass loki', 'Slot': 3}
+18:47:27: {'Type': 205, 'Message': 'carl is safe', 'Slot': 4}
+18:47:28: {'Type': 205, 'Message': 'its braetonix loki', 'Slot': 2}
+18:47:29: {'Type': 304, 'Proposer': 0, 'SelectedTeam': [], 'Passed': True}
+18:47:31: {'Type': 205, 'Message': 'i trust u carl', 'Slot': 4}
+18:47:35: {'Type': 205, 'Message': 'tahnk you', 'Slot': 3}
+18:47:36: {'Type': 205, 'Message': 'carl braetonix', 'Slot': 4}
+18:47:41: {'Type': 205, 'Message': 'i trust u', 'Slot': 4}
+18:47:42: {'Type': 205, 'Message': 'both', 'Slot': 4}
+18:47:47: {'Type': 205, 'Message': 'loki zoe', 'Slot': 4}
+18:47:49: {'Type': 205, 'Message': 'i dont', 'Slot': 4}
+18:47:50: {'Type': 205, 'Message': 'loki if you want any chance to win do not pass', 'Slot': 2}
+18:47:55: {'Type': 205, 'Message': 'if you are actually agent', 'Slot': 2}
+18:47:57: {'Type': 205, 'Message': 'do not pass', 'Slot': 2}
+18:48:06: {'Type': 205, 'Message': 'braetonix is hacker', 'Slot': 2}
+18:48:07: {'Type': 205, 'Message': 'carl braetonix prob, bit i dont like zoe', 'Slot': 0}
+18:48:08: {'Type': 304, 'Proposer': 1, 'SelectedTeam': [1, 2], 'Passed': False}
+18:48:15: {'Type': 205, 'Message': 'ugh', 'Slot': 2}
+18:48:16: {'Type': 205, 'Message': 'i dont trust anyone but zoe', 'Slot': 1}
+18:48:24: {'Type': 205, 'Message': 'over my dead body ill accept zoe', 'Slot': 4}
+18:48:24: {'Type': 205, 'Message': 'sim', 'Slot': 3}
+18:48:25: {'Type': 205, 'Message': 'i mean', 'Slot': 2}
+18:48:26: {'Type': 205, 'Message': '*simp', 'Slot': 3}
+18:48:27: {'Type': 205, 'Message': 'i know loki is a hacker', 'Slot': 1}
+18:48:33: {'Type': 205, 'Message': 'emily is sus, but less sus', 'Slot': 1}
+18:48:37: {'Type': 205, 'Message': 'emily we need to be in a node', 'Slot': 2}
+18:48:39: {'Type': 205, 'Message': 'and braetonix is idk', 'Slot': 1}
+18:48:39: {'Type': 205, 'Message': 'okay loki i braetonix', 'Slot': 4}
+18:48:42: {'Type': 205, 'Message': 'my final guess', 'Slot': 4}
+18:48:45: {'Type': 205, 'Message': 'youre the only one not sus', 'Slot': 2}
+18:48:46: {'Type': 205, 'Message': 'zoey carl hackers', 'Slot': 4}
+18:48:46: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [4, 3, 0, 2], 'Passed': False}
+18:48:48: {'Type': 205, 'Message': 'YUP', 'Slot': 1}
+18:48:52: {'Type': 205, 'Message': 'zoe smart move', 'Slot': 4}
+18:48:56: {'Type': 205, 'Message': 'im not acc anything without emily', 'Slot': 0}
+18:48:56: {'Type': 205, 'Message': 'u refused lol', 'Slot': 4}
+18:49:00: {'Type': 304, 'Proposer': 2, 'SelectedTeam': [], 'Passed': True}
+18:49:04: {'Type': 205, 'Message': 'emily please', 'Slot': 2}
+18:49:06: {'Type': 205, 'Message': 'make the right move', 'Slot': 2}
+18:49:10: {'Type': 205, 'Message': 'REJEC TED ANYTHING WITH LOKI BRAetonix', 'Slot': 1}
+18:49:10: {'Type': 205, 'Message': 'lol', 'Slot': 4}
+18:49:11: {'Type': 304, 'Proposer': 3, 'SelectedTeam': [3, 4], 'Passed': False}
+18:49:14: {'Type': 205, 'Message': 'i dont want braetonix to have hammer', 'Slot': 2}
+18:49:16: {'Type': 205, 'Message': 'carl zoe', 'Slot': 4}
+18:49:19: {'Type': 205, 'Message': 'are hackers', 'Slot': 4}
+18:49:22: {'Type': 205, 'Message': 'This is my prop', 'Slot': 3}
+18:49:23: {'Type': 205, 'Message': 'this seems safe to me', 'Slot': 0}
+18:49:23: {'Type': 205, 'Message': 'i accept', 'Slot': 4}
+18:49:25: {'Type': 307, 'VotesFor': [3, 4, 0], 'VotesAgainst': [1, 2], 'Passed': True}
+18:49:26: {'Type': 205, 'Message': 'loki accept', 'Slot': 4}
+18:49:28: {'Type': 205, 'Message': 'we winnnnnn', 'Slot': 4}
+18:49:29: {'Type': 205, 'Message': 'gg', 'Slot': 1}
+18:49:45: {'Type': 311, 'Mission': 3, 'Failed': False, 'NumHacks': 0, 'Proposer': 3}
+18:49:50: {'Type': 205, 'Message': 'hahaha', 'Slot': 4}
+18:49:51: {'Type': 205, 'Message': 'NO %°@#&?$ WAY', 'Slot': 1}
+18:49:51: {'Type': 205, 'Message': 'gg', 'Slot': 4}
+18:49:51: {'Type': 205, 'Message': 'wtf', 'Slot': 2}
+18:49:51: {'Type': 205, 'Message': 'huh', 'Slot': 0}
+18:49:52: {'Type': 205, 'Message': 'LOKI WHY ', 'Slot': 1}
+18:49:54: {'Type': 205, 'Message': 'hahaha', 'Slot': 4}
+18:49:55: {'Type': 205, 'Message': 'DID YOU NOT JUST WIN IT', 'Slot': 1}
+18:49:56: {'Type': 205, 'Message': 'carl zeo', 'Slot': 4}
+18:49:57: {'Type': 205, 'Message': 'its loki carl?', 'Slot': 2}
+18:49:57: {'Type': 205, 'Message': 'WTF ', 'Slot': 1}
+18:49:57: {'Type': 205, 'Message': 'lol', 'Slot': 4}
+18:49:59: {'Type': 205, 'Message': 'why did that take so long?', 'Slot': 0}
+18:50:01: {'Type': 205, 'Message': 'HAHHAHA WTF', 'Slot': 1}
+18:50:03: {'Type': 205, 'Message': 'carl zoe hackers', 'Slot': 4}
+18:50:07: {'Type': 205, 'Message': 'LOKI IT WAS YOU', 'Slot': 1}
+18:50:07: {'Type': 205, 'Message': 'throwing hacker?', 'Slot': 0}
+18:50:10: {'Type': 205, 'Message': 'Cant be loki carl', 'Slot': 3}
+18:50:12: {'Type': 205, 'Message': 'LOKI YOU SLY LITTLE GUY', 'Slot': 1}
+18:50:13: {'Type': 205, 'Message': 'N2', 'Slot': 3}
+18:50:20: {'Type': 205, 'Message': 'wait no it couldnt be', 'Slot': 2}
+18:50:22: {'Type': 205, 'Message': "YOU'RE TRYING TO PLAY THIS OFF IT WORKING ", 'Slot': 1}
+18:50:34: {'Type': 205, 'Message': 'noody should trust you rn', 'Slot': 1}
+18:50:47: {'Type': 205, 'Message': 'im safe braetonix is safe', 'Slot': 4}
+18:50:50: {'Type': 205, 'Message': 'zeo is hacker', 'Slot': 4}
+18:50:54: {'Type': 205, 'Message': 'im lost between carl and loki', 'Slot': 4}
+18:50:57: {'Type': 205, 'Message': 'Carl Zoe are my guesses on hackers', 'Slot': 3}
+18:51:07: {'Type': 205, 'Message': '100%', 'Slot': 0}
+18:51:09: {'Type': 205, 'Message': 'Sorry Zoe, ur female powers dont work on my gae brain', 'Slot': 3}
+18:51:21: {'Type': 205, 'Message': 'unless one of you twio is a throwing hacker', 'Slot': 0}
+18:51:32: {'Type': 205, 'Message': 'no', 'Slot': 1}
+18:51:37: {'Type': 205, 'Message': 'get away braetonix', 'Slot': 1}
+18:51:41: {'Type': 205, 'Message': 'carl came out as hacker trying to bus loki', 'Slot': 3}
+18:51:49: {'Type': 304, 'Proposer': 4, 'SelectedTeam': [0, 3, 4], 'Passed': False}
+18:51:49: {'Type': 205, 'Message': 'but carl loki is impossible since n2', 'Slot': 3}
+18:52:10: {'Type': 307, 'VotesFor': [4, 3, 0], 'VotesAgainst': [2, 1], 'Passed': True}
+18:52:14: {'Type': 205, 'Message': 'g', 'Slot': 1}
+18:52:15: {'Type': 205, 'Message': 'g', 'Slot': 1}
+18:52:30: {'Type': 311, 'Mission': 4, 'Failed': True, 'NumHacks': 1, 'Proposer': 4}
+18:52:40: {'Type': 205, 'Message': 'gg, was fun.', 'Slot': 0}
+18:52:42: {'Type': 205, 'Message': 'carl smh', 'Slot': 3}
+18:52:46: {'Type': 205, 'Message': 'loki we were @°#$/!', 'Slot': 2}
+18:52:46: {'Type': 205, 'Message': 'carl', 'Slot': 4}
+18:52:49: {'Type': 205, 'Message': 'u lost us', 'Slot': 4}
+18:52:50: {'Type': 205, 'Message': 'man', 'Slot': 4}
+18:52:52: {'Type': 205, 'Message': 'nobody noticed n2 and n3', 'Slot': 2}
+18:52:52: {'Type': 205, 'Message': 'carl made himself sus', 'Slot': 0}
+18:52:55: {'Type': 205, 'Message': 'n3 passed', 'Slot': 2}
+18:52:55: {'Type': 205, 'Message': 'yeaaa', 'Slot': 4}
+18:53:01: {'Type': 205, 'Message': 'shoulda belived me i guess', 'Slot': 1}
+18:53:03: {'Type': 205, 'Message': 'and i was the onl one in n2', 'Slot': 2}
+18:53:03: {'Type': 205, 'Message': 'gg though ', 'Slot': 0}
+18:53:09: {'Type': 205, 'Message': 'we knew loki was sus from start but ogh well', 'Slot': 1}
+18:53:09: {'Type': 205, 'Message': 'not in n3', 'Slot': 2}
+18:53:15: {'Type': 205, 'Message': 'yall shouldve won the game', 'Slot': 2}
+18:53:15: {'Type': 205, 'Message': 'was gg', 'Slot': 4}
+18:53:17: {'Type': 205, 'Message': 'you knew', 'Slot': 0}
+18:53:17: {'Type': 205, 'Message': 'fun', 'Slot': 4}
+18:53:19: {'Type': 205, 'Message': 'brae you shouldve caught that', 'Slot': 2}
+18:53:29: {'Type': 205, 'Message': 'gg i guess?', 'Slot': 3}
+18:53:30: {'Type': 205, 'Message': 'well played everyon!', 'Slot': 2}
+18:53:31: {'Type': 205, 'Message': 'gg', 'Slot': 2}
+18:56:27: {'Type': 205, 'Message': 'crowded', 'Slot': 4}
+18:56:35: {'Type': 205, 'Message': 'омг', 'Slot': 5}
+18:56:44: {'Type': 205, 'Message': 'alright i am calling it, it is sara lloyd and gabriel', 'Slot': 2}
+18:56:47: {'Type': 205, 'Message': 'omg first game with 7 peeps', 'Slot': 5}
+18:56:53: {'Type': 304, 'Proposer': 0, 'SelectedTeam': [0, 1], 'Passed': False}
+18:57:06: {'Type': 205, 'Message': 'you have a solid chance of hitting at least one', 'Slot': 5}
+18:57:11: {'Type': 205, 'Message': 'mathematrically ', 'Slot': 5}
+18:57:11: {'Type': 205, 'Message': 'yu', 'Slot': 2}
+18:57:13: {'Type': 205, 'Message': 'marcel', 'Slot': 5}
+18:57:21: {'Type': 205, 'Message': '"calling" means you know it or guess??', 'Slot': 4}
+18:57:30: {'Type': 205, 'Message': 'curious', 'Slot': 4}
+18:57:36: {'Type': 307, 'VotesFor': [0, 1], 'VotesAgainst': [2, 5, 6, 3, 4], 'Passed': False}
+18:57:40: {'Type': 205, 'Message': 'yeah but i use gnome gnolage and so i can call it', 'Slot': 2}
+18:58:12: {'Type': 304, 'Proposer': 1, 'SelectedTeam': [2, 5], 'Passed': False}
+18:58:20: {'Type': 205, 'Message': 'ok u not a meta fan?', 'Slot': 5}
+18:58:31: {'Type': 205, 'Message': 'wait', 'Slot': 5}
+18:58:32: {'Type': 205, 'Message': 'hanna', 'Slot': 5}
+18:58:34: {'Type': 205, 'Message': 'proped ', 'Slot': 5}
+18:58:37: {'Type': 205, 'Message': 'this', 'Slot': 5}
+18:58:41: {'Type': 205, 'Message': 'and u not in it/???/', 'Slot': 5}
+18:58:56: {'Type': 205, 'Message': 'k', 'Slot': 2}
+18:59:05: {'Type': 205, 'Message': 'it hanna zoe sara', 'Slot': 2}
+18:59:12: {'Type': 307, 'VotesFor': [], 'VotesAgainst': [0, 3, 6, 4, 2, 5, 1], 'Passed': False}
+18:59:24: {'Type': 304, 'Proposer': 2, 'SelectedTeam': [2, 3], 'Passed': False}
+18:59:29: {'Type': 205, 'Message': 'guys lets rapee marcel', 'Slot': 6}
+18:59:30: {'Type': 205, 'Message': 'its marcel marcel and marcel', 'Slot': 4}
+18:59:37: {'Type': 205, 'Message': 'im calling it', 'Slot': 4}
+18:59:41: {'Type': 205, 'Message': 'gang banggg marcel', 'Slot': 6}
+18:59:44: {'Type': 205, 'Message': 'the fact that he said he guessed who it is', 'Slot': 5}
+18:59:47: {'Type': 205, 'Message': 'his tinnyy asss', 'Slot': 6}
+18:59:47: {'Type': 205, 'Message': 'in the beginning ', 'Slot': 5}
+18:59:52: {'Type': 205, 'Message': 'doesnt mean', 'Slot': 5}
+18:59:55: {'Type': 205, 'Message': 'he is hacker', 'Slot': 5}
+18:59:56: {'Type': 205, 'Message': 'means', 'Slot': 5}
+18:59:59: {'Type': 205, 'Message': 'he is cocky', 'Slot': 5}
+19:00:05: {'Type': 307, 'VotesFor': [1, 2], 'VotesAgainst': [3, 0, 6, 5, 4], 'Passed': False}
+19:00:11: {'Type': 205, 'Message': 'no i is gnome not cocky', 'Slot': 2}
+19:00:13: {'Type': 205, 'Message': 'hanna?????', 'Slot': 5}
+19:00:13: {'Type': 304, 'Proposer': 3, 'SelectedTeam': [3, 4], 'Passed': False}
+19:00:25: {'Type': 205, 'Message': 'i am super susp of hanna 4 now', 'Slot': 5}
+19:00:36: {'Type': 205, 'Message': 'i have no other info tho', 'Slot': 5}
+19:00:48: {'Type': 205, 'Message': 'if anyone has anything feel free to share', 'Slot': 5}
+19:01:01: {'Type': 307, 'VotesFor': [], 'VotesAgainst': [3, 2, 4, 6, 0, 5, 1], 'Passed': False}
+19:01:10: {'Type': 205, 'Message': 'hammer', 'Slot': 5}
+19:01:15: {'Type': 304, 'Proposer': 4, 'SelectedTeam': [4, 5], 'Passed': False}
+19:01:16: {'Type': 205, 'Message': 'zoe your playimng the imma try and be inocento gamo so Iyeah', 'Slot': 2}
+19:01:20: {'Type': 205, 'Message': 'exposoed', 'Slot': 2}
+19:01:28: {'Type': 205, 'Message': 'zoe hack it', 'Slot': 6}
+19:01:34: {'Type': 205, 'Message': 'fair enough', 'Slot': 5}
+19:01:35: {'Type': 205, 'Message': '??', 'Slot': 5}
+19:01:41: {'Type': 205, 'Message': 'i would if i could', 'Slot': 5}
+19:01:44: {'Type': 205, 'Message': 'but i canr', 'Slot': 5}
+19:01:46: {'Type': 205, 'Message': 'u can', 'Slot': 6}
+19:01:47: {'Type': 205, 'Message': 'ferrell ', 'Slot': 5}
+19:01:52: {'Type': 205, 'Message': 'sry 2 dissapoint', 'Slot': 5}
+19:01:58: {'Type': 307, 'VotesFor': [4, 6, 3, 1, 0, 5], 'VotesAgainst': [2], 'Passed': True}
+19:01:58: {'Type': 205, 'Message': 'you cant because it wil be refed', 'Slot': 2}
+19:02:17: {'Type': 311, 'Mission': 1, 'Failed': False, 'NumHacks': 0, 'Proposer': 4}
+19:02:22: {'Type': 205, 'Message': 'uhhhh', 'Slot': 5}
+19:02:27: {'Type': 205, 'Message': 'that was super slow', 'Slot': 5}
+19:02:28: {'Type': 205, 'Message': 'moron', 'Slot': 6}
+19:02:30: {'Type': 205, 'Message': 'long kon', 'Slot': 2}
+19:02:31: {'Type': 205, 'Message': 'sara u here?', 'Slot': 5}
+19:02:38: {'Type': 205, 'Message': 'y', 'Slot': 4}
+19:02:46: {'Type': 205, 'Message': 'hackers are me zoe sara', 'Slot': 6}
+19:02:47: {'Type': 205, 'Message': 'why did you take so long', 'Slot': 5}
+19:02:54: {'Type': 205, 'Message': 'i am one', 'Slot': 6}
+19:02:59: {'Type': 205, 'Message': 'uhhh no sir', 'Slot': 5}
+19:03:03: {'Type': 205, 'Message': 'zoe moron', 'Slot': 6}
+19:03:07: {'Type': 205, 'Message': 'dude', 'Slot': 5}
+19:03:08: {'Type': 205, 'Message': 'because i want to hack it', 'Slot': 4}
+19:03:09: {'Type': 205, 'Message': 'ur logic', 'Slot': 5}
+19:03:13: {'Type': 205, 'Message': 'makes no sense', 'Slot': 5}
+19:03:18: {'Type': 205, 'Message': 'cuz if it was me and zoe', 'Slot': 5}
+19:03:18: {'Type': 205, 'Message': 'and finally bluf', 'Slot': 4}
+19:03:22: {'Type': 205, 'Message': 'sry', 'Slot': 5}
+19:03:24: {'Type': 205, 'Message': 'no it zoe sara hanna', 'Slot': 2}
+19:03:27: {'Type': 205, 'Message': 'me and sara ', 'Slot': 5}
+19:03:35: {'Type': 205, 'Message': 'if it was me and sara', 'Slot': 5}
+19:03:35: {'Type': 205, 'Message': 'sa', 'Slot': 5}
+19:03:40: {'Type': 205, 'Message': 'sara should have hacled ', 'Slot': 5}
+19:03:45: {'Type': 205, 'Message': 'according to protocol', 'Slot': 5}
+19:03:50: {'Type': 205, 'Message': 'cuz she prop', 'Slot': 5}
+19:03:57: {'Type': 205, 'Message': 'and u wanted me to hacl?????', 'Slot': 5}
+19:04:04: {'Type': 205, 'Message': 'how does that work ferrell?', 'Slot': 5}
+19:04:08: {'Type': 304, 'Proposer': 5, 'SelectedTeam': [0, 2, 5], 'Passed': False}
+19:04:32: {'Type': 307, 'VotesFor': [5, 6], 'VotesAgainst': [3, 1, 2, 4, 0], 'Passed': False}
+19:04:41: {'Type': 304, 'Proposer': 6, 'SelectedTeam': [4, 5, 6], 'Passed': False}
+19:04:55: {'Type': 205, 'Message': 'ferrell why acc?', 'Slot': 5}
+19:05:07: {'Type': 205, 'Message': 'zoe why ask', 'Slot': 4}
+19:05:08: {'Type': 205, 'Message': 'wat', 'Slot': 6}
+19:05:14: {'Type': 205, 'Message': 'i am hacker', 'Slot': 6}
+19:05:17: {'Type': 205, 'Message': 'thats why', 'Slot': 6}
+19:05:21: {'Type': 307, 'VotesFor': [6], 'VotesAgainst': [2, 3, 0, 5, 4, 1], 'Passed': False}
+19:05:28: {'Type': 304, 'Proposer': 0, 'SelectedTeam': [0, 1, 3], 'Passed': False}
+19:05:44: {'Type': 205, 'Message': 'sus trio in top right', 'Slot': 0}
+19:05:46: {'Type': 205, 'Message': 'i am not sure whether u hacker or a troll', 'Slot': 5}
+19:05:56: {'Type': 205, 'Message': 'fair logic i suppose', 'Slot': 5}
+19:05:59: {'Type': 205, 'Message': 'but not taking', 'Slot': 5}
+19:06:03: {'Type': 205, 'Message': 'anyone', 'Slot': 5}
+19:06:05: {'Type': 205, 'Message': 'from n1', 'Slot': 5}
+19:06:07: {'Type': 205, 'Message': 'is stupid', 'Slot': 5}
+19:06:11: {'Type': 205, 'Message': 'when we are 7', 'Slot': 5}
+19:06:23: {'Type': 307, 'VotesFor': [0, 1], 'VotesAgainst': [3, 6, 4, 2, 5], 'Passed': False}
+19:06:46: {'Type': 205, 'Message': 'this is the slowest game ever', 'Slot': 2}
+19:07:03: {'Type': 304, 'Proposer': 1, 'SelectedTeam': [1, 4, 5], 'Passed': False}
+19:07:13: {'Type': 205, 'Message': 'i dont like this ', 'Slot': 5}
+19:07:18: {'Type': 205, 'Message': 'cuz i dont like hanna', 'Slot': 5}
+19:07:21: {'Type': 205, 'Message': 'since the start', 'Slot': 5}
+19:07:25: {'Type': 205, 'Message': "i've said it", 'Slot': 5}
+19:07:49: {'Type': 205, 'Message': 'hanna is putting every hacker in', 'Slot': 2}
+19:07:55: {'Type': 307, 'VotesFor': [1, 6], 'VotesAgainst': [4, 3, 2, 5, 0], 'Passed': False}
+19:08:04: {'Type': 304, 'Proposer': 2, 'SelectedTeam': [0, 2, 3], 'Passed': False}
+19:08:13: {'Type': 205, 'Message': 'hammer time', 'Slot': 2}
+19:08:16: {'Type': 205, 'Message': 'hammer we need to acc', 'Slot': 5}
+19:08:34: {'Type': 205, 'Message': 'stupid when u dont take anyone from n1', 'Slot': 5}
+19:08:36: {'Type': 205, 'Message': 'but ok', 'Slot': 5}
+19:08:48: {'Type': 205, 'Message': 'i dislike this round', 'Slot': 4}
+19:08:51: {'Type': 307, 'VotesFor': [2, 3, 5, 1, 6, 0, 4], 'VotesAgainst': [], 'Passed': True}
+19:08:55: {'Type': 205, 'Message': 'same', 'Slot': 5}
+19:09:04: {'Type': 311, 'Mission': 2, 'Failed': True, 'NumHacks': 1, 'Proposer': 2}
+19:09:13: {'Type': 205, 'Message': 'ohh i told you', 'Slot': 5}
+19:09:20: {'Type': 205, 'Message': 'gabriel ferrell and hanna', 'Slot': 2}
+19:09:23: {'Type': 205, 'Message': 'lloyd', 'Slot': 6}
+19:09:25: {'Type': 205, 'Message': 'its stupid to pick all of the people ', 'Slot': 5}
+19:09:26: {'Type': 205, 'Message': 'is hacker', 'Slot': 6}
+19:09:30: {'Type': 205, 'Message': 'on whom u have 0 info', 'Slot': 5}
+19:09:46: {'Type': 205, 'Message': 'HE IS SILENT', 'Slot': 6}
+19:10:04: {'Type': 205, 'Message': 'didnt u say sara and me were hackers?', 'Slot': 5}
+19:10:16: {'Type': 205, 'Message': 'i chande my mid', 'Slot': 6}
+19:10:23: {'Type': 304, 'Proposer': 3, 'SelectedTeam': [0, 3, 4], 'Passed': False}
+19:10:24: {'Type': 205, 'Message': 'ye but you hacker', 'Slot': 5}
+19:10:25: {'Type': 205, 'Message': 'gabrielbecause on multiple times he acc wehn ferell in', 'Slot': 2}
+19:10:30: {'Type': 205, 'Message': 'so you know who is hacker', 'Slot': 5}
+19:10:33: {'Type': 205, 'Message': 'yes', 'Slot': 6}
+19:10:38: {'Type': 205, 'Message': 'sry marcel', 'Slot': 3}
+19:10:40: {'Type': 205, 'Message': 'meaning', 'Slot': 5}
+19:10:41: {'Type': 205, 'Message': 'but i dont but that', 'Slot': 3}
+19:10:44: {'Type': 205, 'Message': 'buy', 'Slot': 3}
+19:10:56: {'Type': 307, 'VotesFor': [0, 6], 'VotesAgainst': [1, 2, 5, 3, 4], 'Passed': False}
+19:11:09: {'Type': 205, 'Message': 'hanna is prob hacker and so is marcel ', 'Slot': 5}
+19:11:19: {'Type': 205, 'Message': 'no', 'Slot': 6}
+19:11:19: {'Type': 205, 'Message': 'cuz ferrell is pushinh', 'Slot': 5}
+19:11:22: {'Type': 205, 'Message': 'ur hacker', 'Slot': 6}
+19:11:25: {'Type': 205, 'Message': 'on me sara and lloyd', 'Slot': 5}
+19:11:29: {'Type': 205, 'Message': 'welp lloyd your guns regrest that', 'Slot': 2}
+19:11:42: {'Type': 205, 'Message': 'why didnt put n1 like sara', 'Slot': 3}
+19:11:59: {'Type': 304, 'Proposer': 4, 'SelectedTeam': [], 'Passed': True}
+19:12:13: {'Type': 205, 'Message': 'i want go to bed', 'Slot': 6}
+19:12:14: {'Type': 205, 'Message': "i like lloyd's logic about not taking n1", 'Slot': 5}
+19:12:16: {'Type': 205, 'Message': 'sry', 'Slot': 6}
+19:12:20: {'Type': 205, 'Message': 'bye', 'Slot': 6}
+19:12:23: {'Type': 205, 'Message': 'zoe you are sus too', 'Slot': 3}
+19:12:26: {'Type': 205, 'Message': 'ik', 'Slot': 5}
+19:12:28: {'Type': 205, 'Message': 'dont buy me buddy', 'Slot': 3}
+19:12:31: {'Type': 205, 'Message': 'i nit hej', 'Slot': 2}
+19:12:41: {'Type': 304, 'Proposer': 5, 'SelectedTeam': [3, 4, 5], 'Passed': False}
+19:12:48: {'Type': 205, 'Message': 'why didnt you pass', 'Slot': 3}
+19:12:49: {'Type': 205, 'Message': 'jesus', 'Slot': 3}
+19:13:01: {'Type': 205, 'Message': 'lloyd and gabriel are 50/50 to me', 'Slot': 5}
+19:13:05: {'Type': 205, 'Message': 'sara is just quiet', 'Slot': 5}
+19:13:08: {'Type': 205, 'Message': 'i dont wanna hammer to marcel', 'Slot': 4}
+19:13:13: {'Type': 205, 'Message': 'and i dont like hanna and ferrell', 'Slot': 5}
+19:13:19: {'Type': 307, 'VotesFor': [5, 1], 'VotesAgainst': [0, 6, 2, 3, 4], 'Passed': False}
+19:13:24: {'Type': 304, 'Proposer': 6, 'SelectedTeam': [6, 2, 1], 'Passed': False}
+19:13:32: {'Type': 307, 'VotesFor': [6], 'VotesAgainst': [3, 4, 1, 0, 2, 5], 'Passed': False}
+19:13:42: {'Type': 205, 'Message': 'hanna has hammer', 'Slot': 5}
+19:14:03: {'Type': 304, 'Proposer': 0, 'SelectedTeam': [0, 4, 5], 'Passed': False}
+19:14:10: {'Type': 205, 'Message': 'i agree ', 'Slot': 5}
+19:14:41: {'Type': 307, 'VotesFor': [0, 5], 'VotesAgainst': [6, 2, 4, 1, 3], 'Passed': False}
+19:15:16: {'Type': 304, 'Proposer': 1, 'SelectedTeam': [1, 4, 5], 'Passed': False}
+19:15:23: {'Type': 205, 'Message': 'n1 + 1', 'Slot': 5}
+19:15:26: {'Type': 205, 'Message': 'rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr', 'Slot': 2}
+19:16:04: {'Type': 205, 'Message': 'cancle', 'Slot': 2}
+19:16:07: {'Type': 205, 'Message': 'cancel', 'Slot': 2}
+19:16:16: {'Type': 307, 'VotesFor': [6, 3, 4, 0, 2, 5, 1], 'VotesAgainst': [], 'Passed': True}
+19:16:36: {'Type': 311, 'Mission': 3, 'Failed': True, 'NumHacks': 1, 'Proposer': 1}
+19:16:52: {'Type': 205, 'Message': 'so i am still convinced its hanna', 'Slot': 5}
+19:17:02: {'Type': 205, 'Message': 'obv that makes me sus', 'Slot': 5}
+19:17:04: {'Type': 205, 'Message': 'ik', 'Slot': 5}
+19:17:50: {'Type': 205, 'Message': 'i trust you', 'Slot': 4}
+19:18:04: {'Type': 205, 'Message': 'wanna except hanna and marcel', 'Slot': 4}
+19:18:40: {'Type': 205, 'Message': '50/50 gab or lloyd', 'Slot': 2}
+19:18:50: {'Type': 205, 'Message': 'nt', 'Slot': 3}
+19:18:59: {'Type': 205, 'Message': 'we have time', 'Slot': 5}
+19:18:59: {'Type': 304, 'Proposer': 2, 'SelectedTeam': [1, 6, 4, 2], 'Passed': False}
+19:19:02: {'Type': 205, 'Message': 'to thik', 'Slot': 5}
+19:19:03: {'Type': 205, 'Message': 'waht', 'Slot': 2}
+19:19:06: {'Type': 205, 'Message': 'randomize', 'Slot': 2}
+19:19:10: {'Type': 205, 'Message': 'ref so we need time', 'Slot': 5}
+19:19:13: {'Type': 307, 'VotesFor': [6, 0], 'VotesAgainst': [3, 2, 5, 4, 1], 'Passed': False}
+19:19:22: {'Type': 205, 'Message': 'gabriel why acc?', 'Slot': 5}
+19:19:29: {'Type': 205, 'Message': 'only one that mde sense imo', 'Slot': 0}
+19:19:44: {'Type': 304, 'Proposer': 3, 'SelectedTeam': [1, 3, 4, 5], 'Passed': False}
+19:19:47: {'Type': 205, 'Message': 'ferell is a troll', 'Slot': 5}
+19:19:52: {'Type': 205, 'Message': 'ok', 'Slot': 5}
+19:19:53: {'Type': 205, 'Message': 'hes a bot', 'Slot': 0}
+19:19:54: {'Type': 205, 'Message': 'so we know', 'Slot': 5}
+19:19:54: {'Type': 205, 'Message': 'he left', 'Slot': 0}
+19:19:58: {'Type': 205, 'Message': 'we have min 1 hacker', 'Slot': 5}
+19:20:01: {'Type': 205, 'Message': 'here', 'Slot': 5}
+19:20:12: {'Type': 205, 'Message': 'it xould be gabriel', 'Slot': 2}
+19:20:13: {'Type': 205, 'Message': 'i wont take the risk of a whole n3 ', 'Slot': 5}
+19:20:18: {'Type': 205, 'Message': 'hanna and ferrell', 'Slot': 2}
+19:20:37: {'Type': 307, 'VotesFor': [], 'VotesAgainst': [6, 0, 3, 5, 2, 1, 4], 'Passed': False}
+19:20:58: {'Type': 205, 'Message': 'i liked gabriel more but i dont get why he acc the one with ferell', 'Slot': 5}
+19:21:03: {'Type': 205, 'Message': 'i need your idea zoe', 'Slot': 4}
+19:21:09: {'Type': 205, 'Message': 'i am betting', 'Slot': 5}
+19:21:15: {'Type': 205, 'Message': 'on you me and marcel', 'Slot': 5}
+19:21:18: {'Type': 205, 'Message': 'being agents', 'Slot': 5}
+19:21:25: {'Type': 205, 'Message': 'hanna is hacker imo', 'Slot': 5}
+19:21:26: {'Type': 205, 'Message': 'gabriel has been accept all the ones with ferrell in them', 'Slot': 2}
+19:21:30: {'Type': 205, 'Message': 'ferell also', 'Slot': 5}
+19:21:33: {'Type': 205, 'Message': 'so its 50/50', 'Slot': 5}
+19:21:42: {'Type': 304, 'Proposer': 4, 'SelectedTeam': [4, 3, 1, 6], 'Passed': False}
+19:21:56: {'Type': 205, 'Message': 'ref', 'Slot': 4}
+19:21:57: {'Type': 307, 'VotesFor': [6], 'VotesAgainst': [0, 3, 4, 1, 5, 2], 'Passed': False}
+19:22:07: {'Type': 205, 'Message': 'marcel has a good point', 'Slot': 5}
+19:22:15: {'Type': 205, 'Message': 'zoe get all acc', 'Slot': 4}
+19:22:33: {'Type': 205, 'Message': 'w', 'Slot': 0}
+19:22:34: {'Type': 205, 'Message': 'ferrell is useless agents!', 'Slot': 4}
+19:22:41: {'Type': 205, 'Message': 'if you do me and lloyd/gabriel think it wil only be one hacker', 'Slot': 2}
+19:22:41: {'Type': 205, 'Message': 'put gabriel instead of marcel', 'Slot': 3}
+19:22:47: {'Type': 205, 'Message': 'why do you think he is agent tho sara?', 'Slot': 5}
+19:22:53: {'Type': 205, 'Message': 'they need two', 'Slot': 2}
+19:22:59: {'Type': 304, 'Proposer': 5, 'SelectedTeam': [2, 3, 4, 5], 'Passed': False}
+19:23:06: {'Type': 205, 'Message': 'if ferrell and hanna are hackzer', 'Slot': 2}
+19:23:19: {'Type': 205, 'Message': 'i am betting on this', 'Slot': 5}
+19:23:37: {'Type': 205, 'Message': 'agents acc this round!or random ,,,bad', 'Slot': 4}
+19:23:40: {'Type': 307, 'VotesFor': [3, 5, 2, 1, 4], 'VotesAgainst': [6, 0], 'Passed': True}
+19:23:49: {'Type': 311, 'Mission': 4, 'Failed': True, 'NumHacks': 2, 'Proposer': 5}
+19:25:10: {'Type': 205, 'Message': 'tobin g7 please', 'Slot': 4}
+19:25:12: {'Type': 205, 'Message': 'hi', 'Slot': 0}
+19:25:21: {'Type': 205, 'Message': 'g7?', 'Slot': 2}
+19:25:22: {'Type': 205, 'Message': 'joe and sjirly are hackers', 'Slot': 1}
+19:25:24: {'Type': 304, 'Proposer': 0, 'SelectedTeam': [0, 1], 'Passed': False}
+19:25:38: {'Type': 307, 'VotesFor': [0], 'VotesAgainst': [1, 4, 2, 3], 'Passed': False}
+19:25:46: {'Type': 304, 'Proposer': 1, 'SelectedTeam': [1, 2], 'Passed': False}
+19:25:54: {'Type': 307, 'VotesFor': [2], 'VotesAgainst': [1, 4, 3, 0], 'Passed': False}
+19:26:08: {'Type': 304, 'Proposer': 2, 'SelectedTeam': [0, 4], 'Passed': False}
+19:26:14: {'Type': 307, 'VotesFor': [4, 2], 'VotesAgainst': [1, 0, 3], 'Passed': False}
+19:26:35: {'Type': 205, 'Message': 'liz why ref that?', 'Slot': 1}
+19:26:41: {'Type': 205, 'Message': 'not in it', 'Slot': 0}
+19:26:43: {'Type': 205, 'Message': 'lol', 'Slot': 0}
+19:26:44: {'Type': 205, 'Message': 'u were', 'Slot': 4}
+19:26:47: {'Type': 205, 'Message': '?', 'Slot': 0}
+19:26:51: {'Type': 205, 'Message': 'uhhhh u where', 'Slot': 1}
+19:26:55: {'Type': 205, 'Message': 'oh lol', 'Slot': 0}
+19:26:56: {'Type': 205, 'Message': 'were', 'Slot': 1}
+19:26:57: {'Type': 205, 'Message': 'it was you and shirly', 'Slot': 2}
+19:26:57: {'Type': 205, 'Message': 'srry', 'Slot': 0}
+19:27:06: {'Type': 304, 'Proposer': 3, 'SelectedTeam': [3, 4], 'Passed': False}
+19:27:07: {'Type': 205, 'Message': 'i meant cos the propper wasnt in it', 'Slot': 0}
+19:27:15: {'Type': 307, 'VotesFor': [4, 3, 2], 'VotesAgainst': [1, 0], 'Passed': True}
+19:27:16: {'Type': 205, 'Message': 'mhm', 'Slot': 4}
+19:27:21: {'Type': 205, 'Message': 'makes me sus the other per', 'Slot': 0}
+19:27:35: {'Type': 311, 'Mission': 1, 'Failed': False, 'NumHacks': 0, 'Proposer': 3}
+19:27:44: {'Type': 205, 'Message': 'shirley took u a bit', 'Slot': 4}
+19:27:53: {'Type': 205, 'Message': 'hh', 'Slot': 3}
+19:27:55: {'Type': 205, 'Message': 'or u', 'Slot': 1}
+19:28:22: {'Type': 205, 'Message': "first node is always secured at least that's what I've noticed", 'Slot': 2}
+19:28:33: {'Type': 304, 'Proposer': 4, 'SelectedTeam': [1, 3, 4], 'Passed': False}
+19:28:36: {'Type': 205, 'Message': 'eh, sometimes hackers will have fun and hack n1', 'Slot': 0}
+19:28:42: {'Type': 205, 'Message': 'rare but possible', 'Slot': 0}
+19:28:46: {'Type': 205, 'Message': 'i tend to at least', 'Slot': 0}
+19:28:47: {'Type': 205, 'Message': 'no hacker can win in n1', 'Slot': 3}
+19:28:48: {'Type': 205, 'Message': 'nah no n1 + 1', 'Slot': 1}
+19:28:57: {'Type': 205, 'Message': 'still young sasha', 'Slot': 3}
+19:29:12: {'Type': 307, 'VotesFor': [4], 'VotesAgainst': [1, 0, 2, 3], 'Passed': False}
+19:29:17: {'Type': 205, 'Message': 'sixth game', 'Slot': 2}
+19:29:24: {'Type': 205, 'Message': 'still young', 'Slot': 0}
+19:29:42: {'Type': 304, 'Proposer': 0, 'SelectedTeam': [0, 1, 3], 'Passed': False}
+19:30:00: {'Type': 307, 'VotesFor': [0, 2], 'VotesAgainst': [4, 1, 3], 'Passed': False}
+19:30:10: {'Type': 205, 'Message': 'sasha dont acc out of node', 'Slot': 0}
+19:30:10: {'Type': 205, 'Message': 'why acc', 'Slot': 1}
+19:30:12: {'Type': 205, 'Message': 'sasha why acc', 'Slot': 4}
+19:30:43: {'Type': 205, 'Message': 'acc is accuse?', 'Slot': 2}
+19:30:46: {'Type': 205, 'Message': 'we are gonna bait the hackers ok?', 'Slot': 1}
+19:30:54: {'Type': 205, 'Message': 'lmao', 'Slot': 0}
+19:30:58: {'Type': 205, 'Message': '\\', 'Slot': 0}
+19:30:59: {'Type': 205, 'Message': 'prop ', 'Slot': 0}
+19:31:01: {'Type': 304, 'Proposer': 1, 'SelectedTeam': [0, 2, 4], 'Passed': False}
+19:31:07: {'Type': 205, 'Message': 'bait', 'Slot': 1}
+19:31:09: {'Type': 205, 'Message': 'get baited', 'Slot': 0}
+19:31:10: {'Type': 205, 'Message': 'acc', 'Slot': 1}
+19:31:12: {'Type': 205, 'Message': 'feel the bait', 'Slot': 0}
+19:31:18: {'Type': 205, 'Message': 'acc and feel the bait', 'Slot': 0}
+19:31:27: {'Type': 205, 'Message': 'dont acc', 'Slot': 4}
+19:31:29: {'Type': 205, 'Message': 'good you just dominated the game sasha', 'Slot': 3}
+19:31:31: {'Type': 205, 'Message': 'yes', 'Slot': 1}
+19:31:35: {'Type': 205, 'Message': 'acc', 'Slot': 1}
+19:31:38: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [0, 4, 2, 3], 'Passed': False}
+19:31:39: {'Type': 205, 'Message': 'sasha and liz', 'Slot': 4}
+19:31:45: {'Type': 205, 'Message': 'oof a hacker got baited', 'Slot': 0}
+19:31:49: {'Type': 205, 'Message': 'joe sus', 'Slot': 1}
+19:31:57: {'Type': 205, 'Message': 'tobin you just acc LOL', 'Slot': 4}
+19:32:04: {'Type': 205, 'Message': 'ye he got baited', 'Slot': 0}
+19:32:04: {'Type': 205, 'Message': "that's tough", 'Slot': 4}
+19:32:06: {'Type': 205, 'Message': 'hes a hcker', 'Slot': 0}
+19:32:06: {'Type': 304, 'Proposer': 2, 'SelectedTeam': [0, 1, 3], 'Passed': False}
+19:32:10: {'Type': 205, 'Message': 'because we were baiting', 'Slot': 1}
+19:32:19: {'Type': 205, 'Message': 'nah, YOU got baited', 'Slot': 4}
+19:32:19: {'Type': 205, 'Message': 'dont tell him tobin', 'Slot': 0}
+19:32:28: {'Type': 205, 'Message': 'tobin just be quiet dont tell him', 'Slot': 0}
+19:32:34: {'Type': 205, 'Message': 'to see how many times it got hacked you unculterd swine', 'Slot': 1}
+19:32:47: {'Type': 205, 'Message': 'lets talk', 'Slot': 3}
+19:32:53: {'Type': 205, 'Message': '15 secnds to talk', 'Slot': 4}
+19:32:57: {'Type': 307, 'VotesFor': [0, 2], 'VotesAgainst': [4, 1, 3], 'Passed': False}
+19:33:03: {'Type': 205, 'Message': 'sasha can you please not', 'Slot': 0}
+19:33:05: {'Type': 205, 'Message': 'sasha acc with liz again', 'Slot': 4}
+19:33:13: {'Type': 205, 'Message': 'why did you acc sasha', 'Slot': 4}
+19:33:22: {'Type': 205, 'Message': 'True', 'Slot': 1}
+19:33:23: {'Type': 205, 'Message': 'im acc cos im in n1+2', 'Slot': 0}
+19:33:31: {'Type': 205, 'Message': 'noooo', 'Slot': 1}
+19:33:33: {'Type': 205, 'Message': "Well i'm sus about joe", 'Slot': 2}
+19:33:34: {'Type': 205, 'Message': 'dont', 'Slot': 1}
+19:33:44: {'Type': 205, 'Message': 'ok ', 'Slot': 1}
+19:33:45: {'Type': 205, 'Message': 'its 3 am here', 'Slot': 3}
+19:33:49: {'Type': 205, 'Message': 'so you dont explain why you acc but you turn on the person calling you out?', 'Slot': 4}
+19:33:54: {'Type': 205, 'Message': 'waiting for sunrise', 'Slot': 3}
+19:33:55: {'Type': 205, 'Message': 'interesting', 'Slot': 4}
+19:33:59: {'Type': 205, 'Message': 'this will confirm\\', 'Slot': 1}
+19:33:59: {'Type': 304, 'Proposer': 3, 'SelectedTeam': [1, 3, 4], 'Passed': False}
+19:34:04: {'Type': 205, 'Message': 'acc', 'Slot': 1}
+19:34:06: {'Type': 205, 'Message': 'acc or gae', 'Slot': 0}
+19:34:09: {'Type': 205, 'Message': 'i like you tobin', 'Slot': 4}
+19:34:12: {'Type': 205, 'Message': 'i didnt before', 'Slot': 4}
+19:34:16: {'Type': 205, 'Message': 'but the jukebox grew on me', 'Slot': 4}
+19:34:22: {'Type': 307, 'VotesFor': [3, 4, 1, 0], 'VotesAgainst': [2], 'Passed': True}
+19:34:26: {'Type': 205, 'Message': 'i still dont like u', 'Slot': 1}
+19:34:27: {'Type': 205, 'Message': 'lmao sasha', 'Slot': 0}
+19:34:30: {'Type': 311, 'Mission': 2, 'Failed': False, 'NumHacks': 0, 'Proposer': 3}
+19:34:35: {'Type': 205, 'Message': 'well', 'Slot': 4}
+19:34:41: {'Type': 205, 'Message': 'huh', 'Slot': 0}
+19:34:43: {'Type': 205, 'Message': 'joe and shirley first node', 'Slot': 2}
+19:34:45: {'Type': 205, 'Message': 'sasha why dec', 'Slot': 4}
+19:34:47: {'Type': 205, 'Message': 'why doud', 'Slot': 0}
+19:34:48: {'Type': 205, 'Message': 'well now i do', 'Slot': 1}
+19:34:51: {'Type': 205, 'Message': 'why double bluff?', 'Slot': 0}
+19:34:59: {'Type': 205, 'Message': 'new people more info', 'Slot': 2}
+19:35:07: {'Type': 205, 'Message': 'sasha is bringing liz down', 'Slot': 1}
+19:35:09: {'Type': 205, 'Message': 'tobin what lvl are you', 'Slot': 0}
+19:35:10: {'Type': 205, 'Message': 'yeah lol', 'Slot': 4}
+19:35:13: {'Type': 205, 'Message': '6', 'Slot': 1}
+19:35:16: {'Type': 205, 'Message': 'oh', 'Slot': 0}
+19:35:19: {'Type': 205, 'Message': 'hm', 'Slot': 0}
+19:35:26: {'Type': 205, 'Message': 'whats situation  in your country\\/', 'Slot': 3}
+19:35:32: {'Type': 205, 'Message': 'im new but good', 'Slot': 1}
+19:35:43: {'Type': 205, 'Message': 'so there were 2 hackers in n2 and they both bluffed not knowing proto', 'Slot': 0}
+19:35:47: {'Type': 205, 'Message': 'joe what is proto', 'Slot': 0}
+19:35:49: {'Type': 304, 'Proposer': 4, 'SelectedTeam': [3, 4], 'Passed': False}
+19:35:53: {'Type': 205, 'Message': 'hacker proto', 'Slot': 0}
+19:35:58: {'Type': 205, 'Message': 'i heard many people infected and die from news', 'Slot': 3}
+19:36:06: {'Type': 205, 'Message': 'tobin what is proto', 'Slot': 0}
+19:36:10: {'Type': 205, 'Message': 'in the US its bad', 'Slot': 4}
+19:36:11: {'Type': 205, 'Message': 'no same people three times in a row', 'Slot': 2}
+19:36:14: {'Type': 205, 'Message': 'i would be more cofortable with me ad joe', 'Slot': 1}
+19:36:26: {'Type': 205, 'Message': 'i would  but i dont fully trust you yet tobin', 'Slot': 4}
+19:36:30: {'Type': 205, 'Message': 'only been in 1 node with you', 'Slot': 4}
+19:36:34: {'Type': 205, 'Message': 'tobin two people in n2 were hackers', 'Slot': 0}
+19:36:37: {'Type': 205, 'Message': 'but me and shirley were n1 and 2', 'Slot': 4}
+19:36:40: {'Type': 205, 'Message': 'so if its not you its them', 'Slot': 0}
+19:36:45: {'Type': 307, 'VotesFor': [4, 3], 'VotesAgainst': [2, 1, 0], 'Passed': False}
+19:36:47: {'Type': 205, 'Message': 'tobin, what is protocol', 'Slot': 0}
+19:36:49: {'Type': 205, 'Message': 'hacker protocol', 'Slot': 0}
+19:36:57: {'Type': 205, 'Message': '?', 'Slot': 1}
+19:37:02: {'Type': 205, 'Message': 'alright so he doesnt know it', 'Slot': 0}
+19:37:05: {'Type': 205, 'Message': 'joe what is hacker protocol', 'Slot': 0}
+19:37:09: {'Type': 205, 'Message': 'i like it', 'Slot': 3}
+19:37:14: {'Type': 205, 'Message': 'liz if you wanna be trusted choose me and tobin', 'Slot': 4}
+19:37:19: {'Type': 205, 'Message': 'no', 'Slot': 0}
+19:37:19: {'Type': 205, 'Message': 'i mean i have my own ways', 'Slot': 1}
+19:37:21: {'Type': 205, 'Message': 'you dont understand', 'Slot': 0}
+19:37:25: {'Type': 205, 'Message': 'n2 had two hackers in it', 'Slot': 0}
+19:37:30: {'Type': 205, 'Message': 'joe', 'Slot': 0}
+19:37:31: {'Type': 205, 'Message': 'recite the protoco or you are ...', 'Slot': 3}
+19:37:33: {'Type': 205, 'Message': 'what is hacker protocol', 'Slot': 0}
+19:37:39: {'Type': 205, 'Message': 'if u follow proto then ur more susp', 'Slot': 1}
+19:37:48: {'Type': 304, 'Proposer': 0, 'SelectedTeam': [0, 4], 'Passed': False}
+19:37:52: {'Type': 205, 'Message': 'ok', 'Slot': 0}
+19:37:56: {'Type': 205, 'Message': 'joe do you know hacker protoocl', 'Slot': 0}
+19:37:56: {'Type': 205, 'Message': 'naw', 'Slot': 1}
+19:38:03: {'Type': 205, 'Message': '@*©$ to the naw', 'Slot': 1}
+19:38:06: {'Type': 205, 'Message': 'this is a test', 'Slot': 4}
+19:38:16: {'Type': 205, 'Message': 'i am testing you', 'Slot': 0}
+19:38:18: {'Type': 307, 'VotesFor': [4], 'VotesAgainst': [0, 1, 2, 3], 'Passed': False}
+19:38:21: {'Type': 205, 'Message': 'this is last 2 person', 'Slot': 1}
+19:38:23: {'Type': 205, 'Message': 'tobin doesnt know proto', 'Slot': 0}
+19:38:30: {'Type': 205, 'Message': 'dont matter', 'Slot': 4}
+19:38:32: {'Type': 205, 'Message': 'so hes a hacker', 'Slot': 0}
+19:38:34: {'Type': 205, 'Message': 'ok now that susp', 'Slot': 1}
+19:38:49: {'Type': 205, 'Message': 'how is it sus', 'Slot': 0}
+19:38:53: {'Type': 205, 'Message': 'there were two hackers in n2', 'Slot': 0}
+19:38:56: {'Type': 205, 'Message': 'only accing me and shirly', 'Slot': 1}
+19:39:00: {'Type': 205, 'Message': 'neither of them new protocol', 'Slot': 0}
+19:39:04: {'Type': 304, 'Proposer': 1, 'SelectedTeam': [1, 3], 'Passed': False}
+19:39:08: {'Type': 205, 'Message': 'because they both bluffed', 'Slot': 0}
+19:39:12: {'Type': 205, 'Message': 'so if we figure out who knows proto', 'Slot': 0}
+19:39:13: {'Type': 205, 'Message': 'naw', 'Slot': 1}
+19:39:18: {'Type': 205, 'Message': 'the other two are hackers', 'Slot': 0}
+19:39:25: {'Type': 205, 'Message': 'not really a hard concept', 'Slot': 0}
+19:39:30: {'Type': 205, 'Message': 'what?', 'Slot': 1}
+19:39:34: {'Type': 205, 'Message': 'oml', 'Slot': 0}
+19:39:37: {'Type': 205, 'Message': 'Shirley chose for n1 and n2', 'Slot': 2}
+19:39:41: {'Type': 205, 'Message': 'joe recite hacker protocol', 'Slot': 0}
+19:39:47: {'Type': 205, 'Message': 'or just rule one', 'Slot': 0}
+19:39:53: {'Type': 205, 'Message': 'shirley will recite rul ', 'Slot': 0}
+19:39:55: {'Type': 307, 'VotesFor': [1, 4, 3], 'VotesAgainst': [2, 0], 'Passed': True}
+19:39:55: {'Type': 205, 'Message': 'rule 2', 'Slot': 0}
+19:39:58: {'Type': 205, 'Message': 'some !?$# with alphabet', 'Slot': 4}
+19:40:00: {'Type': 205, 'Message': 'welp', 'Slot': 0}
+19:40:01: {'Type': 205, 'Message': 'gg', 'Slot': 0}
+19:40:15: {'Type': 311, 'Mission': 3, 'Failed': False, 'NumHacks': 0, 'Proposer': 1}
+19:40:20: {'Type': 205, 'Message': 'gg', 'Slot': 4}
+19:40:22: {'Type': 205, 'Message': 'knew it', 'Slot': 1}
+19:40:23: {'Type': 205, 'Message': 'gg', 'Slot': 0}
+19:40:25: {'Type': 205, 'Message': 'i tried', 'Slot': 0}
+19:40:36: {'Type': 205, 'Message': 'yeah its tough when you got a lvl 3', 'Slot': 4}
+19:40:37: {'Type': 205, 'Message': 'sasha ur bad', 'Slot': 1}
+19:40:45: {'Type': 205, 'Message': 'no need to be rude', 'Slot': 4}
+19:40:48: {'Type': 205, 'Message': 'nah its fine', 'Slot': 0}
+19:40:50: {'Type': 205, 'Message': 'hes just new', 'Slot': 0}
