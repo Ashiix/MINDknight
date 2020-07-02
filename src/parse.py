@@ -43,7 +43,7 @@ with open(log_path, 'r') as log:
     for line in enumerate(log):
         line = line[1].split()
         try:
-            with open("test_data.txt",'a') as f:
+            with open(".tmp/parsed_packets.txt",'a') as f:
                 #print("im here")
                 if len(line[1]) == 9 and not line[1][2] == ".":
                     time = line[1]
