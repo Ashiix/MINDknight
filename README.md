@@ -4,7 +4,7 @@ An AI that plays MINDNIGHT
 
 Dependencies:
 
-Rust | tensorflow
+Tensorflow
 Git (for tensorflow)
 Bazel (for tensorflow)
 
