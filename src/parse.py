@@ -24,7 +24,7 @@ cur_time = str(datetime.now()).split()[1].split(".")[0] # gets current time in s
 print(cur_time)
 
 def get_time(type):
-    with open('test_data.txt', 'r') as export_log:
+    with open('.tmp/parsed_packets.txt', 'r') as export_log:
         for findline in export_log:
             pass
     #player.log file
