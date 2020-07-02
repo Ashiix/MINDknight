@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-import re
 import sys
 import pathlib
 import ast
@@ -23,27 +22,27 @@ if not pathlib.Path(log_path).exists():
 cur_time = str(datetime.now()).split()[1].split(".")[0] # gets current time in same format as player.log timestamp
 print(cur_time)
 
-def get_time(type):
-    with open('.tmp/parsed_packets.txt', 'r') as export_log:
-        for findline in export_log:
-            pass
-    #player.log file
-    if type == 'log':
-        last_export_time = findline.split()[1][:-1] # gets most recent log time, removes extra chars etc.
-        print(last_export_time)
-    #export file
-    elif type == 'e_log':
-        last_export_time = findline.split()[0][:-1]
-        print(last_export_time)
-
-    else: print("use log or e_log depending on where you want to read time from")
+# def get_time(type):
+#     with open('parsed_packets.txt', 'r') as export_log:
+#         for findline in export_log:
+#             pass
+#     #player.log file
+#     if type == 'log':
+#         last_export_time = findline.split()[1][:-1] # gets most recent log time, removes extra chars etc.
+#         print(last_export_time)
+#     #export file
+#     elif type == 'e_log':
+#         last_export_time = findline.split()[0][:-1]
+#         print(last_export_time)
+#
+#     else: print("use log or e_log depending on where you want to read time from")
 
 
 with open(log_path, 'r') as log:
     for line in enumerate(log):
-        line = line[1].split()
+        line = line[1].split(" ",4)
         try:
-            with open(".tmp/parsed_packets.txt",'a') as f:
+            with open("parsed_packets.txt",'a') as f:
                 #print("im here")
                 if len(line[1]) == 9 and not line[1][2] == ".":
                     time = line[1]
@@ -53,7 +52,6 @@ with open(log_path, 'r') as log:
                         f.write("{} {}\n".format(time, cur_dict))
         except: pass
 
-get_time('e_log')
 
 #when reading data from exported file (after exporting specific
 #data to that file) use old_time to get
