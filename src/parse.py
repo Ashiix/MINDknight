@@ -48,7 +48,7 @@ with open(log_path, 'r') as log:
                 if len(line[1]) == 9 and not line[1][2] == ".":
                     time = line[1]
                     cur_dict = ast.literal_eval(line[-1:][0].split(":",1)[1].replace("false","False").replace("true","True"))
-                    if cur_dict["Type"] == 307 or cur_dict["Type"] == 311 or cur_dict["Type"] == 205:
+                    if cur_dict["Type"] == 307 or cur_dict["Type"] == 311 or cur_dict["Type"] == 205 or cur_dict["Type"] == 304:
                         #print("printing line...")
                         f.write("{} {}\n".format(time, cur_dict))
         except: pass
