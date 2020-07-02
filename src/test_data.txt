@@ -1,207 +1,504 @@
-16:47:16: {'Type': 204, 'Message': 'sup'}
+16:47:09: {'Type': 205, 'Message': 'hi', 'Slot': 3}
+16:47:12: {'Type': 205, 'Message': 'hi', 'Slot': 2}
+16:47:16: {'Type': 205, 'Message': 'sup', 'Slot': 4}
+16:47:27: {'Type': 205, 'Message': 'situ....', 'Slot': 2}
+16:47:29: {'Type': 205, 'Message': 'kek', 'Slot': 0}
+16:47:30: {'Type': 205, 'Message': 'lol', 'Slot': 3}
 16:47:42: {'Type': 307, 'VotesFor': [0, 4], 'VotesAgainst': [3, 1, 2], 'Passed': False}
 16:48:09: {'Type': 307, 'VotesFor': [4, 1], 'VotesAgainst': [2, 0, 3], 'Passed': False}
 16:48:26: {'Type': 307, 'VotesFor': [3], 'VotesAgainst': [2, 0, 4, 1], 'Passed': False}
 16:48:39: {'Type': 307, 'VotesFor': [3, 4], 'VotesAgainst': [0, 1, 2], 'Passed': False}
 16:48:50: {'Type': 307, 'VotesFor': [3, 2, 4, 0], 'VotesAgainst': [1], 'Passed': True}
 16:49:00: {'Type': 311, 'Mission': 1, 'Failed': False, 'NumHacks': 0, 'Proposer': 4}
-16:49:27: {'Type': 204, 'Message': 'tyty'}
-16:49:32: {'Type': 204, 'Message': 'ew'}
+16:49:21: {'Type': 205, 'Message': 'fair', 'Slot': 2}
+16:49:28: {'Type': 205, 'Message': 'tyty', 'Slot': 4}
+16:49:32: {'Type': 205, 'Message': 'ew', 'Slot': 4}
+16:49:35: {'Type': 205, 'Message': 'bitch', 'Slot': 0}
+16:49:41: {'Type': 205, 'Message': 'no', 'Slot': 2}
 16:50:08: {'Type': 307, 'VotesFor': [1, 3], 'VotesAgainst': [0, 4, 2], 'Passed': False}
+16:50:11: {'Type': 205, 'Message': 'kek', 'Slot': 0}
+16:50:24: {'Type': 205, 'Message': 'Zoe', 'Slot': 0}
+16:50:34: {'Type': 205, 'Message': 'no', 'Slot': 3}
 16:50:44: {'Type': 307, 'VotesFor': [4, 3], 'VotesAgainst': [0, 1, 2], 'Passed': False}
-16:50:59: {'Type': 204, 'Message': 'incorrect'}
+16:50:59: {'Type': 205, 'Message': 'incorrect', 'Slot': 4}
 16:51:20: {'Type': 307, 'VotesFor': [3], 'VotesAgainst': [0, 2, 4, 1], 'Passed': False}
-16:51:29: {'Type': 204, 'Message': 'really?'}
+16:51:29: {'Type': 205, 'Message': 'really?', 'Slot': 4}
+16:51:32: {'Type': 205, 'Message': 'ye', 'Slot': 0}
 16:51:44: {'Type': 307, 'VotesFor': [4], 'VotesAgainst': [3, 2, 0, 1], 'Passed': False}
-16:51:46: {'Type': 204, 'Message': 'ah'}
+16:51:46: {'Type': 205, 'Message': 'ah', 'Slot': 4}
+16:51:47: {'Type': 205, 'Message': 'pfff', 'Slot': 0}
+16:51:55: {'Type': 205, 'Message': 'gg', 'Slot': 0}
+16:51:56: {'Type': 205, 'Message': 'bleh', 'Slot': 2}
 16:52:03: {'Type': 307, 'VotesFor': [0, 4, 3, 2], 'VotesAgainst': [1], 'Passed': True}
-16:52:06: {'Type': 204, 'Message': 'hmm'}
+16:52:06: {'Type': 205, 'Message': 'hmm', 'Slot': 4}
 16:52:10: {'Type': 311, 'Mission': 2, 'Failed': True, 'NumHacks': 1, 'Proposer': 0}
-16:53:15: {'Type': 204, 'Message': 'panic'}
-16:53:29: {'Type': 204, 'Message': 'interesting'}
-16:53:34: {'Type': 204, 'Message': 'reject'}
-16:54:03: {'Type': 204, 'Message': 'cap'}
+16:52:19: {'Type': 205, 'Message': 'ffs', 'Slot': 2}
+16:52:21: {'Type': 205, 'Message': 'smh', 'Slot': 3}
+16:52:58: {'Type': 205, 'Message': 'ok', 'Slot': 0}
+16:53:04: {'Type': 205, 'Message': 'lol', 'Slot': 0}
+16:53:15: {'Type': 205, 'Message': 'panic', 'Slot': 4}
+16:53:29: {'Type': 205, 'Message': 'interesting', 'Slot': 4}
+16:53:35: {'Type': 205, 'Message': 'reject', 'Slot': 4}
+16:54:03: {'Type': 205, 'Message': 'cap', 'Slot': 4}
+16:54:11: {'Type': 205, 'Message': 'L', 'Slot': 2}
+16:54:13: {'Type': 205, 'Message': 'whatsoever', 'Slot': 0}
 16:54:14: {'Type': 307, 'VotesFor': [0], 'VotesAgainst': [4, 2, 3, 1], 'Passed': False}
-16:54:39: {'Type': 204, 'Message': 'hmmmm'}
+16:54:39: {'Type': 205, 'Message': 'hmmmm', 'Slot': 4}
 16:54:45: {'Type': 307, 'VotesFor': [3, 0, 2, 1, 4], 'VotesAgainst': [], 'Passed': True}
+16:54:49: {'Type': 205, 'Message': '???', 'Slot': 3}
 16:54:53: {'Type': 311, 'Mission': 3, 'Failed': False, 'NumHacks': 0, 'Proposer': 2}
-16:55:28: {'Type': 204, 'Message': 'ah'}
+16:55:25: {'Type': 205, 'Message': 'na', 'Slot': 0}
+16:55:28: {'Type': 205, 'Message': 'ah', 'Slot': 4}
+16:55:40: {'Type': 205, 'Message': 'cry', 'Slot': 2}
+16:56:04: {'Type': 205, 'Message': 'LMAO', 'Slot': 0}
 16:56:29: {'Type': 307, 'VotesFor': [4, 3, 1, 2, 0], 'VotesAgainst': [], 'Passed': True}
+16:56:33: {'Type': 205, 'Message': 'gg', 'Slot': 3}
+16:56:33: {'Type': 205, 'Message': 'enjoy', 'Slot': 0}
 16:56:35: {'Type': 311, 'Mission': 4, 'Failed': True, 'NumHacks': 1, 'Proposer': 3}
-16:57:09: {'Type': 204, 'Message': 'obv'}
-16:57:35: {'Type': 204, 'Message': '(L)'}
-16:57:39: {'Type': 204, 'Message': 'mhmmm'}
-16:58:27: {'Type': 204, 'Message': 'prop?'}
+16:56:44: {'Type': 205, 'Message': 'what', 'Slot': 2}
+16:56:47: {'Type': 205, 'Message': 'zoe*', 'Slot': 0}
+16:57:09: {'Type': 205, 'Message': 'obv', 'Slot': 4}
+16:57:35: {'Type': 205, 'Message': 'interemesting', 'Slot': 2}
+16:57:39: {'Type': 205, 'Message': 'mhmmm', 'Slot': 4}
+16:58:28: {'Type': 205, 'Message': 'prop?', 'Slot': 4}
+16:58:30: {'Type': 205, 'Message': 'lol', 'Slot': 0}
+16:58:33: {'Type': 205, 'Message': 'yeah', 'Slot': 0}
+16:58:34: {'Type': 205, 'Message': 'nothing', 'Slot': 1}
 16:58:37: {'Type': 307, 'VotesFor': [4, 0, 1], 'VotesAgainst': [2, 3], 'Passed': True}
-16:58:40: {'Type': 204, 'Message': 'LOL'}
+16:58:40: {'Type': 205, 'Message': 'LOL', 'Slot': 4}
+16:58:43: {'Type': 205, 'Message': 'gg', 'Slot': 2}
 16:58:45: {'Type': 311, 'Mission': 5, 'Failed': True, 'NumHacks': 1, 'Proposer': 4}
-16:58:56: {'Type': 204, 'Message': 'gg'}
-17:00:16: {'Type': 204, 'Message': 'gl'}
-17:00:18: {'Type': 204, 'Message': 'gg'}
-17:00:20: {'Type': 204, 'Message': 'nah'}
-17:00:25: {'Type': 204, 'Message': 'please'}
-17:00:28: {'Type': 204, 'Message': 'incorrect'}
-17:00:31: {'Type': 204, 'Message': 'ggs'}
+16:58:56: {'Type': 205, 'Message': 'gg', 'Slot': 4}
+16:59:09: {'Type': 205, 'Message': 'LOL', 'Slot': 0}
+16:59:11: {'Type': 205, 'Message': 'how', 'Slot': 3}
+16:59:36: {'Type': 205, 'Message': 'kappa', 'Slot': 0}
+16:59:49: {'Type': 205, 'Message': 'kekw', 'Slot': 0}
+17:00:12: {'Type': 205, 'Message': 'na', 'Slot': 0}
+17:00:16: {'Type': 205, 'Message': 'gl', 'Slot': 4}
+17:00:18: {'Type': 205, 'Message': 'gg', 'Slot': 4}
+17:00:20: {'Type': 205, 'Message': 'nah', 'Slot': 4}
+17:00:25: {'Type': 205, 'Message': 'please', 'Slot': 4}
+17:00:27: {'Type': 205, 'Message': 'loser', 'Slot': 0}
+17:00:28: {'Type': 205, 'Message': 'kekw', 'Slot': 0}
+17:00:28: {'Type': 205, 'Message': 'incorrect', 'Slot': 4}
+17:00:29: {'Type': 205, 'Message': 'gg', 'Slot': 2}
+17:00:31: {'Type': 205, 'Message': 'ggs', 'Slot': 4}
+17:01:21: {'Type': 205, 'Message': '?', 'Slot': 0}
 17:01:47: {'Type': 307, 'VotesFor': [0, 3, 2, 4, 5, 1], 'VotesAgainst': [], 'Passed': True}
+17:01:49: {'Type': 205, 'Message': 'alive', 'Slot': 2}
 17:01:54: {'Type': 311, 'Mission': 1, 'Failed': False, 'NumHacks': 0, 'Proposer': 0}
-17:02:45: {'Type': 204, 'Message': 'ok'}
+17:02:17: {'Type': 205, 'Message': 'no', 'Slot': 0}
+17:02:46: {'Type': 205, 'Message': 'ok', 'Slot': 3}
 17:03:04: {'Type': 307, 'VotesFor': [2, 5, 1, 3], 'VotesAgainst': [0, 4], 'Passed': True}
 17:03:14: {'Type': 311, 'Mission': 2, 'Failed': False, 'NumHacks': 0, 'Proposer': 1}
+17:04:14: {'Type': 205, 'Message': 'why?', 'Slot': 0}
 17:05:04: {'Type': 307, 'VotesFor': [5, 1, 4, 2, 0], 'VotesAgainst': [3], 'Passed': True}
-17:05:07: {'Type': 204, 'Message': 'rip'}
-17:05:09: {'Type': 204, 'Message': 'hacked'}
+17:05:07: {'Type': 205, 'Message': 'rip', 'Slot': 3}
+17:05:09: {'Type': 205, 'Message': 'gg', 'Slot': 2}
+17:05:09: {'Type': 205, 'Message': 'hacked', 'Slot': 3}
 17:05:14: {'Type': 311, 'Mission': 3, 'Failed': True, 'NumHacks': 1, 'Proposer': 2}
-17:05:27: {'Type': 204, 'Message': 'YEP'}
+17:05:19: {'Type': 205, 'Message': 'bruh', 'Slot': 0}
+17:05:21: {'Type': 205, 'Message': 'oof', 'Slot': 4}
+17:05:28: {'Type': 205, 'Message': 'YEP', 'Slot': 3}
+17:06:34: {'Type': 205, 'Message': 'why', 'Slot': 4}
+17:06:37: {'Type': 205, 'Message': 'stfu', 'Slot': 2}
 17:07:08: {'Type': 307, 'VotesFor': [3, 5], 'VotesAgainst': [2, 0, 1, 4], 'Passed': False}
-17:07:12: {'Type': 204, 'Message': '????'}
+17:07:11: {'Type': 205, 'Message': 'omg', 'Slot': 2}
+17:07:12: {'Type': 205, 'Message': '????', 'Slot': 3}
 17:07:33: {'Type': 307, 'VotesFor': [5, 4, 0], 'VotesAgainst': [3, 2, 1], 'Passed': False}
-17:07:48: {'Type': 204, 'Message': 'no'}
+17:07:49: {'Type': 205, 'Message': 'no', 'Slot': 3}
 17:07:51: {'Type': 307, 'VotesFor': [0, 5], 'VotesAgainst': [3, 4, 1, 2], 'Passed': False}
 17:08:09: {'Type': 307, 'VotesFor': [0, 4, 5, 1], 'VotesAgainst': [3, 2], 'Passed': True}
+17:08:14: {'Type': 205, 'Message': 'how', 'Slot': 2}
 17:08:17: {'Type': 311, 'Mission': 4, 'Failed': True, 'NumHacks': 1, 'Proposer': 0}
+17:08:49: {'Type': 205, 'Message': 'omg', 'Slot': 2}
 17:10:15: {'Type': 307, 'VotesFor': [3, 1, 2, 5], 'VotesAgainst': [0, 4], 'Passed': True}
-17:10:18: {'Type': 204, 'Message': 'YUP'}
-17:10:19: {'Type': 204, 'Message': 'gg'}
+17:10:18: {'Type': 205, 'Message': 'YUP', 'Slot': 3}
+17:10:19: {'Type': 205, 'Message': 'gg', 'Slot': 3}
+17:10:19: {'Type': 205, 'Message': 'oof', 'Slot': 0}
+17:10:20: {'Type': 205, 'Message': 'f', 'Slot': 4}
 17:10:24: {'Type': 311, 'Mission': 5, 'Failed': False, 'NumHacks': 0, 'Proposer': 1}
-17:10:30: {'Type': 204, 'Message': 'EZ'}
-17:10:32: {'Type': 204, 'Message': 'GGs'}
-17:55:57: {'Type': 204, 'Message': 'CAP'}
+17:10:30: {'Type': 205, 'Message': 'EZ', 'Slot': 3}
+17:10:32: {'Type': 205, 'Message': 'GGs', 'Slot': 3}
+17:10:37: {'Type': 205, 'Message': 'ggs', 'Slot': 4}
+17:11:01: {'Type': 205, 'Message': 'gg', 'Slot': 0}
+17:11:01: {'Type': 205, 'Message': 'anyway', 'Slot': 2}
+17:11:02: {'Type': 205, 'Message': 'gg', 'Slot': 4}
+17:11:02: {'Type': 205, 'Message': 'gg', 'Slot': 2}
+17:55:58: {'Type': 205, 'Message': 'CAP', 'Slot': 0}
+17:56:01: {'Type': 205, 'Message': 'cap', 'Slot': 4}
 17:56:34: {'Type': 307, 'VotesFor': [0, 4, 1, 3], 'VotesAgainst': [2], 'Passed': True}
 17:56:44: {'Type': 311, 'Mission': 1, 'Failed': False, 'NumHacks': 0, 'Proposer': 0}
-17:57:11: {'Type': 204, 'Message': 'wdym'}
-17:58:22: {'Type': 204, 'Message': 'brittany'}
+17:57:12: {'Type': 205, 'Message': 'wdym', 'Slot': 0}
+17:57:12: {'Type': 205, 'Message': 'really', 'Slot': 1}
+17:57:51: {'Type': 205, 'Message': 'n1+1?', 'Slot': 4}
+17:58:22: {'Type': 205, 'Message': 'brittany', 'Slot': 0}
 17:58:27: {'Type': 307, 'VotesFor': [1, 0, 3, 2], 'VotesAgainst': [4], 'Passed': True}
 17:58:38: {'Type': 311, 'Mission': 2, 'Failed': False, 'NumHacks': 0, 'Proposer': 1}
-17:58:45: {'Type': 204, 'Message': 'ah'}
-18:00:03: {'Type': 204, 'Message': 'gg'}
+17:58:44: {'Type': 205, 'Message': 'oh.', 'Slot': 4}
+17:58:45: {'Type': 205, 'Message': 'ah', 'Slot': 0}
+17:58:48: {'Type': 205, 'Message': 'gg', 'Slot': 3}
+17:59:02: {'Type': 205, 'Message': 'lmao', 'Slot': 3}
+17:59:38: {'Type': 205, 'Message': '.......', 'Slot': 1}
+18:00:03: {'Type': 205, 'Message': 'gg', 'Slot': 0}
+18:00:05: {'Type': 205, 'Message': 'gg', 'Slot': 3}
 18:00:16: {'Type': 307, 'VotesFor': [3, 0, 4, 1, 2], 'VotesAgainst': [], 'Passed': True}
 18:00:28: {'Type': 311, 'Mission': 3, 'Failed': False, 'NumHacks': 0, 'Proposer': 2}
-18:00:35: {'Type': 204, 'Message': 'nice'}
-18:00:52: {'Type': 204, 'Message': ';)'}
-18:07:04: {'Type': 204, 'Message': 'yo'}
-18:07:15: {'Type': 204, 'Message': 'que?'}
+18:00:32: {'Type': 205, 'Message': 'gg', 'Slot': 2}
+18:00:34: {'Type': 205, 'Message': 'gg', 'Slot': 4}
+18:00:35: {'Type': 205, 'Message': 'nice', 'Slot': 0}
+18:00:35: {'Type': 205, 'Message': 'hahaha', 'Slot': 3}
+18:00:37: {'Type': 205, 'Message': 'gillnite', 'Slot': 3}
+18:00:53: {'Type': 205, 'Message': ';)', 'Slot': 0}
+18:00:56: {'Type': 205, 'Message': 'lol', 'Slot': 1}
+18:01:25: {'Type': 205, 'Message': 'eeeeee', 'Slot': 1}
+18:01:30: {'Type': 205, 'Message': 'lol', 'Slot': 3}
+18:01:39: {'Type': 205, 'Message': 'alright', 'Slot': 2}
+18:06:48: {'Type': 205, 'Message': 'hola', 'Slot': 0}
+18:06:59: {'Type': 205, 'Message': 'hi', 'Slot': 2}
+18:07:04: {'Type': 205, 'Message': 'yo', 'Slot': 1}
+18:07:16: {'Type': 205, 'Message': 'que?', 'Slot': 1}
+18:07:36: {'Type': 205, 'Message': 'xdddd', 'Slot': 0}
 18:07:52: {'Type': 307, 'VotesFor': [0, 3, 1], 'VotesAgainst': [4, 2], 'Passed': True}
 18:08:01: {'Type': 311, 'Mission': 1, 'Failed': False, 'NumHacks': 0, 'Proposer': 0}
-18:08:54: {'Type': 204, 'Message': 'same'}
-18:08:59: {'Type': 204, 'Message': 'LOL'}
-18:09:10: {'Type': 204, 'Message': 'oh'}
+18:08:45: {'Type': 205, 'Message': '<3', 'Slot': 0}
+18:08:53: {'Type': 205, 'Message': 'lmao', 'Slot': 2}
+18:08:54: {'Type': 205, 'Message': 'same', 'Slot': 1}
+18:08:57: {'Type': 205, 'Message': 'LMAO', 'Slot': 2}
+18:08:59: {'Type': 205, 'Message': 'LOL', 'Slot': 1}
+18:09:10: {'Type': 205, 'Message': 'oh', 'Slot': 1}
 18:09:21: {'Type': 307, 'VotesFor': [1, 2], 'VotesAgainst': [3, 0, 4], 'Passed': False}
-18:09:49: {'Type': 204, 'Message': ':0'}
-18:09:58: {'Type': 204, 'Message': 'LMAO'}
+18:09:38: {'Type': 205, 'Message': 'smooth', 'Slot': 2}
+18:09:49: {'Type': 205, 'Message': ':0', 'Slot': 1}
+18:09:53: {'Type': 205, 'Message': 'what', 'Slot': 0}
+18:09:58: {'Type': 205, 'Message': 'LMAO', 'Slot': 1}
 18:10:15: {'Type': 307, 'VotesFor': [2, 1], 'VotesAgainst': [3, 0, 4], 'Passed': False}
+18:10:21: {'Type': 205, 'Message': 'evan', 'Slot': 2}
+18:10:30: {'Type': 205, 'Message': 'NIAH', 'Slot': 4}
+18:10:34: {'Type': 205, 'Message': 'lol', 'Slot': 2}
 18:10:37: {'Type': 307, 'VotesFor': [1, 2], 'VotesAgainst': [3, 0, 4], 'Passed': False}
+18:10:38: {'Type': 205, 'Message': 'no', 'Slot': 2}
+18:10:58: {'Type': 205, 'Message': '?', 'Slot': 0}
 18:11:08: {'Type': 307, 'VotesFor': [1, 4, 2], 'VotesAgainst': [0, 3], 'Passed': True}
+18:11:11: {'Type': 205, 'Message': 'jk', 'Slot': 2}
+18:11:13: {'Type': 205, 'Message': 'what', 'Slot': 0}
 18:11:17: {'Type': 311, 'Mission': 2, 'Failed': True, 'NumHacks': 1, 'Proposer': 4}
-18:11:49: {'Type': 204, 'Message': '^'}
+18:11:27: {'Type': 205, 'Message': 'welp', 'Slot': 2}
+18:11:49: {'Type': 205, 'Message': '^', 'Slot': 1}
+18:12:09: {'Type': 205, 'Message': 'epz', 'Slot': 2}
+18:12:11: {'Type': 205, 'Message': 'Likely', 'Slot': 4}
+18:12:12: {'Type': 205, 'Message': 'nice', 'Slot': 0}
 18:12:42: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [0, 2, 3, 4], 'Passed': False}
-18:13:46: {'Type': 204, 'Message': 'LMAO'}
+18:12:45: {'Type': 205, 'Message': 'jkjk', 'Slot': 2}
+18:12:49: {'Type': 205, 'Message': 'cassy', 'Slot': 3}
+18:13:08: {'Type': 205, 'Message': ':O', 'Slot': 2}
+18:13:20: {'Type': 205, 'Message': 'ty', 'Slot': 2}
+18:13:21: {'Type': 205, 'Message': 'lol', 'Slot': 3}
+18:13:44: {'Type': 205, 'Message': 'LOL', 'Slot': 2}
+18:13:46: {'Type': 205, 'Message': 'LMAO', 'Slot': 1}
 18:14:00: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [3, 0, 2, 4], 'Passed': False}
+18:14:03: {'Type': 205, 'Message': 'cassy', 'Slot': 2}
+18:14:07: {'Type': 205, 'Message': 'sus', 'Slot': 2}
 18:14:15: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [2, 3, 0, 4], 'Passed': False}
-18:14:32: {'Type': 204, 'Message': '...'}
-18:14:37: {'Type': 204, 'Message': 'hor'}
-18:14:39: {'Type': 204, 'Message': 'nvm'}
+18:14:21: {'Type': 205, 'Message': 'hm', 'Slot': 3}
+18:14:28: {'Type': 205, 'Message': 'you', 'Slot': 3}
+18:14:33: {'Type': 205, 'Message': '...', 'Slot': 1}
+18:14:37: {'Type': 205, 'Message': 'hor', 'Slot': 1}
+18:14:39: {'Type': 205, 'Message': 'nvm', 'Slot': 1}
 18:15:00: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [3, 0, 4, 2], 'Passed': False}
+18:15:35: {'Type': 205, 'Message': 'wait', 'Slot': 0}
+18:15:40: {'Type': 205, 'Message': 'fuckkk', 'Slot': 0}
+18:15:48: {'Type': 205, 'Message': 'i', 'Slot': 0}
 18:15:49: {'Type': 307, 'VotesFor': [0, 3, 1, 2, 4], 'VotesAgainst': [], 'Passed': True}
+18:15:50: {'Type': 205, 'Message': 'welp', 'Slot': 2}
 18:15:56: {'Type': 311, 'Mission': 3, 'Failed': False, 'NumHacks': 0, 'Proposer': 0}
+18:16:27: {'Type': 205, 'Message': 'True', 'Slot': 0}
+18:17:10: {'Type': 205, 'Message': 'please', 'Slot': 2}
+18:17:15: {'Type': 205, 'Message': 'omo', 'Slot': 4}
+18:17:19: {'Type': 205, 'Message': 'OwO', 'Slot': 0}
+18:17:28: {'Type': 205, 'Message': 'yes', 'Slot': 2}
+18:17:33: {'Type': 205, 'Message': 'meep', 'Slot': 4}
 18:17:49: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [2, 0, 4, 3], 'Passed': False}
-18:19:14: {'Type': 204, 'Message': 'cool'}
+18:17:54: {'Type': 205, 'Message': 'stfu', 'Slot': 2}
+18:18:07: {'Type': 205, 'Message': 'UwU', 'Slot': 4}
+18:18:10: {'Type': 205, 'Message': 'shh', 'Slot': 4}
+18:19:15: {'Type': 205, 'Message': 'cool', 'Slot': 1}
 18:19:19: {'Type': 307, 'VotesFor': [1, 2], 'VotesAgainst': [3, 4, 0], 'Passed': False}
+18:19:46: {'Type': 205, 'Message': 'dummy', 'Slot': 2}
+18:20:16: {'Type': 205, 'Message': 'what', 'Slot': 0}
+18:20:38: {'Type': 205, 'Message': 'jk', 'Slot': 4}
+18:20:40: {'Type': 205, 'Message': 'er', 'Slot': 2}
 18:21:11: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [0, 2, 3, 4], 'Passed': False}
-18:21:38: {'Type': 204, 'Message': ':('}
+18:21:13: {'Type': 205, 'Message': 'lo', 'Slot': 2}
+18:21:29: {'Type': 205, 'Message': 'smh', 'Slot': 4}
+18:21:49: {'Type': 205, 'Message': 'Casba', 'Slot': 4}
+18:21:50: {'Type': 205, 'Message': 'stfu', 'Slot': 2}
+18:21:52: {'Type': 205, 'Message': '*casna', 'Slot': 4}
+18:21:58: {'Type': 205, 'Message': 'owo', 'Slot': 0}
+18:22:09: {'Type': 205, 'Message': 'owo', 'Slot': 2}
+18:22:12: {'Type': 205, 'Message': 'lol', 'Slot': 3}
+18:22:12: {'Type': 205, 'Message': 'uwu', 'Slot': 4}
 18:22:15: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [3, 0, 2, 4], 'Passed': False}
-18:22:16: {'Type': 204, 'Message': 'RANDOM'}
-18:22:30: {'Type': 204, 'Message': '<3'}
+18:22:17: {'Type': 205, 'Message': 'RANDOM', 'Slot': 1}
+18:22:20: {'Type': 205, 'Message': '&%°', 'Slot': 2}
+18:22:29: {'Type': 205, 'Message': 'this', 'Slot': 2}
+18:22:31: {'Type': 205, 'Message': '<3', 'Slot': 1}
 18:22:40: {'Type': 307, 'VotesFor': [2, 3, 0, 4], 'VotesAgainst': [1], 'Passed': True}
+18:22:41: {'Type': 205, 'Message': 'yea', 'Slot': 2}
+18:22:44: {'Type': 205, 'Message': 'LMAO', 'Slot': 0}
 18:22:48: {'Type': 311, 'Mission': 4, 'Failed': True, 'NumHacks': 1, 'Proposer': 2}
-18:22:54: {'Type': 204, 'Message': 'hahaha'}
-18:23:27: {'Type': 204, 'Message': 'zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz'}
+18:22:54: {'Type': 205, 'Message': 'hahaha', 'Slot': 1}
+18:22:55: {'Type': 205, 'Message': ':o', 'Slot': 2}
+18:23:13: {'Type': 205, 'Message': 'True', 'Slot': 0}
+18:23:27: {'Type': 205, 'Message': 'zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz', 'Slot': 1}
+18:24:18: {'Type': 205, 'Message': 'wait', 'Slot': 2}
+18:24:34: {'Type': 205, 'Message': 'smh', 'Slot': 4}
+18:24:39: {'Type': 205, 'Message': '^^^', 'Slot': 2}
+18:25:06: {'Type': 205, 'Message': 'agent', 'Slot': 0}
 18:25:18: {'Type': 307, 'VotesFor': [], 'VotesAgainst': [0, 2, 3, 1, 4], 'Passed': False}
+18:25:23: {'Type': 205, 'Message': 'TRAPPPP', 'Slot': 4}
+18:25:34: {'Type': 205, 'Message': 'only', 'Slot': 3}
+18:26:19: {'Type': 205, 'Message': 'lol', 'Slot': 2}
 18:27:18: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [2, 3, 0, 4], 'Passed': False}
-18:28:09: {'Type': 204, 'Message': 'h4???'}
-18:28:11: {'Type': 204, 'Message': 'h?'}
-18:28:16: {'Type': 204, 'Message': 'indewed'}
+18:27:19: {'Type': 205, 'Message': 'smh', 'Slot': 2}
+18:27:32: {'Type': 205, 'Message': 'does', 'Slot': 0}
+18:27:37: {'Type': 205, 'Message': 'hmm', 'Slot': 2}
+18:27:44: {'Type': 205, 'Message': 'ty', 'Slot': 0}
+18:27:54: {'Type': 205, 'Message': 'er', 'Slot': 2}
+18:28:09: {'Type': 205, 'Message': 'h4???', 'Slot': 1}
+18:28:11: {'Type': 205, 'Message': 'h?', 'Slot': 1}
+18:28:12: {'Type': 205, 'Message': 'n4', 'Slot': 2}
+18:28:16: {'Type': 205, 'Message': 'indewed', 'Slot': 1}
+18:28:18: {'Type': 205, 'Message': 'n4?', 'Slot': 0}
+18:28:27: {'Type': 205, 'Message': 'ugh', 'Slot': 2}
 18:28:43: {'Type': 307, 'VotesFor': [2, 1], 'VotesAgainst': [0, 4, 3], 'Passed': False}
 18:29:13: {'Type': 307, 'VotesFor': [1, 3], 'VotesAgainst': [2, 0, 4], 'Passed': False}
+18:29:45: {'Type': 205, 'Message': 'ye', 'Slot': 2}
+18:30:11: {'Type': 205, 'Message': 'yeah', 'Slot': 3}
+18:30:17: {'Type': 205, 'Message': 'F', 'Slot': 0}
+18:30:20: {'Type': 205, 'Message': 'gg', 'Slot': 2}
+18:30:21: {'Type': 205, 'Message': 'rip', 'Slot': 3}
+18:30:22: {'Type': 205, 'Message': 'ezpz', 'Slot': 2}
+18:30:25: {'Type': 205, 'Message': 'ezzz', 'Slot': 4}
 18:30:28: {'Type': 307, 'VotesFor': [3, 1, 4, 2, 0], 'VotesAgainst': [], 'Passed': True}
 18:30:37: {'Type': 311, 'Mission': 5, 'Failed': True, 'NumHacks': 2, 'Proposer': 4}
-18:30:42: {'Type': 204, 'Message': 'gg'}
-18:31:01: {'Type': 204, 'Message': 'amigo'}
-18:32:42: {'Type': 204, 'Message': 'ggs'}
-18:34:03: {'Type': 204, 'Message': 'yo'}
-18:34:19: {'Type': 204, 'Message': ',y'}
+18:30:42: {'Type': 205, 'Message': 'gg', 'Slot': 1}
+18:30:54: {'Type': 205, 'Message': 'well', 'Slot': 3}
+18:31:01: {'Type': 205, 'Message': 'amigo', 'Slot': 1}
+18:31:39: {'Type': 205, 'Message': 'owo', 'Slot': 0}
+18:31:47: {'Type': 205, 'Message': 'lmao', 'Slot': 0}
+18:32:11: {'Type': 205, 'Message': 'gae', 'Slot': 2}
+18:32:43: {'Type': 205, 'Message': 'ggs', 'Slot': 1}
+18:34:03: {'Type': 205, 'Message': 'yo', 'Slot': 1}
+18:34:18: {'Type': 205, 'Message': 'sameee', 'Slot': 4}
+18:34:20: {'Type': 205, 'Message': ',y', 'Slot': 1}
+18:34:24: {'Type': 205, 'Message': 'lol', 'Slot': 2}
+18:34:44: {'Type': 205, 'Message': 'lmaoo', 'Slot': 0}
 18:34:56: {'Type': 307, 'VotesFor': [1, 0, 4], 'VotesAgainst': [2, 3], 'Passed': True}
 18:35:08: {'Type': 311, 'Mission': 1, 'Failed': True, 'NumHacks': 1, 'Proposer': 0}
-18:35:42: {'Type': 204, 'Message': 'same'}
+18:35:15: {'Type': 205, 'Message': 'oh', 'Slot': 0}
+18:35:24: {'Type': 205, 'Message': 'ooo', 'Slot': 4}
+18:35:43: {'Type': 205, 'Message': 'same', 'Slot': 1}
+18:35:47: {'Type': 205, 'Message': 'lmao', 'Slot': 2}
+18:36:16: {'Type': 205, 'Message': 'hahahaha', 'Slot': 4}
+18:36:17: {'Type': 205, 'Message': 'sure', 'Slot': 2}
+18:36:18: {'Type': 205, 'Message': 'sure', 'Slot': 2}
+18:36:28: {'Type': 205, 'Message': 'welcome', 'Slot': 2}
+18:36:37: {'Type': 205, 'Message': '<3', 'Slot': 3}
 18:36:41: {'Type': 307, 'VotesFor': [1, 2], 'VotesAgainst': [0, 3, 4], 'Passed': False}
-18:37:47: {'Type': 204, 'Message': 'NO'}
-18:37:57: {'Type': 204, 'Message': 'NEVER'}
+18:37:06: {'Type': 205, 'Message': '(jk)', 'Slot': 3}
+18:37:13: {'Type': 205, 'Message': 'zoe', 'Slot': 0}
+18:37:48: {'Type': 205, 'Message': 'NO', 'Slot': 1}
+18:37:57: {'Type': 205, 'Message': 'NEVER', 'Slot': 1}
+18:38:25: {'Type': 205, 'Message': 'zoe', 'Slot': 0}
+18:38:30: {'Type': 205, 'Message': 'wdym', 'Slot': 2}
+18:38:40: {'Type': 205, 'Message': 'lmao', 'Slot': 2}
 18:38:40: {'Type': 307, 'VotesFor': [2, 4], 'VotesAgainst': [1, 3, 0], 'Passed': False}
-18:39:19: {'Type': 204, 'Message': 'emily'}
-18:39:29: {'Type': 204, 'Message': 'LOL'}
-18:39:46: {'Type': 204, 'Message': 'NOPE'}
-18:40:33: {'Type': 204, 'Message': 'hmm'}
+18:39:07: {'Type': 205, 'Message': 'brae?', 'Slot': 2}
+18:39:08: {'Type': 205, 'Message': 'hmh', 'Slot': 3}
+18:39:15: {'Type': 205, 'Message': 'caps', 'Slot': 0}
+18:39:19: {'Type': 205, 'Message': 'emily', 'Slot': 1}
+18:39:29: {'Type': 205, 'Message': 'LOL', 'Slot': 1}
+18:39:38: {'Type': 205, 'Message': 'what', 'Slot': 0}
+18:39:43: {'Type': 205, 'Message': 'idk', 'Slot': 2}
+18:39:46: {'Type': 205, 'Message': 'NOPE', 'Slot': 1}
 18:40:33: {'Type': 307, 'VotesFor': [4, 2], 'VotesAgainst': [1, 3, 0], 'Passed': False}
+18:40:33: {'Type': 205, 'Message': 'hmm', 'Slot': 1}
+18:41:06: {'Type': 205, 'Message': 'ye', 'Slot': 2}
+18:41:13: {'Type': 205, 'Message': 'yea', 'Slot': 2}
 18:41:37: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [3, 2, 4, 0], 'Passed': False}
+18:41:48: {'Type': 205, 'Message': 'aww', 'Slot': 0}
+18:42:02: {'Type': 205, 'Message': 'sorry', 'Slot': 3}
 18:42:55: {'Type': 307, 'VotesFor': [4, 3, 2, 0], 'VotesAgainst': [1], 'Passed': True}
+18:42:59: {'Type': 205, 'Message': 'carl?', 'Slot': 0}
 18:43:15: {'Type': 311, 'Mission': 2, 'Failed': True, 'NumHacks': 1, 'Proposer': 2}
-18:43:20: {'Type': 204, 'Message': 'emily'}
-18:43:23: {'Type': 204, 'Message': 'really'}
-18:43:48: {'Type': 204, 'Message': 'nice'}
+18:43:20: {'Type': 205, 'Message': 'emily', 'Slot': 1}
+18:43:21: {'Type': 205, 'Message': 'yup', 'Slot': 0}
+18:43:22: {'Type': 205, 'Message': 'ugh', 'Slot': 2}
+18:43:23: {'Type': 205, 'Message': 'really', 'Slot': 1}
+18:43:41: {'Type': 205, 'Message': 'lol', 'Slot': 4}
+18:43:42: {'Type': 205, 'Message': 'hahah', 'Slot': 4}
+18:43:49: {'Type': 205, 'Message': 'nice', 'Slot': 1}
+18:44:27: {'Type': 205, 'Message': 'idk', 'Slot': 2}
+18:44:58: {'Type': 205, 'Message': 'noway', 'Slot': 4}
+18:45:11: {'Type': 205, 'Message': 'prop', 'Slot': 2}
+18:45:13: {'Type': 205, 'Message': 'er', 'Slot': 2}
+18:45:14: {'Type': 205, 'Message': 'vote', 'Slot': 2}
+18:45:19: {'Type': 205, 'Message': 'hahaha', 'Slot': 4}
 18:45:35: {'Type': 307, 'VotesFor': [1, 0], 'VotesAgainst': [3, 4, 2], 'Passed': False}
-18:45:40: {'Type': 204, 'Message': '????/'}
-18:45:43: {'Type': 204, 'Message': '????????????????????????????'}
+18:45:39: {'Type': 205, 'Message': 'looool', 'Slot': 3}
+18:45:40: {'Type': 205, 'Message': 'YES', 'Slot': 2}
+18:45:40: {'Type': 205, 'Message': '????/', 'Slot': 1}
+18:45:43: {'Type': 205, 'Message': '????????????????????????????', 'Slot': 1}
+18:46:11: {'Type': 205, 'Message': 'ref', 'Slot': 2}
+18:46:27: {'Type': 205, 'Message': 'so...?', 'Slot': 3}
+18:46:33: {'Type': 205, 'Message': 'zoe', 'Slot': 0}
 18:46:46: {'Type': 307, 'VotesFor': [4, 0], 'VotesAgainst': [1, 2, 3], 'Passed': False}
-18:47:15: {'Type': 204, 'Message': 'loki'}
+18:47:15: {'Type': 205, 'Message': 'DUDE', 'Slot': 2}
+18:47:15: {'Type': 205, 'Message': 'loki', 'Slot': 1}
+18:47:24: {'Type': 205, 'Message': 'thx', 'Slot': 2}
+18:47:42: {'Type': 205, 'Message': 'both', 'Slot': 4}
+18:48:15: {'Type': 205, 'Message': 'ugh', 'Slot': 2}
+18:48:24: {'Type': 205, 'Message': 'sim', 'Slot': 3}
+18:48:26: {'Type': 205, 'Message': '*simp', 'Slot': 3}
 18:48:46: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [4, 3, 0, 2], 'Passed': False}
-18:48:47: {'Type': 204, 'Message': 'YUP'}
+18:48:48: {'Type': 205, 'Message': 'YUP', 'Slot': 1}
+18:49:10: {'Type': 205, 'Message': 'lol', 'Slot': 4}
 18:49:25: {'Type': 307, 'VotesFor': [3, 4, 0], 'VotesAgainst': [1, 2], 'Passed': True}
-18:49:29: {'Type': 204, 'Message': 'gg'}
+18:49:29: {'Type': 205, 'Message': 'gg', 'Slot': 1}
 18:49:45: {'Type': 311, 'Mission': 3, 'Failed': False, 'NumHacks': 0, 'Proposer': 3}
-18:51:32: {'Type': 204, 'Message': 'no'}
+18:49:50: {'Type': 205, 'Message': 'hahaha', 'Slot': 4}
+18:49:51: {'Type': 205, 'Message': 'gg', 'Slot': 4}
+18:49:51: {'Type': 205, 'Message': 'wtf', 'Slot': 2}
+18:49:51: {'Type': 205, 'Message': 'huh', 'Slot': 0}
+18:49:54: {'Type': 205, 'Message': 'hahaha', 'Slot': 4}
+18:49:57: {'Type': 205, 'Message': 'lol', 'Slot': 4}
+18:50:13: {'Type': 205, 'Message': 'N2', 'Slot': 3}
+18:51:07: {'Type': 205, 'Message': '100%', 'Slot': 0}
+18:51:32: {'Type': 205, 'Message': 'no', 'Slot': 1}
 18:52:10: {'Type': 307, 'VotesFor': [4, 3, 0], 'VotesAgainst': [2, 1], 'Passed': True}
-18:52:14: {'Type': 204, 'Message': 'g'}
-18:52:15: {'Type': 204, 'Message': 'g'}
+18:52:14: {'Type': 205, 'Message': 'g', 'Slot': 1}
+18:52:15: {'Type': 205, 'Message': 'g', 'Slot': 1}
 18:52:30: {'Type': 311, 'Mission': 4, 'Failed': True, 'NumHacks': 1, 'Proposer': 4}
+18:52:46: {'Type': 205, 'Message': 'carl', 'Slot': 4}
+18:52:50: {'Type': 205, 'Message': 'man', 'Slot': 4}
+18:52:55: {'Type': 205, 'Message': 'yeaaa', 'Slot': 4}
+18:53:17: {'Type': 205, 'Message': 'fun', 'Slot': 4}
+18:53:31: {'Type': 205, 'Message': 'gg', 'Slot': 2}
+18:56:27: {'Type': 205, 'Message': 'crowded', 'Slot': 4}
+18:56:35: {'Type': 205, 'Message': 'омг', 'Slot': 5}
+18:57:11: {'Type': 205, 'Message': 'yu', 'Slot': 2}
+18:57:13: {'Type': 205, 'Message': 'marcel', 'Slot': 5}
+18:57:30: {'Type': 205, 'Message': 'curious', 'Slot': 4}
 18:57:36: {'Type': 307, 'VotesFor': [0, 1], 'VotesAgainst': [2, 5, 6, 3, 4], 'Passed': False}
+18:58:31: {'Type': 205, 'Message': 'wait', 'Slot': 5}
+18:58:32: {'Type': 205, 'Message': 'hanna', 'Slot': 5}
+18:58:37: {'Type': 205, 'Message': 'this', 'Slot': 5}
+18:58:56: {'Type': 205, 'Message': 'k', 'Slot': 2}
 18:59:12: {'Type': 307, 'VotesFor': [], 'VotesAgainst': [0, 3, 6, 4, 2, 5, 1], 'Passed': False}
+18:59:56: {'Type': 205, 'Message': 'means', 'Slot': 5}
 19:00:05: {'Type': 307, 'VotesFor': [1, 2], 'VotesAgainst': [3, 0, 6, 5, 4], 'Passed': False}
+19:00:13: {'Type': 205, 'Message': 'hanna?????', 'Slot': 5}
 19:01:01: {'Type': 307, 'VotesFor': [], 'VotesAgainst': [3, 2, 4, 6, 0, 5, 1], 'Passed': False}
+19:01:10: {'Type': 205, 'Message': 'hammer', 'Slot': 5}
+19:01:20: {'Type': 205, 'Message': 'exposoed', 'Slot': 2}
+19:01:35: {'Type': 205, 'Message': '??', 'Slot': 5}
 19:01:58: {'Type': 307, 'VotesFor': [4, 6, 3, 1, 0, 5], 'VotesAgainst': [2], 'Passed': True}
 19:02:17: {'Type': 311, 'Mission': 1, 'Failed': False, 'NumHacks': 0, 'Proposer': 4}
+19:02:22: {'Type': 205, 'Message': 'uhhhh', 'Slot': 5}
+19:02:28: {'Type': 205, 'Message': 'moron', 'Slot': 6}
+19:02:38: {'Type': 205, 'Message': 'y', 'Slot': 4}
+19:03:07: {'Type': 205, 'Message': 'dude', 'Slot': 5}
+19:03:22: {'Type': 205, 'Message': 'sry', 'Slot': 5}
+19:03:35: {'Type': 205, 'Message': 'sa', 'Slot': 5}
 19:04:32: {'Type': 307, 'VotesFor': [5, 6], 'VotesAgainst': [3, 1, 2, 4, 0], 'Passed': False}
+19:05:08: {'Type': 205, 'Message': 'wat', 'Slot': 6}
 19:05:21: {'Type': 307, 'VotesFor': [6], 'VotesAgainst': [2, 3, 0, 5, 4, 1], 'Passed': False}
+19:06:03: {'Type': 205, 'Message': 'anyone', 'Slot': 5}
 19:06:23: {'Type': 307, 'VotesFor': [0, 1], 'VotesAgainst': [3, 6, 4, 2, 5], 'Passed': False}
 19:07:55: {'Type': 307, 'VotesFor': [1, 6], 'VotesAgainst': [4, 3, 2, 5, 0], 'Passed': False}
 19:08:51: {'Type': 307, 'VotesFor': [2, 3, 5, 1, 6, 0, 4], 'VotesAgainst': [], 'Passed': True}
+19:08:55: {'Type': 205, 'Message': 'same', 'Slot': 5}
 19:09:04: {'Type': 311, 'Mission': 2, 'Failed': True, 'NumHacks': 1, 'Proposer': 2}
+19:09:23: {'Type': 205, 'Message': 'lloyd', 'Slot': 6}
+19:10:33: {'Type': 205, 'Message': 'yes', 'Slot': 6}
+19:10:40: {'Type': 205, 'Message': 'meaning', 'Slot': 5}
+19:10:44: {'Type': 205, 'Message': 'buy', 'Slot': 3}
 19:10:56: {'Type': 307, 'VotesFor': [0, 6], 'VotesAgainst': [1, 2, 5, 3, 4], 'Passed': False}
+19:11:19: {'Type': 205, 'Message': 'no', 'Slot': 6}
+19:12:16: {'Type': 205, 'Message': 'sry', 'Slot': 6}
+19:12:20: {'Type': 205, 'Message': 'bye', 'Slot': 6}
+19:12:26: {'Type': 205, 'Message': 'ik', 'Slot': 5}
+19:12:49: {'Type': 205, 'Message': 'jesus', 'Slot': 3}
 19:13:19: {'Type': 307, 'VotesFor': [5, 1], 'VotesAgainst': [0, 6, 2, 3, 4], 'Passed': False}
 19:13:32: {'Type': 307, 'VotesFor': [6], 'VotesAgainst': [3, 4, 1, 0, 2, 5], 'Passed': False}
 19:14:41: {'Type': 307, 'VotesFor': [0, 5], 'VotesAgainst': [6, 2, 4, 1, 3], 'Passed': False}
+19:15:26: {'Type': 205, 'Message': 'rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr', 'Slot': 2}
+19:16:04: {'Type': 205, 'Message': 'cancle', 'Slot': 2}
+19:16:07: {'Type': 205, 'Message': 'cancel', 'Slot': 2}
 19:16:16: {'Type': 307, 'VotesFor': [6, 3, 4, 0, 2, 5, 1], 'VotesAgainst': [], 'Passed': True}
 19:16:36: {'Type': 311, 'Mission': 3, 'Failed': True, 'NumHacks': 1, 'Proposer': 1}
+19:17:04: {'Type': 205, 'Message': 'ik', 'Slot': 5}
+19:18:50: {'Type': 205, 'Message': 'nt', 'Slot': 3}
+19:19:03: {'Type': 205, 'Message': 'waht', 'Slot': 2}
+19:19:06: {'Type': 205, 'Message': 'randomize', 'Slot': 2}
 19:19:13: {'Type': 307, 'VotesFor': [6, 0], 'VotesAgainst': [3, 2, 5, 4, 1], 'Passed': False}
+19:19:52: {'Type': 205, 'Message': 'ok', 'Slot': 5}
+19:20:01: {'Type': 205, 'Message': 'here', 'Slot': 5}
 19:20:37: {'Type': 307, 'VotesFor': [], 'VotesAgainst': [6, 0, 3, 5, 2, 1, 4], 'Passed': False}
+19:21:56: {'Type': 205, 'Message': 'ref', 'Slot': 4}
 19:21:57: {'Type': 307, 'VotesFor': [6], 'VotesAgainst': [0, 3, 4, 1, 5, 2], 'Passed': False}
-19:22:32: {'Type': 204, 'Message': 'w'}
+19:22:33: {'Type': 205, 'Message': 'w', 'Slot': 0}
 19:23:40: {'Type': 307, 'VotesFor': [3, 5, 2, 1, 4], 'VotesAgainst': [6, 0], 'Passed': True}
 19:23:49: {'Type': 311, 'Mission': 4, 'Failed': True, 'NumHacks': 2, 'Proposer': 5}
+19:25:12: {'Type': 205, 'Message': 'hi', 'Slot': 0}
+19:25:21: {'Type': 205, 'Message': 'g7?', 'Slot': 2}
 19:25:38: {'Type': 307, 'VotesFor': [0], 'VotesAgainst': [1, 4, 2, 3], 'Passed': False}
 19:25:54: {'Type': 307, 'VotesFor': [2], 'VotesAgainst': [1, 4, 3, 0], 'Passed': False}
 19:26:14: {'Type': 307, 'VotesFor': [4, 2], 'VotesAgainst': [1, 0, 3], 'Passed': False}
+19:26:43: {'Type': 205, 'Message': 'lol', 'Slot': 0}
+19:26:47: {'Type': 205, 'Message': '?', 'Slot': 0}
+19:26:56: {'Type': 205, 'Message': 'were', 'Slot': 1}
+19:26:57: {'Type': 205, 'Message': 'srry', 'Slot': 0}
 19:27:15: {'Type': 307, 'VotesFor': [4, 3, 2], 'VotesAgainst': [1, 0], 'Passed': True}
-19:27:16: {'Type': 204, 'Message': 'mhm'}
+19:27:16: {'Type': 205, 'Message': 'mhm', 'Slot': 4}
 19:27:35: {'Type': 311, 'Mission': 1, 'Failed': False, 'NumHacks': 0, 'Proposer': 3}
+19:27:53: {'Type': 205, 'Message': 'hh', 'Slot': 3}
 19:29:12: {'Type': 307, 'VotesFor': [4], 'VotesAgainst': [1, 0, 2, 3], 'Passed': False}
 19:30:00: {'Type': 307, 'VotesFor': [0, 2], 'VotesAgainst': [4, 1, 3], 'Passed': False}
+19:30:54: {'Type': 205, 'Message': 'lmao', 'Slot': 0}
+19:30:58: {'Type': 205, 'Message': '\\', 'Slot': 0}
+19:31:07: {'Type': 205, 'Message': 'bait', 'Slot': 1}
+19:31:10: {'Type': 205, 'Message': 'acc', 'Slot': 1}
+19:31:31: {'Type': 205, 'Message': 'yes', 'Slot': 1}
+19:31:35: {'Type': 205, 'Message': 'acc', 'Slot': 1}
 19:31:38: {'Type': 307, 'VotesFor': [1], 'VotesAgainst': [0, 4, 2, 3], 'Passed': False}
 19:32:57: {'Type': 307, 'VotesFor': [0, 2], 'VotesAgainst': [4, 1, 3], 'Passed': False}
-19:33:55: {'Type': 204, 'Message': 'interesting'}
+19:33:22: {'Type': 205, 'Message': 'True', 'Slot': 1}
+19:33:31: {'Type': 205, 'Message': 'noooo', 'Slot': 1}
+19:33:34: {'Type': 205, 'Message': 'dont', 'Slot': 1}
+19:33:55: {'Type': 205, 'Message': 'interesting', 'Slot': 4}
+19:34:04: {'Type': 205, 'Message': 'acc', 'Slot': 1}
 19:34:22: {'Type': 307, 'VotesFor': [3, 4, 1, 0], 'VotesAgainst': [2], 'Passed': True}
 19:34:30: {'Type': 311, 'Mission': 2, 'Failed': False, 'NumHacks': 0, 'Proposer': 3}
-19:34:35: {'Type': 204, 'Message': 'well'}
+19:34:35: {'Type': 205, 'Message': 'well', 'Slot': 4}
+19:34:41: {'Type': 205, 'Message': 'huh', 'Slot': 0}
+19:35:13: {'Type': 205, 'Message': '6', 'Slot': 1}
+19:35:16: {'Type': 205, 'Message': 'oh', 'Slot': 0}
+19:35:19: {'Type': 205, 'Message': 'hm', 'Slot': 0}
 19:36:45: {'Type': 307, 'VotesFor': [4, 3], 'VotesAgainst': [2, 1, 0], 'Passed': False}
+19:36:57: {'Type': 205, 'Message': '?', 'Slot': 1}
+19:37:19: {'Type': 205, 'Message': 'no', 'Slot': 0}
+19:37:30: {'Type': 205, 'Message': 'joe', 'Slot': 0}
+19:37:52: {'Type': 205, 'Message': 'ok', 'Slot': 0}
+19:37:56: {'Type': 205, 'Message': 'naw', 'Slot': 1}
 19:38:18: {'Type': 307, 'VotesFor': [4], 'VotesAgainst': [0, 1, 2, 3], 'Passed': False}
+19:39:13: {'Type': 205, 'Message': 'naw', 'Slot': 1}
+19:39:30: {'Type': 205, 'Message': 'what?', 'Slot': 1}
+19:39:34: {'Type': 205, 'Message': 'oml', 'Slot': 0}
 19:39:55: {'Type': 307, 'VotesFor': [1, 4, 3], 'VotesAgainst': [2, 0], 'Passed': True}
+19:40:00: {'Type': 205, 'Message': 'welp', 'Slot': 0}
+19:40:01: {'Type': 205, 'Message': 'gg', 'Slot': 0}
 19:40:15: {'Type': 311, 'Mission': 3, 'Failed': False, 'NumHacks': 0, 'Proposer': 1}
-19:40:20: {'Type': 204, 'Message': 'gg'}
+19:40:20: {'Type': 205, 'Message': 'gg', 'Slot': 4}
+19:40:23: {'Type': 205, 'Message': 'gg', 'Slot': 0}
