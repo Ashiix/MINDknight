@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 
 from src.parse import Parse
-parse = Parse()
 
-parse.read_log()
+def main():
+    parse = Parse()
+
+    parse.read_log()
+
+if __name__ == "__main__":
+    main()
