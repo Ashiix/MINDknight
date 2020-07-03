@@ -5,14 +5,11 @@
 # Original concept by Nik-Novak and Ashiix
 
 import threading
-from src.data import Data
+from src.model import Model
 
 def main():
-    data = Data()
-    data.read_log()
-    
-    for i in range(len(data.packets)):
-        print(data.packets[i])
+    model = Model()
+    model.visualize()
 
 if __name__ == "__main__":
     main()
