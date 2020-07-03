@@ -4,11 +4,13 @@
 # Developed by Ashiix and etfriedman
 # Original concept by Nik-Novak and Ashiix
 
-from src.parse import Parse
+from src.data import Data
 
 def main():
-    parse = Parse()
-    parse.read_log()
+    data = Data()
+    data.read_log()
+
+    print(data.packets)
 
 if __name__ == "__main__":
     main()

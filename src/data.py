@@ -6,7 +6,7 @@ import pathlib
 import ast
 
 # Create class Parse
-class Parse:
+class Data:
     # Init
     def __init__(self):
         # Get currently running OS
@@ -24,16 +24,17 @@ class Parse:
         # Check if player.log exists in given file path
         if not pathlib.Path(self.log_path).exists():
             sys.exit("The file can't be found in the given log path. This is most likely because you entered your home dir incorrectly.")
+        # Declare log list
+        self.packets = []
     # Read log in realtime (WIP)
     def read_log(self):
         with open(self.log_path, 'r') as log: # Open player.log in using log_path
             for line in enumerate(log):
                 line = line[1].split(" ",4)
                 try:
-                    with open("src/.tmp/parsed_packets.txt",'a') as f:
-                        if len(line[1]) == 9 and not line[1][2] == ".":
-                            time = line[1]
-                            cur_dict = ast.literal_eval(line[-1:][0].split(":",1)[1].replace("false","False").replace("true","True"))
-                            if cur_dict["Type"] == 307 or cur_dict["Type"] == 311 or cur_dict["Type"] == 205 or cur_dict["Type"] == 304:
-                                f.write("{} {}\n".format(time, cur_dict))
+                    if len(line[1]) == 9 and not line[1][2] == ".":
+                        time = line[1]
+                        cur_dict = ast.literal_eval(line[-1:][0].split(":",1)[1].replace("false","False").replace("true","True"))
+                        if cur_dict["Type"] == 307 or cur_dict["Type"] == 311 or cur_dict["Type"] == 205 or cur_dict["Type"] == 304:
+                            self.packets.append(cur_dict)
                 except: pass
