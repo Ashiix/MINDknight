@@ -5,11 +5,12 @@
 # Original concept by Nik-Novak and Ashiix
 
 import threading
-from src.model import Model
+from src.model import Data
 
 def main():
-    model = Model()
-    model.visualize()
+    model = Data()
+    model.read_log()
+    model.add_labels()
 
 if __name__ == "__main__":
     main()
