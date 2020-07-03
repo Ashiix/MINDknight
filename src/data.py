@@ -1,5 +1,14 @@
 #!/usr/bin/env python3
 
+# 205 - Message
+# 102 - GameFound
+# 201 - GameStart
+# 202 - SpawnPlayer
+# 304 - SelectPhaseEnd
+# 307 - VotePhaseEnd
+# 311 - MissionPhaseEnd
+# 203 - GameEnd
+
 # Import libraries
 import sys
 import pathlib

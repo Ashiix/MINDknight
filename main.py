@@ -10,7 +10,8 @@ def main():
     data = Data()
     data.read_log()
 
-    print(data.packets)
+    for i in range(len(data.packets)):
+        print(data.packets[i])
 
 if __name__ == "__main__":
     main()
