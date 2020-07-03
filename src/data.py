@@ -33,7 +33,7 @@ class Data:
         # Check if player.log exists in given file path
         if not pathlib.Path(self.log_path).exists():
             sys.exit("The file can't be found in the given log path. This is most likely because you entered your home dir incorrectly.")
-        # Declare log list
+        # Declare packet list
         self.packets = []
     # Read log in realtime (WIP)
     def read_log(self):
