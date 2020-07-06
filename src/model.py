@@ -20,3 +20,6 @@ class Model:
 
     def log_regression(self):
         pass
+
+    def visualize(self):
+        sns.heatmap(self.train.isnull())
