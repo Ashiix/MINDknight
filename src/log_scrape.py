@@ -11,7 +11,7 @@ in_game = False
 game_num = 1
 game = []
 
-with open(log_path, 'r') as log: # Open player.log using log_path
+with open(log_path, 'r') as log:
     for line in enumerate(log):
         line_txt = line[1].replace("\n", "")
         if "GameStart" in line_txt or in_game == True:
