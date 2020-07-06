@@ -15,8 +15,8 @@ class Model:
         # Create packet dataframe
         data = Data()
         data.read_log()
-        self.train = pd.DataFrame(data.packets)
-        print(self.train.head())
+        #self.train = pd.DataFrame(data.packets)
+        #print(self.train.head())
 
     def log_regression(self):
         pass

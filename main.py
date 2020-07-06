@@ -4,13 +4,13 @@
 # Developed by Ashiix and etfriedman
 # Original concept by Nik-Novak and Ashiix
 
-import threading
-from src.model import Data
+from src.data import Data
 
 def main():
-    model = Data()
-    model.read_log()
-    model.add_labels()
+    temp = Data() # temp, will usually equal Model()
+    temp.parse()
+    temp.add_labels()
+    temp.export('src/games/e_game2.txt')
 
 if __name__ == "__main__":
     main()
