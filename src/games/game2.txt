@@ -1,0 +1,864 @@
+2020.06.29 17:01:10: Received GameStart packet:{"Type":201,"Disconnected":[],"AFK":[]}
+2020.06.29 17:01:10: Received TalkPhaseStart packet:{"Type":301,"Duration":30000}
+2020.06.29 17:01:10: PlayState: Entering TalkingPhase
+2020.06.29 17:01:11: Received ServerInfo packet:{"Type":2,"PlayersOnline":57,"PlayersPlaying":32,"PublicCustomGames":5,"PlayersSearching":0,"MaintenanceIn":-1}
+2020.06.29 17:01:13: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:01:16: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:01:16: Received ServerInfo packet:{"Type":2,"PlayersOnline":57,"PlayersPlaying":31,"PublicCustomGames":5,"PlayersSearching":0,"MaintenanceIn":-1}
+2020.06.29 17:01:18: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:01:18: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:01:18: Sending Packet:{"Type":-1}
+2020.06.29 17:01:18: Received ChatMessageReceive packet:{"Type":205,"Message":"welp 6 man gg","Slot":2}
+2020.06.29 17:01:20: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":true}
+2020.06.29 17:01:21: Received ReceiveGlobalChatMessage packet:{"Type":902,"Message":{"Message":".","SteamId":"76561198867421459","Username":"","Roles":[0],"Timestamp":1593450069}}
+2020.06.29 17:01:21: Received ServerInfo packet:{"Type":2,"PlayersOnline":57,"PlayersPlaying":31,"PublicCustomGames":5,"PlayersSearching":1,"MaintenanceIn":-1}
+2020.06.29 17:01:21: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":false}
+2020.06.29 17:01:21: Received ChatMessageReceive packet:{"Type":205,"Message":"?","Slot":0}
+2020.06.29 17:01:23: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:01:23: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:01:24: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:01:24: Sending SendChatPacket:{"Type":204,"Message":"oh la la"}
+2020.06.29 17:01:24: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:01:24: Received ChatMessageReceive packet:{"Type":205,"Message":"oh la la","Slot":3}
+2020.06.29 17:01:26: Received ServerInfo packet:{"Type":2,"PlayersOnline":59,"PlayersPlaying":31,"PublicCustomGames":5,"PlayersSearching":1,"MaintenanceIn":-1}
+2020.06.29 17:01:28: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:01:28: Sending Packet:{"Type":-1}
+2020.06.29 17:01:31: Received ServerInfo packet:{"Type":2,"PlayersOnline":59,"PlayersPlaying":31,"PublicCustomGames":5,"PlayersSearching":1,"MaintenanceIn":-1}
+2020.06.29 17:01:32: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:01:32: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:01:34: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:01:34: Sending SendChatPacket:{"Type":204,"Message":"how you guys doin"}
+2020.06.29 17:01:34: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:01:34: Received ChatMessageReceive packet:{"Type":205,"Message":"how you guys doin","Slot":3}
+2020.06.29 17:01:36: Received ServerInfo packet:{"Type":2,"PlayersOnline":59,"PlayersPlaying":36,"PublicCustomGames":5,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:01:38: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:01:38: Sending Packet:{"Type":-1}
+2020.06.29 17:01:38: Received ChatUpdate packet:{"Type":405,"Slot":1,"Typing":true}
+2020.06.29 17:01:40: Received ReceiveGlobalChatMessage packet:{"Type":902,"Message":{"Message":"dot","SteamId":"76561198867421459","Username":"","Roles":[0],"Timestamp":1593450088}}
+2020.06.29 17:01:40: Received TalkPhaseEnd packet:{"Type":302}
+2020.06.29 17:01:40: Received SelectPhaseStart packet:{"Type":303,"Player":0,"NextPlayer":1,"Amount":2,"Duration":60000,"Mission":1}
+2020.06.29 17:01:40: PlayState: Entering SelectPhase
+2020.06.29 17:01:40: SelectPhase: 0 2
+2020.06.29 17:01:41: Received ServerInfo packet:{"Type":2,"PlayersOnline":59,"PlayersPlaying":36,"PublicCustomGames":5,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:01:43: Received SelectUpdate packet:{"Type":305,"Slots":[0],"Submit":false,"Pass":false}
+2020.06.29 17:01:43: Received SelectUpdate packet:{"Type":305,"Slots":[0,1],"Submit":false,"Pass":false}
+2020.06.29 17:01:44: Received SelectPhaseEnd packet:{"Type":304,"Proposer":0,"SelectedTeam":[0,1],"Passed":false}
+2020.06.29 17:01:44: Received VotePhaseStart packet:{"Type":306,"Proposer":0,"Players":[0,1],"Duration":60000}
+2020.06.29 17:01:44: PlayState: Entering VotePhase
+2020.06.29 17:01:45: Sending VotePacket:{"Type":308,"Action":1}
+2020.06.29 17:01:45: Received VoteMade packet:{"Type":309,"Slot":0}
+2020.06.29 17:01:45: Received VoteMade packet:{"Type":309,"Slot":3}
+2020.06.29 17:01:46: Received ServerInfo packet:{"Type":2,"PlayersOnline":59,"PlayersPlaying":36,"PublicCustomGames":5,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:01:46: Received VoteMade packet:{"Type":309,"Slot":2}
+2020.06.29 17:01:46: Received VoteMade packet:{"Type":309,"Slot":4}
+2020.06.29 17:01:47: Received VoteMade packet:{"Type":309,"Slot":5}
+2020.06.29 17:01:47: Received ChatUpdate packet:{"Type":405,"Slot":1,"Typing":false}
+2020.06.29 17:01:47: Received VoteMade packet:{"Type":309,"Slot":1}
+2020.06.29 17:01:47: Received VotePhaseEnd packet:{"Type":307,"VotesFor":[0,3,2,4,5,1],"VotesAgainst":[],"Passed":true}
+2020.06.29 17:01:47: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:01:48: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:01:48: Sending Packet:{"Type":-1}
+2020.06.29 17:01:49: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:01:49: Received ChatMessageReceive packet:{"Type":205,"Message":"alive","Slot":2}
+2020.06.29 17:01:50: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:01:51: Received ServerInfo packet:{"Type":2,"PlayersOnline":60,"PlayersPlaying":36,"PublicCustomGames":5,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:01:51: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:01:52: Received MissionPhaseStart packet:{"Type":310,"Mission":1,"Players":[0,1],"Duration":15000}
+2020.06.29 17:01:52: PlayState: Entering MissionPhase
+2020.06.29 17:01:52: Set Mission Players: <color=#FFEC16><noparse>Shirley</noparse></color>, <color=#0041F6><noparse>Braetonix</noparse></color>
+2020.06.29 17:01:53: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":false}
+2020.06.29 17:01:54: Received MissionPhaseEnd packet:{"Type":311,"Mission":1,"Failed":false,"NumHacks":0,"Proposer":0}
+2020.06.29 17:01:56: Received ServerInfo packet:{"Type":2,"PlayersOnline":62,"PlayersPlaying":36,"PublicCustomGames":5,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:01:56: Set Mission Players: <color=#FFEC16><noparse>Shirley</noparse></color>, <color=#0041F6><noparse>Braetonix</noparse></color>
+2020.06.29 17:01:58: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:01:58: Sending Packet:{"Type":-1}
+2020.06.29 17:02:01: Received ServerInfo packet:{"Type":2,"PlayersOnline":62,"PlayersPlaying":41,"PublicCustomGames":4,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:02:02: Received TalkPhaseStart packet:{"Type":301,"Duration":45000}
+2020.06.29 17:02:02: PlayState: Entering TalkingPhase
+2020.06.29 17:02:02: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":true}
+2020.06.29 17:02:03: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":false}
+2020.06.29 17:02:03: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:02:06: Received ServerInfo packet:{"Type":2,"PlayersOnline":62,"PlayersPlaying":41,"PublicCustomGames":4,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:02:07: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:02:08: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:02:08: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:02:08: Sending Packet:{"Type":-1}
+2020.06.29 17:02:11: Received ServerInfo packet:{"Type":2,"PlayersOnline":63,"PlayersPlaying":41,"PublicCustomGames":4,"PlayersSearching":4,"MaintenanceIn":-1}
+2020.06.29 17:02:11: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:02:11: Received ChatMessageReceive packet:{"Type":205,"Message":"6 man shouldnt exist change my mind","Slot":2}
+2020.06.29 17:02:16: Received ServerInfo packet:{"Type":2,"PlayersOnline":62,"PlayersPlaying":41,"PublicCustomGames":4,"PlayersSearching":4,"MaintenanceIn":-1}
+2020.06.29 17:02:16: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":true}
+2020.06.29 17:02:17: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":false}
+2020.06.29 17:02:17: Received ChatMessageReceive packet:{"Type":205,"Message":"no","Slot":0}
+2020.06.29 17:02:18: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:02:18: Sending Packet:{"Type":-1}
+2020.06.29 17:02:19: Received ReceiveGlobalChatMessage packet:{"Type":902,"Message":{"Message":"you cant be reported either","SteamId":"76561198867421459","Username":"","Roles":[0],"Timestamp":1593450127}}
+2020.06.29 17:02:21: Received ServerInfo packet:{"Type":2,"PlayersOnline":62,"PlayersPlaying":41,"PublicCustomGames":4,"PlayersSearching":4,"MaintenanceIn":-1}
+2020.06.29 17:02:25: Received ReceiveGlobalChatMessage packet:{"Type":902,"Message":{"Message":"british man","SteamId":"76561198867421459","Username":"","Roles":[0],"Timestamp":1593450133}}
+2020.06.29 17:02:26: Received ServerInfo packet:{"Type":2,"PlayersOnline":62,"PlayersPlaying":41,"PublicCustomGames":4,"PlayersSearching":4,"MaintenanceIn":-1}
+2020.06.29 17:02:27: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:02:27: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:02:28: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:02:28: Sending Packet:{"Type":-1}
+2020.06.29 17:02:28: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:02:28: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:02:31: Received ServerInfo packet:{"Type":2,"PlayersOnline":63,"PlayersPlaying":41,"PublicCustomGames":4,"PlayersSearching":4,"MaintenanceIn":-1}
+2020.06.29 17:02:34: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:02:34: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:02:35: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:02:35: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:02:36: Received ServerInfo packet:{"Type":2,"PlayersOnline":63,"PlayersPlaying":41,"PublicCustomGames":4,"PlayersSearching":4,"MaintenanceIn":-1}
+2020.06.29 17:02:38: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:02:38: Sending Packet:{"Type":-1}
+2020.06.29 17:02:40: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:02:40: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:02:40: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:02:40: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:02:41: Received ServerInfo packet:{"Type":2,"PlayersOnline":63,"PlayersPlaying":41,"PublicCustomGames":4,"PlayersSearching":4,"MaintenanceIn":-1}
+2020.06.29 17:02:42: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:02:42: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:02:42: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:02:42: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:02:45: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:02:45: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:02:45: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:02:45: Sending SendChatPacket:{"Type":204,"Message":"ok"}
+2020.06.29 17:02:45: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:02:46: Received ChatMessageReceive packet:{"Type":205,"Message":"ok","Slot":3}
+2020.06.29 17:02:46: Received ServerInfo packet:{"Type":2,"PlayersOnline":65,"PlayersPlaying":41,"PublicCustomGames":4,"PlayersSearching":4,"MaintenanceIn":-1}
+2020.06.29 17:02:47: Received TalkPhaseEnd packet:{"Type":302}
+2020.06.29 17:02:47: Received SelectPhaseStart packet:{"Type":303,"Player":1,"NextPlayer":2,"Amount":3,"Duration":60000,"Mission":2}
+2020.06.29 17:02:47: PlayState: Entering SelectPhase
+2020.06.29 17:02:47: SelectPhase: 1 3
+2020.06.29 17:02:48: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:02:48: Sending Packet:{"Type":-1}
+2020.06.29 17:02:48: Received IdleStatusUpdate packet:{"Type":403,"Idle":true,"Player":4}
+2020.06.29 17:02:51: Received ServerInfo packet:{"Type":2,"PlayersOnline":65,"PlayersPlaying":41,"PublicCustomGames":4,"PlayersSearching":4,"MaintenanceIn":-1}
+2020.06.29 17:02:51: Received ChatUpdate packet:{"Type":405,"Slot":1,"Typing":false}
+2020.06.29 17:02:51: Received SelectUpdate packet:{"Type":305,"Slots":[1],"Submit":false,"Pass":false}
+2020.06.29 17:02:53: Received SelectUpdate packet:{"Type":305,"Slots":[1,5],"Submit":false,"Pass":false}
+2020.06.29 17:02:54: Received ReceiveGlobalChatMessage packet:{"Type":902,"Message":{"Message":"also blame diode for finding this out <sprite name=\"emoji_cute\">","SteamId":"76561198867421459","Username":"","Roles":[0],"Timestamp":1593450162}}
+2020.06.29 17:02:54: Received SelectUpdate packet:{"Type":305,"Slots":[1,2,5],"Submit":false,"Pass":false}
+2020.06.29 17:02:55: Received SelectPhaseEnd packet:{"Type":304,"Proposer":1,"SelectedTeam":[1,2,5],"Passed":false}
+2020.06.29 17:02:55: Received VotePhaseStart packet:{"Type":306,"Proposer":1,"Players":[1,2,5],"Duration":60000}
+2020.06.29 17:02:55: PlayState: Entering VotePhase
+2020.06.29 17:02:56: Received VoteMade packet:{"Type":309,"Slot":2}
+2020.06.29 17:02:56: Received ServerInfo packet:{"Type":2,"PlayersOnline":66,"PlayersPlaying":41,"PublicCustomGames":4,"PlayersSearching":4,"MaintenanceIn":-1}
+2020.06.29 17:02:56: Received VoteMade packet:{"Type":309,"Slot":5}
+2020.06.29 17:02:56: Received VoteMade packet:{"Type":309,"Slot":1}
+2020.06.29 17:02:58: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:02:58: Sending Packet:{"Type":-1}
+2020.06.29 17:02:58: Received IdleStatusUpdate packet:{"Type":403,"Idle":false,"Player":4}
+2020.06.29 17:02:58: Sending VotePacket:{"Type":308,"Action":1}
+2020.06.29 17:02:58: Received VoteMade packet:{"Type":309,"Slot":3}
+2020.06.29 17:02:59: Received VoteMade packet:{"Type":309,"Slot":0}
+2020.06.29 17:03:01: Received ServerInfo packet:{"Type":2,"PlayersOnline":66,"PlayersPlaying":41,"PublicCustomGames":4,"PlayersSearching":0,"MaintenanceIn":-1}
+2020.06.29 17:03:04: Received ReceiveGlobalChatMessage packet:{"Type":902,"Message":{"Message":"he's taking advantage of this too","SteamId":"76561198867421459","Username":"","Roles":[0],"Timestamp":1593450172}}
+2020.06.29 17:03:04: Received VoteMade packet:{"Type":309,"Slot":4}
+2020.06.29 17:03:04: Received VotePhaseEnd packet:{"Type":307,"VotesFor":[2,5,1,3],"VotesAgainst":[0,4],"Passed":true}
+2020.06.29 17:03:06: Received ServerInfo packet:{"Type":2,"PlayersOnline":66,"PlayersPlaying":41,"PublicCustomGames":4,"PlayersSearching":0,"MaintenanceIn":-1}
+2020.06.29 17:03:08: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:03:08: Sending Packet:{"Type":-1}
+2020.06.29 17:03:09: Received MissionPhaseStart packet:{"Type":310,"Mission":2,"Players":[1,2,5],"Duration":15000}
+2020.06.29 17:03:09: PlayState: Entering MissionPhase
+2020.06.29 17:03:09: Set Mission Players: <color=#0041F6><noparse>Braetonix</noparse></color>, <color=#00B48B><noparse>Cameron</noparse></color>, <color=#00A6F6><noparse>Mook</noparse></color>
+2020.06.29 17:03:11: Received ServerInfo packet:{"Type":2,"PlayersOnline":68,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":0,"MaintenanceIn":-1}
+2020.06.29 17:03:14: Received MissionPhaseEnd packet:{"Type":311,"Mission":2,"Failed":false,"NumHacks":0,"Proposer":1}
+2020.06.29 17:03:16: Received ServerInfo packet:{"Type":2,"PlayersOnline":68,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":0,"MaintenanceIn":-1}
+2020.06.29 17:03:17: Set Mission Players: <color=#0041F6><noparse>Braetonix</noparse></color>, <color=#00B48B><noparse>Cameron</noparse></color>, <color=#00A6F6><noparse>Mook</noparse></color>
+2020.06.29 17:03:18: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:03:18: Sending Packet:{"Type":-1}
+2020.06.29 17:03:20: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:03:21: Received ServerInfo packet:{"Type":2,"PlayersOnline":68,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":0,"MaintenanceIn":-1}
+2020.06.29 17:03:22: Received TalkPhaseStart packet:{"Type":301,"Duration":60000}
+2020.06.29 17:03:22: PlayState: Entering TalkingPhase
+2020.06.29 17:03:24: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:03:24: Received ChatMessageReceive packet:{"Type":205,"Message":"lucky guess braetonix","Slot":2}
+2020.06.29 17:03:26: Received ServerInfo packet:{"Type":2,"PlayersOnline":68,"PlayersPlaying":46,"PublicCustomGames":5,"PlayersSearching":1,"MaintenanceIn":-1}
+2020.06.29 17:03:28: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:03:28: Sending Packet:{"Type":-1}
+2020.06.29 17:03:30: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":true}
+2020.06.29 17:03:31: Received ServerInfo packet:{"Type":2,"PlayersOnline":68,"PlayersPlaying":46,"PublicCustomGames":6,"PlayersSearching":1,"MaintenanceIn":-1}
+2020.06.29 17:03:32: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:03:32: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:03:36: Received ServerInfo packet:{"Type":2,"PlayersOnline":68,"PlayersPlaying":46,"PublicCustomGames":6,"PlayersSearching":1,"MaintenanceIn":-1}
+2020.06.29 17:03:38: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:03:38: Sending Packet:{"Type":-1}
+2020.06.29 17:03:41: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:03:41: Sending SendChatPacket:{"Type":204,"Message":"shirley let the first node through to drop sus on him"}
+2020.06.29 17:03:41: Received ServerInfo packet:{"Type":2,"PlayersOnline":68,"PlayersPlaying":46,"PublicCustomGames":5,"PlayersSearching":1,"MaintenanceIn":-1}
+2020.06.29 17:03:41: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:03:41: Received ChatMessageReceive packet:{"Type":205,"Message":"shirley let the first node through to drop sus on him","Slot":3}
+2020.06.29 17:03:41: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":false}
+2020.06.29 17:03:41: Received ChatMessageReceive packet:{"Type":205,"Message":"or hackers are playin the long game but i dont think so","Slot":0}
+2020.06.29 17:03:46: Received ServerInfo packet:{"Type":2,"PlayersOnline":70,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":1,"MaintenanceIn":-1}
+2020.06.29 17:03:48: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:03:48: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:03:48: Sending Packet:{"Type":-1}
+2020.06.29 17:03:51: Received ServerInfo packet:{"Type":2,"PlayersOnline":70,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":1,"MaintenanceIn":-1}
+2020.06.29 17:03:51: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":true}
+2020.06.29 17:03:56: Received ServerInfo packet:{"Type":2,"PlayersOnline":70,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":1,"MaintenanceIn":-1}
+2020.06.29 17:03:56: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:03:56: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:03:58: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:03:58: Sending Packet:{"Type":-1}
+2020.06.29 17:04:00: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:04:01: Received ServerInfo packet:{"Type":2,"PlayersOnline":70,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:04:02: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:04:06: Received ServerInfo packet:{"Type":2,"PlayersOnline":70,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:04:08: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:04:08: Sending Packet:{"Type":-1}
+2020.06.29 17:04:08: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":false}
+2020.06.29 17:04:08: Received ChatMessageReceive packet:{"Type":205,"Message":"h. im more sus of braetonix","Slot":4}
+2020.06.29 17:04:11: Received ServerInfo packet:{"Type":2,"PlayersOnline":70,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:04:11: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:04:11: Sending SendChatPacket:{"Type":204,"Message":"and then voted no cause braetonix got lucky i assume"}
+2020.06.29 17:04:11: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:04:11: Received ChatMessageReceive packet:{"Type":205,"Message":"and then voted no cause braetonix got lucky i assume","Slot":3}
+2020.06.29 17:04:13: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":true}
+2020.06.29 17:04:14: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":false}
+2020.06.29 17:04:14: Received ChatMessageReceive packet:{"Type":205,"Message":"why?","Slot":0}
+2020.06.29 17:04:15: Received IdleStatusUpdate packet:{"Type":403,"Idle":true,"Player":1}
+2020.06.29 17:04:16: Received ServerInfo packet:{"Type":2,"PlayersOnline":70,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:04:18: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:04:18: Sending Packet:{"Type":-1}
+2020.06.29 17:04:19: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":true}
+2020.06.29 17:04:21: Received ServerInfo packet:{"Type":2,"PlayersOnline":70,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:04:21: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:04:21: Received ChatMessageReceive packet:{"Type":205,"Message":"either its clean or one hacker is in and joel is a hacker and acc out of node hoping the other would hack","Slot":2}
+2020.06.29 17:04:22: Received TalkPhaseEnd packet:{"Type":302}
+2020.06.29 17:04:22: Received SelectPhaseStart packet:{"Type":303,"Player":2,"NextPlayer":3,"Amount":4,"Duration":60000,"Mission":3}
+2020.06.29 17:04:22: PlayState: Entering SelectPhase
+2020.06.29 17:04:22: SelectPhase: 2 4
+2020.06.29 17:04:26: Received ServerInfo packet:{"Type":2,"PlayersOnline":70,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:04:26: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":false}
+2020.06.29 17:04:26: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:04:26: Received ChatMessageReceive packet:{"Type":205,"Message":"why sus of brae?","Slot":0}
+2020.06.29 17:04:28: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:04:28: Sending Packet:{"Type":-1}
+2020.06.29 17:04:30: Received IdleStatusUpdate packet:{"Type":403,"Idle":true,"Player":5}
+2020.06.29 17:04:31: Received ServerInfo packet:{"Type":2,"PlayersOnline":70,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:04:31: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:04:31: Received ChatMessageReceive packet:{"Type":205,"Message":"so joel, why did you acc out of node","Slot":2}
+2020.06.29 17:04:32: Received IdleStatusUpdate packet:{"Type":403,"Idle":false,"Player":5}
+2020.06.29 17:04:35: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":true}
+2020.06.29 17:04:36: Received ServerInfo packet:{"Type":2,"PlayersOnline":70,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:04:38: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:04:38: Sending Packet:{"Type":-1}
+2020.06.29 17:04:41: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:04:41: Received ServerInfo packet:{"Type":2,"PlayersOnline":70,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:04:41: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:04:42: Received SelectUpdate packet:{"Type":305,"Slots":[1],"Submit":false,"Pass":false}
+2020.06.29 17:04:43: Received SelectUpdate packet:{"Type":305,"Slots":[1,2],"Submit":false,"Pass":false}
+2020.06.29 17:04:43: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:04:43: Sending SendChatPacket:{"Type":204,"Message":"its already at 2"}
+2020.06.29 17:04:43: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:04:43: Received ChatMessageReceive packet:{"Type":205,"Message":"its already at 2","Slot":3}
+2020.06.29 17:04:43: Received SelectUpdate packet:{"Type":305,"Slots":[1,2,5],"Submit":false,"Pass":false}
+2020.06.29 17:04:44: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:04:44: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:04:46: Received ServerInfo packet:{"Type":2,"PlayersOnline":70,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:04:48: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:04:48: Sending Packet:{"Type":-1}
+2020.06.29 17:04:49: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:04:49: Sending SendChatPacket:{"Type":204,"Message":"put me in and see then you can figure it out"}
+2020.06.29 17:04:49: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:04:49: Received ChatMessageReceive packet:{"Type":205,"Message":"put me in and see then you can figure it out","Slot":3}
+2020.06.29 17:04:51: Received ServerInfo packet:{"Type":2,"PlayersOnline":70,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:04:53: Received IdleStatusUpdate packet:{"Type":403,"Idle":true,"Player":4}
+2020.06.29 17:04:55: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:04:55: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:04:56: Received ServerInfo packet:{"Type":2,"PlayersOnline":71,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:04:56: Received SelectUpdate packet:{"Type":305,"Slots":[0,1,2,5],"Submit":false,"Pass":false}
+2020.06.29 17:04:56: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:04:56: Sending SendChatPacket:{"Type":204,"Message":"simple really"}
+2020.06.29 17:04:56: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:04:56: Received ChatMessageReceive packet:{"Type":205,"Message":"simple really","Slot":3}
+2020.06.29 17:04:56: Received SelectPhaseEnd packet:{"Type":304,"Proposer":2,"SelectedTeam":[0,1,2,5],"Passed":false}
+2020.06.29 17:04:56: Received VotePhaseStart packet:{"Type":306,"Proposer":2,"Players":[0,1,2,5],"Duration":60000}
+2020.06.29 17:04:56: PlayState: Entering VotePhase
+2020.06.29 17:04:57: Received IdleStatusUpdate packet:{"Type":403,"Idle":false,"Player":1}
+2020.06.29 17:04:57: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:04:57: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:04:58: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:04:58: Sending Packet:{"Type":-1}
+2020.06.29 17:04:58: Received VoteMade packet:{"Type":309,"Slot":5}
+2020.06.29 17:04:58: Received IdleStatusUpdate packet:{"Type":403,"Idle":false,"Player":4}
+2020.06.29 17:04:58: Received ChatUpdate packet:{"Type":405,"Slot":1,"Typing":false}
+2020.06.29 17:04:58: Received VoteMade packet:{"Type":309,"Slot":1}
+2020.06.29 17:04:59: Received VoteMade packet:{"Type":309,"Slot":4}
+2020.06.29 17:04:59: Received VoteMade packet:{"Type":309,"Slot":2}
+2020.06.29 17:05:00: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":false}
+2020.06.29 17:05:00: Received VoteMade packet:{"Type":309,"Slot":0}
+2020.06.29 17:05:01: Received ServerInfo packet:{"Type":2,"PlayersOnline":71,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:05:02: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:05:02: Sending SendChatPacket:{"Type":204,"Message":"shirely gonna ruin"}
+2020.06.29 17:05:03: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:05:03: Received ChatMessageReceive packet:{"Type":205,"Message":"shirely gonna ruin","Slot":3}
+2020.06.29 17:05:04: Sending VotePacket:{"Type":308,"Action":2}
+2020.06.29 17:05:04: Received VoteMade packet:{"Type":309,"Slot":3}
+2020.06.29 17:05:04: Received VotePhaseEnd packet:{"Type":307,"VotesFor":[5,1,4,2,0],"VotesAgainst":[3],"Passed":true}
+2020.06.29 17:05:06: Received ServerInfo packet:{"Type":2,"PlayersOnline":71,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:05:06: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:05:06: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:05:07: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:05:07: Sending SendChatPacket:{"Type":204,"Message":"rip"}
+2020.06.29 17:05:07: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:05:07: Received ChatMessageReceive packet:{"Type":205,"Message":"rip","Slot":3}
+2020.06.29 17:05:08: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:05:08: Sending Packet:{"Type":-1}
+2020.06.29 17:05:08: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:05:08: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:05:08: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:05:09: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:05:09: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:05:09: Sending SendChatPacket:{"Type":204,"Message":"hacked"}
+2020.06.29 17:05:09: Received ChatMessageReceive packet:{"Type":205,"Message":"gg","Slot":2}
+2020.06.29 17:05:09: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:05:09: Received ChatMessageReceive packet:{"Type":205,"Message":"hacked","Slot":3}
+2020.06.29 17:05:09: Received MissionPhaseStart packet:{"Type":310,"Mission":3,"Players":[0,1,2,5],"Duration":15000}
+2020.06.29 17:05:09: PlayState: Entering MissionPhase
+2020.06.29 17:05:09: Set Mission Players: <color=#FFEC16><noparse>Shirley</noparse></color>, <color=#0041F6><noparse>Braetonix</noparse></color>, <color=#00B48B><noparse>Cameron</noparse></color>, <color=#00A6F6><noparse>Mook</noparse></color>
+2020.06.29 17:05:11: Received ServerInfo packet:{"Type":2,"PlayersOnline":71,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:05:14: Received MissionPhaseEnd packet:{"Type":311,"Mission":3,"Failed":true,"NumHacks":1,"Proposer":2}
+2020.06.29 17:05:16: Received ServerInfo packet:{"Type":2,"PlayersOnline":72,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":1,"MaintenanceIn":-1}
+2020.06.29 17:05:16: Set Mission Players: <color=#FFEC16><noparse>Shirley</noparse></color>, <color=#0041F6><noparse>Braetonix</noparse></color>, <color=#00B48B><noparse>Cameron</noparse></color>, <color=#00A6F6><noparse>Mook</noparse></color>
+2020.06.29 17:05:18: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:05:18: Sending Packet:{"Type":-1}
+2020.06.29 17:05:18: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:05:18: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:05:18: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":true}
+2020.06.29 17:05:18: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:05:19: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":false}
+2020.06.29 17:05:19: Received ChatMessageReceive packet:{"Type":205,"Message":"bruh","Slot":0}
+2020.06.29 17:05:20: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":true}
+2020.06.29 17:05:21: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":false}
+2020.06.29 17:05:21: Received ServerInfo packet:{"Type":2,"PlayersOnline":72,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:05:21: Received ChatMessageReceive packet:{"Type":205,"Message":"oof","Slot":4}
+2020.06.29 17:05:21: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:05:21: Sending SendChatPacket:{"Type":204,"Message":"wooooaaaah omg no wayyy"}
+2020.06.29 17:05:21: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:05:21: Received ChatMessageReceive packet:{"Type":205,"Message":"wooooaaaah omg no wayyy","Slot":3}
+2020.06.29 17:05:22: Received TalkPhaseStart packet:{"Type":301,"Duration":75000}
+2020.06.29 17:05:22: PlayState: Entering TalkingPhase
+2020.06.29 17:05:22: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":true}
+2020.06.29 17:05:22: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:05:22: Received ChatMessageReceive packet:{"Type":205,"Message":"aight shirley is hacker ","Slot":2}
+2020.06.29 17:05:24: Received ReceiveGlobalChatMessage packet:{"Type":902,"Message":{"Message":"anyone gonna search for a ©%#$ game lmao","SteamId":"76561198273381327","Username":"Vienna","Roles":[0],"Timestamp":1593450312}}
+2020.06.29 17:05:25: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:05:25: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:05:26: Received ServerInfo packet:{"Type":2,"PlayersOnline":73,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:05:26: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":false}
+2020.06.29 17:05:27: Received ChatMessageReceive packet:{"Type":205,"Message":"should of denied","Slot":4}
+2020.06.29 17:05:27: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:05:27: Sending SendChatPacket:{"Type":204,"Message":"YEP"}
+2020.06.29 17:05:27: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:05:28: Received ChatMessageReceive packet:{"Type":205,"Message":"YEP","Slot":3}
+2020.06.29 17:05:28: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:05:28: Sending Packet:{"Type":-1}
+2020.06.29 17:05:28: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":false}
+2020.06.29 17:05:31: Received ServerInfo packet:{"Type":2,"PlayersOnline":73,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:05:34: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:05:34: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:05:34: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:05:36: Received ServerInfo packet:{"Type":2,"PlayersOnline":73,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:05:38: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:05:38: Sending Packet:{"Type":-1}
+2020.06.29 17:05:41: Received ServerInfo packet:{"Type":2,"PlayersOnline":73,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:05:42: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:05:42: Received ChatMessageReceive packet:{"Type":205,"Message":"its ok this is a 3 man now well just do n2 again lul","Slot":2}
+2020.06.29 17:05:43: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:05:43: Sending SendChatPacket:{"Type":204,"Message":"aight imma take me braetonix cameron mook"}
+2020.06.29 17:05:44: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:05:44: Received ChatMessageReceive packet:{"Type":205,"Message":"aight imma take me braetonix cameron mook","Slot":3}
+2020.06.29 17:05:46: Received ServerInfo packet:{"Type":2,"PlayersOnline":73,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:05:48: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:05:48: Sending Packet:{"Type":-1}
+2020.06.29 17:05:49: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:05:51: Received ServerInfo packet:{"Type":2,"PlayersOnline":72,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:05:52: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:05:52: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:05:53: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:05:53: Sending SendChatPacket:{"Type":204,"Message":"oh three people?"}
+2020.06.29 17:05:53: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:05:54: Received ChatMessageReceive packet:{"Type":205,"Message":"oh three people?","Slot":3}
+2020.06.29 17:05:55: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":true}
+2020.06.29 17:05:55: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:05:55: Received ChatMessageReceive packet:{"Type":205,"Message":"this is why 6 man is broken","Slot":2}
+2020.06.29 17:05:56: Received IdleStatusUpdate packet:{"Type":403,"Idle":true,"Player":1}
+2020.06.29 17:05:56: Received ServerInfo packet:{"Type":2,"PlayersOnline":72,"PlayersPlaying":51,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:05:58: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:05:58: Sending Packet:{"Type":-1}
+2020.06.29 17:06:00: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":false}
+2020.06.29 17:06:00: Received ChatMessageReceive packet:{"Type":205,"Message":"why no take yourself?","Slot":4}
+2020.06.29 17:06:01: Received ServerInfo packet:{"Type":2,"PlayersOnline":71,"PlayersPlaying":51,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:06:05: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:06:05: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:06:06: Received ServerInfo packet:{"Type":2,"PlayersOnline":72,"PlayersPlaying":51,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:06:06: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:06:06: Sending SendChatPacket:{"Type":204,"Message":"i said me"}
+2020.06.29 17:06:06: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:06:06: Received ChatMessageReceive packet:{"Type":205,"Message":"i said me","Slot":3}
+2020.06.29 17:06:08: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:06:08: Sending Packet:{"Type":-1}
+2020.06.29 17:06:09: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:06:09: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:06:11: Received ServerInfo packet:{"Type":2,"PlayersOnline":77,"PlayersPlaying":50,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:06:12: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:06:12: Sending SendChatPacket:{"Type":204,"Message":"but its 3 man so idk"}
+2020.06.29 17:06:12: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:06:12: Received ChatMessageReceive packet:{"Type":205,"Message":"but its 3 man so idk","Slot":3}
+2020.06.29 17:06:13: Received IdleStatusUpdate packet:{"Type":403,"Idle":true,"Player":0}
+2020.06.29 17:06:13: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:06:13: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:06:16: Received ServerInfo packet:{"Type":2,"PlayersOnline":77,"PlayersPlaying":48,"PublicCustomGames":4,"PlayersSearching":2,"MaintenanceIn":-1}
+2020.06.29 17:06:16: Received IdleStatusUpdate packet:{"Type":403,"Idle":false,"Player":0}
+2020.06.29 17:06:17: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:06:17: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:06:17: Sending SendChatPacket:{"Type":204,"Message":"if i trust mook"}
+2020.06.29 17:06:17: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:06:17: Received ChatMessageReceive packet:{"Type":205,"Message":"if i trust mook","Slot":3}
+2020.06.29 17:06:18: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:06:18: Sending Packet:{"Type":-1}
+2020.06.29 17:06:20: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:06:20: Received ChatMessageReceive packet:{"Type":205,"Message":"its joel / shirley","Slot":2}
+2020.06.29 17:06:21: Received ServerInfo packet:{"Type":2,"PlayersOnline":76,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:06:21: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":true}
+2020.06.29 17:06:21: Received IdleStatusUpdate packet:{"Type":403,"Idle":true,"Player":5}
+2020.06.29 17:06:24: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:06:24: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:06:24: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":false}
+2020.06.29 17:06:24: Received ChatMessageReceive packet:{"Type":205,"Message":"<sprite name=\"emoji_thinking\">","Slot":0}
+2020.06.29 17:06:25: Received IdleStatusUpdate packet:{"Type":403,"Idle":false,"Player":5}
+2020.06.29 17:06:25: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:06:25: Sending SendChatPacket:{"Type":204,"Message":"gabby shirley"}
+2020.06.29 17:06:25: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:06:25: Received ChatMessageReceive packet:{"Type":205,"Message":"gabby shirley","Slot":3}
+2020.06.29 17:06:26: Received ServerInfo packet:{"Type":2,"PlayersOnline":76,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:06:27: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:06:27: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:06:28: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:06:28: Sending Packet:{"Type":-1}
+2020.06.29 17:06:29: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:06:30: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:06:30: Sending SendChatPacket:{"Type":204,"Message":"you gotta trust me on this"}
+2020.06.29 17:06:30: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:06:30: Received ChatMessageReceive packet:{"Type":205,"Message":"you gotta trust me on this","Slot":3}
+2020.06.29 17:06:31: Received ServerInfo packet:{"Type":2,"PlayersOnline":76,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:06:32: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:06:32: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:06:33: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":true}
+2020.06.29 17:06:33: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:06:33: Received ChatMessageReceive packet:{"Type":205,"Message":"well it doesnt  matter because its 3 man","Slot":2}
+2020.06.29 17:06:34: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:06:34: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":false}
+2020.06.29 17:06:34: Received ChatMessageReceive packet:{"Type":205,"Message":"why","Slot":4}
+2020.06.29 17:06:34: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:06:35: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:06:35: Sending SendChatPacket:{"Type":204,"Message":"sources: dude turst me"}
+2020.06.29 17:06:35: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:06:35: Received ChatMessageReceive packet:{"Type":205,"Message":"sources: dude turst me","Slot":3}
+2020.06.29 17:06:35: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:06:35: Received ChatMessageReceive packet:{"Type":205,"Message":"so stf","Slot":2}
+2020.06.29 17:06:36: Received ServerInfo packet:{"Type":2,"PlayersOnline":76,"PlayersPlaying":45,"PublicCustomGames":4,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:06:36: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:06:37: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:06:37: Received ChatMessageReceive packet:{"Type":205,"Message":"stfu","Slot":2}
+2020.06.29 17:06:37: Received TalkPhaseEnd packet:{"Type":302}
+2020.06.29 17:06:37: Received SelectPhaseStart packet:{"Type":303,"Player":3,"NextPlayer":4,"Amount":3,"Duration":60000,"Mission":4}
+2020.06.29 17:06:37: PlayState: Entering SelectPhase
+2020.06.29 17:06:37: SelectPhase: 3 3
+2020.06.29 17:06:38: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:06:38: Sending Packet:{"Type":-1}
+2020.06.29 17:06:39: Sending UpdateSelectPacket:{"Type":305,"Slots":[2],"Submit":false,"Pass":false}
+2020.06.29 17:06:39: Sending UpdateSelectPacket:{"Type":305,"Slots":[2,1],"Submit":false,"Pass":false}
+2020.06.29 17:06:39: Received SelectUpdate packet:{"Type":305,"Slots":[2],"Submit":false,"Pass":false}
+2020.06.29 17:06:39: Received SelectUpdate packet:{"Type":305,"Slots":[1,2],"Submit":false,"Pass":false}
+2020.06.29 17:06:40: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":true}
+2020.06.29 17:06:40: Sending UpdateSelectPacket:{"Type":305,"Slots":[2,1,3],"Submit":false,"Pass":false}
+2020.06.29 17:06:40: Received SelectUpdate packet:{"Type":305,"Slots":[1,2,3],"Submit":false,"Pass":false}
+2020.06.29 17:06:41: Sending UpdateSelectPacket:{"Type":305,"Slots":[2,1,3],"Submit":true,"Pass":false}
+2020.06.29 17:06:41: Received ServerInfo packet:{"Type":2,"PlayersOnline":76,"PlayersPlaying":45,"PublicCustomGames":4,"PlayersSearching":4,"MaintenanceIn":-1}
+2020.06.29 17:06:41: Received SelectPhaseEnd packet:{"Type":304,"Proposer":3,"SelectedTeam":[1,2,3],"Passed":false}
+2020.06.29 17:06:41: Received VotePhaseStart packet:{"Type":306,"Proposer":3,"Players":[1,2,3],"Duration":60000}
+2020.06.29 17:06:41: PlayState: Entering VotePhase
+2020.06.29 17:06:41: Sending VotePacket:{"Type":308,"Action":1}
+2020.06.29 17:06:41: Received VoteMade packet:{"Type":309,"Slot":3}
+2020.06.29 17:06:42: Received VoteMade packet:{"Type":309,"Slot":2}
+2020.06.29 17:06:42: Received IdleStatusUpdate packet:{"Type":403,"Idle":false,"Player":1}
+2020.06.29 17:06:42: Received VoteMade packet:{"Type":309,"Slot":1}
+2020.06.29 17:06:43: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:06:43: Received VoteMade packet:{"Type":309,"Slot":0}
+2020.06.29 17:06:43: Received VoteMade packet:{"Type":309,"Slot":5}
+2020.06.29 17:06:44: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":false}
+2020.06.29 17:06:44: Received ChatMessageReceive packet:{"Type":205,"Message":"cant argue w that","Slot":4}
+2020.06.29 17:06:46: Received ServerInfo packet:{"Type":2,"PlayersOnline":76,"PlayersPlaying":45,"PublicCustomGames":4,"PlayersSearching":6,"MaintenanceIn":-1}
+2020.06.29 17:06:46: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:06:46: Received ChatMessageReceive packet:{"Type":205,"Message":"just pass lol, we're not acc you","Slot":2}
+2020.06.29 17:06:48: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:06:48: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:06:48: Sending Packet:{"Type":-1}
+2020.06.29 17:06:50: Received VoteMade packet:{"Type":309,"Slot":1}
+2020.06.29 17:06:51: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:06:51: Received ChatMessageReceive packet:{"Type":205,"Message":"we're doing n2 again","Slot":2}
+2020.06.29 17:06:51: Received ServerInfo packet:{"Type":2,"PlayersOnline":76,"PlayersPlaying":45,"PublicCustomGames":4,"PlayersSearching":5,"MaintenanceIn":-1}
+2020.06.29 17:06:56: Received ServerInfo packet:{"Type":2,"PlayersOnline":76,"PlayersPlaying":45,"PublicCustomGames":4,"PlayersSearching":5,"MaintenanceIn":-1}
+2020.06.29 17:06:58: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":true}
+2020.06.29 17:06:58: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:06:58: Sending Packet:{"Type":-1}
+2020.06.29 17:07:01: Received ServerInfo packet:{"Type":2,"PlayersOnline":76,"PlayersPlaying":45,"PublicCustomGames":5,"PlayersSearching":5,"MaintenanceIn":-1}
+2020.06.29 17:07:02: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:07:06: Received ServerInfo packet:{"Type":2,"PlayersOnline":77,"PlayersPlaying":43,"PublicCustomGames":4,"PlayersSearching":5,"MaintenanceIn":-1}
+2020.06.29 17:07:06: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":false}
+2020.06.29 17:07:06: Received ChatMessageReceive packet:{"Type":205,"Message":"maaybe its joel tho","Slot":4}
+2020.06.29 17:07:08: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:07:08: Sending Packet:{"Type":-1}
+2020.06.29 17:07:08: Received VoteMade packet:{"Type":309,"Slot":4}
+2020.06.29 17:07:08: Received VotePhaseEnd packet:{"Type":307,"VotesFor":[3,5],"VotesAgainst":[2,0,1,4],"Passed":false}
+2020.06.29 17:07:10: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:07:11: Received ServerInfo packet:{"Type":2,"PlayersOnline":77,"PlayersPlaying":43,"PublicCustomGames":4,"PlayersSearching":5,"MaintenanceIn":-1}
+2020.06.29 17:07:11: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:07:11: Received ChatMessageReceive packet:{"Type":205,"Message":"omg","Slot":2}
+2020.06.29 17:07:11: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:07:11: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:07:11: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:07:12: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:07:12: Sending SendChatPacket:{"Type":204,"Message":"????"}
+2020.06.29 17:07:12: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:07:12: Received ChatMessageReceive packet:{"Type":205,"Message":"????","Slot":3}
+2020.06.29 17:07:13: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:07:13: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:07:13: Received SelectPhaseStart packet:{"Type":303,"Player":4,"NextPlayer":5,"Amount":3,"Duration":60000,"Mission":4}
+2020.06.29 17:07:13: PlayState: Entering SelectPhase
+2020.06.29 17:07:13: SelectPhase: 4 3
+2020.06.29 17:07:14: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:07:14: Received ChatMessageReceive packet:{"Type":205,"Message":"it doesnt matter","Slot":2}
+2020.06.29 17:07:16: Received ServerInfo packet:{"Type":2,"PlayersOnline":77,"PlayersPlaying":43,"PublicCustomGames":4,"PlayersSearching":0,"MaintenanceIn":-1}
+2020.06.29 17:07:16: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:07:18: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:07:18: Sending Packet:{"Type":-1}
+2020.06.29 17:07:18: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:07:18: Received ChatMessageReceive packet:{"Type":205,"Message":"do n2 again","Slot":2}
+2020.06.29 17:07:19: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:07:19: Received SelectUpdate packet:{"Type":305,"Slots":[4],"Submit":false,"Pass":false}
+2020.06.29 17:07:20: Received SelectUpdate packet:{"Type":305,"Slots":[4,5],"Submit":false,"Pass":false}
+2020.06.29 17:07:20: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:07:20: Received ChatMessageReceive packet:{"Type":205,"Message":"are  you dumb","Slot":2}
+2020.06.29 17:07:21: Received SelectUpdate packet:{"Type":305,"Slots":[2,4,5],"Submit":false,"Pass":false}
+2020.06.29 17:07:21: Received ServerInfo packet:{"Type":2,"PlayersOnline":77,"PlayersPlaying":42,"PublicCustomGames":4,"PlayersSearching":0,"MaintenanceIn":-1}
+2020.06.29 17:07:21: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:07:21: Sending SendChatPacket:{"Type":204,"Message":"fine ill put braetonix cameron mook"}
+2020.06.29 17:07:21: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:07:21: Received ChatMessageReceive packet:{"Type":205,"Message":"fine ill put braetonix cameron mook","Slot":3}
+2020.06.29 17:07:23: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:07:23: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:07:26: Received ServerInfo packet:{"Type":2,"PlayersOnline":77,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":0,"MaintenanceIn":-1}
+2020.06.29 17:07:26: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:07:26: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:07:27: Received SelectPhaseEnd packet:{"Type":304,"Proposer":4,"SelectedTeam":[2,4,5],"Passed":false}
+2020.06.29 17:07:27: Received VotePhaseStart packet:{"Type":306,"Proposer":4,"Players":[2,4,5],"Duration":60000}
+2020.06.29 17:07:27: PlayState: Entering VotePhase
+2020.06.29 17:07:28: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:07:28: Sending Packet:{"Type":-1}
+2020.06.29 17:07:28: Sending VotePacket:{"Type":308,"Action":2}
+2020.06.29 17:07:28: Received VoteMade packet:{"Type":309,"Slot":3}
+2020.06.29 17:07:28: Received VoteMade packet:{"Type":309,"Slot":2}
+2020.06.29 17:07:29: Received VoteMade packet:{"Type":309,"Slot":5}
+2020.06.29 17:07:29: Received VoteMade packet:{"Type":309,"Slot":0}
+2020.06.29 17:07:30: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:07:30: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:07:30: Received VoteMade packet:{"Type":309,"Slot":4}
+2020.06.29 17:07:31: Received ServerInfo packet:{"Type":2,"PlayersOnline":77,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":0,"MaintenanceIn":-1}
+2020.06.29 17:07:33: Received VoteMade packet:{"Type":309,"Slot":0}
+2020.06.29 17:07:33: Received VoteMade packet:{"Type":309,"Slot":1}
+2020.06.29 17:07:33: Received VotePhaseEnd packet:{"Type":307,"VotesFor":[5,4,0],"VotesAgainst":[3,2,1],"Passed":false}
+2020.06.29 17:07:36: Received ServerInfo packet:{"Type":2,"PlayersOnline":77,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":1,"MaintenanceIn":-1}
+2020.06.29 17:07:38: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:07:38: Sending Packet:{"Type":-1}
+2020.06.29 17:07:38: Received SelectPhaseStart packet:{"Type":303,"Player":5,"NextPlayer":0,"Amount":3,"Duration":60000,"Mission":4}
+2020.06.29 17:07:38: PlayState: Entering SelectPhase
+2020.06.29 17:07:38: SelectPhase: 5 3
+2020.06.29 17:07:41: Received SelectUpdate packet:{"Type":305,"Slots":[5],"Submit":false,"Pass":false}
+2020.06.29 17:07:41: Received ServerInfo packet:{"Type":2,"PlayersOnline":77,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:07:43: Received SelectUpdate packet:{"Type":305,"Slots":[3,5],"Submit":false,"Pass":false}
+2020.06.29 17:07:44: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:07:44: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:07:44: Received SelectUpdate packet:{"Type":305,"Slots":[3,4,5],"Submit":false,"Pass":false}
+2020.06.29 17:07:44: Received ReceiveGlobalChatMessage packet:{"Type":902,"Message":{"Message":"pig","SteamId":"76561198374543057","Username":"Liv","Roles":[0],"Timestamp":1593450452}}
+2020.06.29 17:07:45: Received SelectPhaseEnd packet:{"Type":304,"Proposer":5,"SelectedTeam":[3,4,5],"Passed":false}
+2020.06.29 17:07:45: Received VotePhaseStart packet:{"Type":306,"Proposer":5,"Players":[3,4,5],"Duration":60000}
+2020.06.29 17:07:45: PlayState: Entering VotePhase
+2020.06.29 17:07:46: Received ServerInfo packet:{"Type":2,"PlayersOnline":78,"PlayersPlaying":46,"PublicCustomGames":5,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:07:46: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:07:47: Sending VotePacket:{"Type":308,"Action":2}
+2020.06.29 17:07:47: Received VoteMade packet:{"Type":309,"Slot":3}
+2020.06.29 17:07:47: Received VoteMade packet:{"Type":309,"Slot":0}
+2020.06.29 17:07:48: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:07:48: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:07:48: Sending Packet:{"Type":-1}
+2020.06.29 17:07:48: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:07:48: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:07:48: Received ChatMessageReceive packet:{"Type":205,"Message":"mook what the *%©°","Slot":2}
+2020.06.29 17:07:48: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:07:48: Sending SendChatPacket:{"Type":204,"Message":"no"}
+2020.06.29 17:07:48: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:07:49: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:07:49: Received ChatMessageReceive packet:{"Type":205,"Message":"no","Slot":3}
+2020.06.29 17:07:49: Received VoteMade packet:{"Type":309,"Slot":5}
+2020.06.29 17:07:49: Received VoteMade packet:{"Type":309,"Slot":4}
+2020.06.29 17:07:50: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:07:50: Received ChatMessageReceive packet:{"Type":205,"Message":"are you high","Slot":2}
+2020.06.29 17:07:50: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:07:50: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:07:51: Received ServerInfo packet:{"Type":2,"PlayersOnline":78,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:07:51: Received VoteMade packet:{"Type":309,"Slot":4}
+2020.06.29 17:07:51: Received VoteMade packet:{"Type":309,"Slot":1}
+2020.06.29 17:07:51: Received VoteMade packet:{"Type":309,"Slot":2}
+2020.06.29 17:07:51: Received VotePhaseEnd packet:{"Type":307,"VotesFor":[0,5],"VotesAgainst":[3,4,1,2],"Passed":false}
+2020.06.29 17:07:54: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:07:54: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:07:56: Received ServerInfo packet:{"Type":2,"PlayersOnline":77,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:07:56: Received SelectPhaseStart packet:{"Type":303,"Player":0,"NextPlayer":1,"Amount":3,"Duration":60000,"Mission":4}
+2020.06.29 17:07:56: PlayState: Entering SelectPhase
+2020.06.29 17:07:56: SelectPhase: 0 3
+2020.06.29 17:07:57: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:07:57: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:07:58: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:07:58: Sending Packet:{"Type":-1}
+2020.06.29 17:07:58: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:07:58: Sending SendChatPacket:{"Type":204,"Message":"ofc shirley"}
+2020.06.29 17:07:58: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:07:58: Received ChatMessageReceive packet:{"Type":205,"Message":"ofc shirley","Slot":3}
+2020.06.29 17:07:58: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:07:59: Received SelectUpdate packet:{"Type":305,"Slots":[0],"Submit":false,"Pass":false}
+2020.06.29 17:08:01: Received ServerInfo packet:{"Type":2,"PlayersOnline":76,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:08:01: Received SelectUpdate packet:{"Type":305,"Slots":[0,1],"Submit":false,"Pass":false}
+2020.06.29 17:08:01: Received SelectUpdate packet:{"Type":305,"Slots":[0,1,2],"Submit":false,"Pass":false}
+2020.06.29 17:08:02: Received SelectPhaseEnd packet:{"Type":304,"Proposer":0,"SelectedTeam":[0,1,2],"Passed":false}
+2020.06.29 17:08:02: Received VotePhaseStart packet:{"Type":306,"Proposer":0,"Players":[0,1,2],"Duration":60000}
+2020.06.29 17:08:02: PlayState: Entering VotePhase
+2020.06.29 17:08:03: Sending VotePacket:{"Type":308,"Action":2}
+2020.06.29 17:08:03: Received VoteMade packet:{"Type":309,"Slot":3}
+2020.06.29 17:08:04: Received VoteMade packet:{"Type":309,"Slot":0}
+2020.06.29 17:08:04: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:08:05: Received VoteMade packet:{"Type":309,"Slot":2}
+2020.06.29 17:08:05: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:08:06: Received ServerInfo packet:{"Type":2,"PlayersOnline":76,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:08:07: Received VoteMade packet:{"Type":309,"Slot":4}
+2020.06.29 17:08:08: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:08:08: Sending Packet:{"Type":-1}
+2020.06.29 17:08:08: Received VoteMade packet:{"Type":309,"Slot":5}
+2020.06.29 17:08:09: Received VoteMade packet:{"Type":309,"Slot":1}
+2020.06.29 17:08:09: Received VotePhaseEnd packet:{"Type":307,"VotesFor":[0,4,5,1],"VotesAgainst":[3,2],"Passed":true}
+2020.06.29 17:08:11: Received ServerInfo packet:{"Type":2,"PlayersOnline":75,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:08:12: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:08:13: Received ChatMessageReceive packet:{"Type":205,"Message":"what the &$*©","Slot":2}
+2020.06.29 17:08:13: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:08:13: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:08:14: Received ChatMessageReceive packet:{"Type":205,"Message":"how","Slot":2}
+2020.06.29 17:08:14: Received MissionPhaseStart packet:{"Type":310,"Mission":4,"Players":[0,1,2],"Duration":15000}
+2020.06.29 17:08:14: PlayState: Entering MissionPhase
+2020.06.29 17:08:14: Set Mission Players: <color=#FFEC16><noparse>Shirley</noparse></color>, <color=#0041F6><noparse>Braetonix</noparse></color>, <color=#00B48B><noparse>Cameron</noparse></color>
+2020.06.29 17:08:14: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:08:15: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:08:15: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:08:16: Received ServerInfo packet:{"Type":2,"PlayersOnline":76,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:08:17: Received MissionPhaseEnd packet:{"Type":311,"Mission":4,"Failed":true,"NumHacks":1,"Proposer":0}
+2020.06.29 17:08:18: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:08:18: Sending Packet:{"Type":-1}
+2020.06.29 17:08:20: Set Mission Players: <color=#FFEC16><noparse>Shirley</noparse></color>, <color=#0041F6><noparse>Braetonix</noparse></color>, <color=#00B48B><noparse>Cameron</noparse></color>
+2020.06.29 17:08:21: Received ServerInfo packet:{"Type":2,"PlayersOnline":76,"PlayersPlaying":46,"PublicCustomGames":4,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:08:22: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:08:25: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:08:25: Received ChatMessageReceive packet:{"Type":205,"Message":"are you retarded mook","Slot":2}
+2020.06.29 17:08:25: Received TalkPhaseStart packet:{"Type":301,"Duration":90000}
+2020.06.29 17:08:25: PlayState: Entering TalkingPhase
+2020.06.29 17:08:26: Received ServerInfo packet:{"Type":2,"PlayersOnline":76,"PlayersPlaying":46,"PublicCustomGames":5,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:08:28: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:08:28: Sending Packet:{"Type":-1}
+2020.06.29 17:08:29: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":true}
+2020.06.29 17:08:31: Received ServerInfo packet:{"Type":2,"PlayersOnline":76,"PlayersPlaying":50,"PublicCustomGames":5,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:08:32: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:08:35: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":false}
+2020.06.29 17:08:36: Received ServerInfo packet:{"Type":2,"PlayersOnline":76,"PlayersPlaying":49,"PublicCustomGames":5,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:08:36: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:08:37: Received ChatMessageReceive packet:{"Type":205,"Message":"why the @#&° acc","Slot":2}
+2020.06.29 17:08:37: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":true}
+2020.06.29 17:08:38: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:08:38: Sending Packet:{"Type":-1}
+2020.06.29 17:08:41: Received ServerInfo packet:{"Type":2,"PlayersOnline":75,"PlayersPlaying":49,"PublicCustomGames":5,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:08:45: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":false}
+2020.06.29 17:08:46: Received ChatMessageReceive packet:{"Type":205,"Message":"it could be braetonix tho","Slot":4}
+2020.06.29 17:08:46: Received ServerInfo packet:{"Type":2,"PlayersOnline":75,"PlayersPlaying":47,"PublicCustomGames":5,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:08:48: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:08:48: Sending Packet:{"Type":-1}
+2020.06.29 17:08:48: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":true}
+2020.06.29 17:08:48: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:08:49: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:08:49: Received ChatMessageReceive packet:{"Type":205,"Message":"omg","Slot":2}
+2020.06.29 17:08:50: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:08:51: Received ServerInfo packet:{"Type":2,"PlayersOnline":75,"PlayersPlaying":46,"PublicCustomGames":5,"PlayersSearching":4,"MaintenanceIn":-1}
+2020.06.29 17:08:52: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:08:52: Received ChatMessageReceive packet:{"Type":205,"Message":"n2 was sec","Slot":2}
+2020.06.29 17:08:53: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:08:56: Received ServerInfo packet:{"Type":2,"PlayersOnline":74,"PlayersPlaying":46,"PublicCustomGames":5,"PlayersSearching":3,"MaintenanceIn":-1}
+2020.06.29 17:08:58: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:08:58: Sending Packet:{"Type":-1}
+2020.06.29 17:08:58: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":false}
+2020.06.29 17:08:58: Received ChatMessageReceive packet:{"Type":205,"Message":"shirley and braetonix have always been together","Slot":4}
+2020.06.29 17:09:01: Received ServerInfo packet:{"Type":2,"PlayersOnline":74,"PlayersPlaying":46,"PublicCustomGames":5,"PlayersSearching":4,"MaintenanceIn":-1}
+2020.06.29 17:09:01: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:09:01: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:09:03: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:09:03: Sending SendChatPacket:{"Type":204,"Message":"its shirley"}
+2020.06.29 17:09:03: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:09:03: Received ChatMessageReceive packet:{"Type":205,"Message":"its shirley","Slot":3}
+2020.06.29 17:09:04: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:09:04: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:09:06: Received ServerInfo packet:{"Type":2,"PlayersOnline":74,"PlayersPlaying":46,"PublicCustomGames":5,"PlayersSearching":4,"MaintenanceIn":-1}
+2020.06.29 17:09:08: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:09:08: Sending Packet:{"Type":-1}
+2020.06.29 17:09:08: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:09:08: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":true}
+2020.06.29 17:09:08: Received ChatMessageReceive packet:{"Type":205,"Message":"i swear to god, if we n2 people gets hacked, mook its your fault we lose the game","Slot":2}
+2020.06.29 17:09:08: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:09:08: Sending SendChatPacket:{"Type":204,"Message":"and you taken sus off you gabby"}
+2020.06.29 17:09:08: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:09:09: Received ChatMessageReceive packet:{"Type":205,"Message":"and you taken sus off you gabby","Slot":3}
+2020.06.29 17:09:11: Received ServerInfo packet:{"Type":2,"PlayersOnline":74,"PlayersPlaying":46,"PublicCustomGames":5,"PlayersSearching":1,"MaintenanceIn":-1}
+2020.06.29 17:09:13: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":false}
+2020.06.29 17:09:14: Received ChatMessageReceive packet:{"Type":205,"Message":"but it is brob shirley","Slot":4}
+2020.06.29 17:09:16: Received ServerInfo packet:{"Type":2,"PlayersOnline":74,"PlayersPlaying":46,"PublicCustomGames":5,"PlayersSearching":1,"MaintenanceIn":-1}
+2020.06.29 17:09:18: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:09:18: Sending Packet:{"Type":-1}
+2020.06.29 17:09:18: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:09:18: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:09:20: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:09:20: Sending SendChatPacket:{"Type":204,"Message":"what does n2 mean"}
+2020.06.29 17:09:20: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:09:21: Received ChatMessageReceive packet:{"Type":205,"Message":"what does n2 mean","Slot":3}
+2020.06.29 17:09:21: Received ServerInfo packet:{"Type":2,"PlayersOnline":74,"PlayersPlaying":46,"PublicCustomGames":5,"PlayersSearching":6,"MaintenanceIn":-1}
+2020.06.29 17:09:23: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":true}
+2020.06.29 17:09:23: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:09:24: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:09:24: Received ChatMessageReceive packet:{"Type":205,"Message":"node 2","Slot":2}
+2020.06.29 17:09:25: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:09:26: Received ServerInfo packet:{"Type":2,"PlayersOnline":75,"PlayersPlaying":46,"PublicCustomGames":5,"PlayersSearching":6,"MaintenanceIn":-1}
+2020.06.29 17:09:28: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:09:28: Sending Packet:{"Type":-1}
+2020.06.29 17:09:28: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":false}
+2020.06.29 17:09:28: Received ChatMessageReceive packet:{"Type":205,"Message":"node 2","Slot":0}
+2020.06.29 17:09:28: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:09:28: Received ChatMessageReceive packet:{"Type":205,"Message":"we're propping the people in node 2","Slot":2}
+2020.06.29 17:09:29: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":true}
+2020.06.29 17:09:29: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":false}
+2020.06.29 17:09:29: Received ChatMessageReceive packet:{"Type":205,"Message":"node 2","Slot":0}
+2020.06.29 17:09:31: Received ServerInfo packet:{"Type":2,"PlayersOnline":75,"PlayersPlaying":46,"PublicCustomGames":5,"PlayersSearching":7,"MaintenanceIn":-1}
+2020.06.29 17:09:31: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":false}
+2020.06.29 17:09:32: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":false}
+2020.06.29 17:09:33: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:09:34: Received ChatUpdate packet:{"Type":405,"Slot":1,"Typing":false}
+2020.06.29 17:09:36: Received ServerInfo packet:{"Type":2,"PlayersOnline":75,"PlayersPlaying":46,"PublicCustomGames":5,"PlayersSearching":6,"MaintenanceIn":-1}
+2020.06.29 17:09:36: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:09:36: Received ChatMessageReceive packet:{"Type":205,"Message":"cameron braetonix mook","Slot":2}
+2020.06.29 17:09:38: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:09:38: Sending Packet:{"Type":-1}
+2020.06.29 17:09:40: Received IdleStatusUpdate packet:{"Type":403,"Idle":true,"Player":5}
+2020.06.29 17:09:41: Received ServerInfo packet:{"Type":2,"PlayersOnline":74,"PlayersPlaying":45,"PublicCustomGames":5,"PlayersSearching":6,"MaintenanceIn":-1}
+2020.06.29 17:09:41: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":true}
+2020.06.29 17:09:42: Received IdleStatusUpdate packet:{"Type":403,"Idle":false,"Player":5}
+2020.06.29 17:09:42: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:09:42: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:09:46: Received ServerInfo packet:{"Type":2,"PlayersOnline":74,"PlayersPlaying":51,"PublicCustomGames":5,"PlayersSearching":6,"MaintenanceIn":-1}
+2020.06.29 17:09:46: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":false}
+2020.06.29 17:09:46: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:09:46: Sending SendChatPacket:{"Type":204,"Message":"i dont like mook but ill yes"}
+2020.06.29 17:09:46: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:09:46: Received ChatMessageReceive packet:{"Type":205,"Message":"i dont like mook but ill yes","Slot":3}
+2020.06.29 17:09:47: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:09:47: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:09:47: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:09:48: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:09:48: Sending Packet:{"Type":-1}
+2020.06.29 17:09:48: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:09:48: Received ChatMessageReceive packet:{"Type":205,"Message":"please pass","Slot":2}
+2020.06.29 17:09:49: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:09:49: Sending SendChatPacket:{"Type":204,"Message":"cauise not gabby and shirley"}
+2020.06.29 17:09:49: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:09:49: Received ChatMessageReceive packet:{"Type":205,"Message":"cauise not gabby and shirley","Slot":3}
+2020.06.29 17:09:51: Received ServerInfo packet:{"Type":2,"PlayersOnline":75,"PlayersPlaying":51,"PublicCustomGames":5,"PlayersSearching":0,"MaintenanceIn":-1}
+2020.06.29 17:09:55: Received TalkPhaseEnd packet:{"Type":302}
+2020.06.29 17:09:55: Received SelectPhaseStart packet:{"Type":303,"Player":1,"NextPlayer":2,"Amount":4,"Duration":60000,"Mission":5}
+2020.06.29 17:09:55: PlayState: Entering SelectPhase
+2020.06.29 17:09:55: SelectPhase: 1 4
+2020.06.29 17:09:56: Received ServerInfo packet:{"Type":2,"PlayersOnline":75,"PlayersPlaying":51,"PublicCustomGames":5,"PlayersSearching":0,"MaintenanceIn":-1}
+2020.06.29 17:09:56: Received SelectUpdate packet:{"Type":305,"Slots":[1],"Submit":false,"Pass":false}
+2020.06.29 17:09:57: Received SelectUpdate packet:{"Type":305,"Slots":[1,2],"Submit":false,"Pass":false}
+2020.06.29 17:09:58: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:09:58: Sending Packet:{"Type":-1}
+2020.06.29 17:10:01: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:10:01: Received ServerInfo packet:{"Type":2,"PlayersOnline":75,"PlayersPlaying":51,"PublicCustomGames":5,"PlayersSearching":6,"MaintenanceIn":-1}
+2020.06.29 17:10:03: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:10:03: Received ChatMessageReceive packet:{"Type":205,"Message":"put mook in","Slot":2}
+2020.06.29 17:10:04: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:10:05: Received SelectUpdate packet:{"Type":305,"Slots":[1,2,5],"Submit":false,"Pass":false}
+2020.06.29 17:10:05: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:10:05: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:10:06: Received ServerInfo packet:{"Type":2,"PlayersOnline":74,"PlayersPlaying":51,"PublicCustomGames":5,"PlayersSearching":4,"MaintenanceIn":-1}
+2020.06.29 17:10:06: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:10:06: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:10:06: Sending SendChatPacket:{"Type":204,"Message":"mook and me"}
+2020.06.29 17:10:06: Received ChatMessageReceive packet:{"Type":205,"Message":"jesus chrsit","Slot":2}
+2020.06.29 17:10:06: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:10:06: Received ChatMessageReceive packet:{"Type":205,"Message":"mook and me","Slot":3}
+2020.06.29 17:10:07: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":true}
+2020.06.29 17:10:08: Received SelectUpdate packet:{"Type":305,"Slots":[1,2,3,5],"Submit":false,"Pass":false}
+2020.06.29 17:10:08: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:10:08: Sending Packet:{"Type":-1}
+2020.06.29 17:10:09: Received SelectPhaseEnd packet:{"Type":304,"Proposer":1,"SelectedTeam":[1,2,3,5],"Passed":false}
+2020.06.29 17:10:09: Received VotePhaseStart packet:{"Type":306,"Proposer":1,"Players":[1,2,3,5],"Duration":60000}
+2020.06.29 17:10:09: PlayState: Entering VotePhase
+2020.06.29 17:10:09: Sending VotePacket:{"Type":308,"Action":1}
+2020.06.29 17:10:09: Received VoteMade packet:{"Type":309,"Slot":3}
+2020.06.29 17:10:10: Received VoteMade packet:{"Type":309,"Slot":0}
+2020.06.29 17:10:10: Received VoteMade packet:{"Type":309,"Slot":1}
+2020.06.29 17:10:10: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:10:11: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:10:11: Received ServerInfo packet:{"Type":2,"PlayersOnline":75,"PlayersPlaying":51,"PublicCustomGames":4,"PlayersSearching":4,"MaintenanceIn":-1}
+2020.06.29 17:10:11: Received VoteMade packet:{"Type":309,"Slot":4}
+2020.06.29 17:10:12: Received ChatUpdate packet:{"Type":405,"Slot":2,"Typing":false}
+2020.06.29 17:10:12: Received ChatMessageReceive packet:{"Type":205,"Message":"mook youre literally thowing if we lose this","Slot":2}
+2020.06.29 17:10:14: Received VoteMade packet:{"Type":309,"Slot":2}
+2020.06.29 17:10:15: Received VoteMade packet:{"Type":309,"Slot":5}
+2020.06.29 17:10:15: Received VotePhaseEnd packet:{"Type":307,"VotesFor":[3,1,2,5],"VotesAgainst":[0,4],"Passed":true}
+2020.06.29 17:10:15: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:10:15: Sending SendChatPacket:{"Type":204,"Message":"shirley and gabby will not reject"}
+2020.06.29 17:10:15: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:10:16: Received ChatMessageReceive packet:{"Type":205,"Message":"shirley and gabby will not reject","Slot":3}
+2020.06.29 17:10:16: Received ServerInfo packet:{"Type":2,"PlayersOnline":75,"PlayersPlaying":51,"PublicCustomGames":4,"PlayersSearching":7,"MaintenanceIn":-1}
+2020.06.29 17:10:17: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:10:17: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:10:17: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":true}
+2020.06.29 17:10:18: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:10:18: Sending SendChatPacket:{"Type":204,"Message":"YUP"}
+2020.06.29 17:10:18: Received KeepAlive packet:{"Type":-1}
+2020.06.29 17:10:18: Sending Packet:{"Type":-1}
+2020.06.29 17:10:18: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:10:18: Received ChatMessageReceive packet:{"Type":205,"Message":"YUP","Slot":3}
+2020.06.29 17:10:19: Sending SendTypingPacket:{"Type":404,"Typing":true}
+2020.06.29 17:10:19: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":true}
+2020.06.29 17:10:19: Sending SendTypingPacket:{"Type":404,"Typing":false}
+2020.06.29 17:10:19: Sending SendChatPacket:{"Type":204,"Message":"gg"}
+2020.06.29 17:10:19: Received ChatUpdate packet:{"Type":405,"Slot":3,"Typing":false}
+2020.06.29 17:10:19: Received ChatMessageReceive packet:{"Type":205,"Message":"gg","Slot":3}
+2020.06.29 17:10:19: Received ChatUpdate packet:{"Type":405,"Slot":0,"Typing":false}
+2020.06.29 17:10:19: Received ChatMessageReceive packet:{"Type":205,"Message":"oof","Slot":0}
+2020.06.29 17:10:20: Received MissionPhaseStart packet:{"Type":310,"Mission":5,"Players":[1,2,3,5],"Duration":15000}
+2020.06.29 17:10:20: PlayState: Entering MissionPhase
+2020.06.29 17:10:20: Set Mission Players: <color=#0041F6><noparse>Braetonix</noparse></color>, <color=#00B48B><noparse>Cameron</noparse></color>, <color=#FF8113><noparse>Joel</noparse></color>, <color=#00A6F6><noparse>Mook</noparse></color>
+2020.06.29 17:10:20: Received ChatUpdate packet:{"Type":405,"Slot":4,"Typing":true}
+2020.06.29 17:10:20: Received ChatMessageReceive packet:{"Type":205,"Message":"f","Slot":4}
+2020.06.29 17:10:21: Received ServerInfo packet:{"Type":2,"PlayersOnline":75,"PlayersPlaying":51,"PublicCustomGames":4,"PlayersSearching":8,"MaintenanceIn":-1}
+2020.06.29 17:10:22: Sending MissionActionPacket:{"Type":312,"MissionAction":1}
+2020.06.29 17:10:24: Received MissionPhaseEnd packet:{"Type":311,"Mission":5,"Failed":false,"NumHacks":0,"Proposer":1}
+2020.06.29 17:10:24: Received GameEnd packet:{"Type":203,"Hacked":false,"Hackers":[0,4],"Canceled":false,"Roles":[{"Slot":0,"Role":20},{"Slot":1,"Role":10},{"Slot":2,"Role":10},{"Slot":3,"Role":10},{"Slot":4,"Role":20},{"Slot":5,"Role":10}],"Timeout":360000,"PlayerIdentities":[{"Slot":0,"Nickname":"|YELLOW| mustard","Steamid":"76561198182094209","Level":15},{"Slot":1,"Nickname":"BBYapple","Steamid":"76561198931031659","Level":3},{"Slot":2,"Nickname":"ash","Steamid":"76561198263838567","Level":29},{"Slot":3,"Nickname":"TerryWilliams1976@aol.com","Steamid":"76561198385527366","Level":1},{"Slot":4,"Nickname":"99cows99","Steamid":"76561198243623148","Level":2},{"Slot":5,"Nickname":"djmudkip13","Steamid":"76561198360195268","Level":1}],"AfterGameLobby":"no-lobby"}
