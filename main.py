@@ -4,18 +4,42 @@
 # Developed by Ashiix and etfriedman
 # Original concept by Nik-Novak and Ashiix
 
+import os
 from src.model import Model
+from src.data import Data
+from src.collect_data import collect
 
 def main():
-    model = Model()
-    # model.parse()
-    # model.add_labels()
-    # model.export('src/games/e_game5.txt')
-    model.data_format()
-    model.temp()
-    model.log_regression()
-    model.predict()
 
+    should_parse = input("Parse data?\n[ y / n]\n> ")
+    if should_parse == 'y':
+        data(should_parse)
+    else:
+        model = Model()
+        model.data_format()
+        model.log_regression()
+        model.predict()
+
+
+def data(should_parse):
+    num_games = 1
+    if should_parse == 'y':
+        data = Data()
+        #num_games = int(input("How many games we parsin?\n> "))
+        while True:
+            if not os.path.isfile('src/games/e_game{}.txt'.format(num_games)):
+                break
+            num_games += 1
+        def getfilenum(num_games):
+            for i in range(num_games):
+                log_path = data.filepath(i)
+                data.parse(log_path)
+                data.add_labels()
+                data.export('src/games/e_game{}.txt'.format(i))
+        getfilenum(num_games)
+        collect(num_games)
+    else:
+        pass
 
 if __name__ == "__main__":
     main()

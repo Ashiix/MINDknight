@@ -34,14 +34,15 @@ class Data:
         # if not pathlib.Path(self.log_path).exists():
         #     sys.exit("The file can't be found in the given log path. This is most likely because you entered your home dir incorrectly.")
 
-
-        self.log_path = 'src/games/game5.txt'
         # Declare packet list
         self.packets = [] # empty list to append packets to
 
+    def filepath(self, game_number):
+        log_path = 'src/games/game{}.txt'.format(game_number+1)
+        return log_path
     # Read log in realtime (WIP)
-    def parse(self):
-        with open(self.log_path, 'r') as log: # Open player.log as log
+    def parse(self,log_path):
+        with open(log_path, 'r') as log: # Open player.log as log
             for line in enumerate(log):
                 line = line[1].split(" ",4)
                 try:
@@ -107,12 +108,25 @@ class Data:
             else:
                 new_dict['VotesAgainst4'] = 0
 
+
+
             new_dict["Hackers"] = [0,0,0,0,0]
             for hacker in hackers: # setup a new list for hackers, instead of listing who the hackers are, put in a list and change the value to 1 if they are a hacker (needed for logreg later on)
                 if hacker == 0:
                     new_dict["Hackers"][0] = 1
                 else:
                     new_dict["Hackers"][hacker] = 1
+
+            if new_dict['VotesFor0'] == 0 and new_dict['VotesFor1'] == 0 and new_dict['VotesFor2'] == 0 and new_dict['VotesFor3'] == 0 and new_dict['VotesFor4'] == 0:
+                for i in range(5):
+                    new_dict.pop("VotesFor{}".format(i))
+                    new_dict.pop("VotesAgainst{}".format(i))
+                new_dict.pop("Hackers")
+            elif new_dict['VotesAgainst0'] == 0 and new_dict['VotesAgainst1'] == 0 and new_dict['VotesAgainst2'] == 0 and new_dict['VotesAgainst3'] == 0 and new_dict['VotesAgainst4'] == 0:
+                for i in range(5):
+                    new_dict.pop("VotesFor{}".format(i))
+                    new_dict.pop("VotesAgainst{}".format(i))
+                new_dict.pop("Hackers")
 
             self.new_list.append(new_dict)
 
