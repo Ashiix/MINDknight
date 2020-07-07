@@ -44,20 +44,26 @@ class Data:
     def parse(self,log_path):
         with open(log_path, 'r') as log: # Open player.log as log
             for line in enumerate(log):
-                line = line[1].split(" ",4)
+                a_line = line[1].split(" ",4)
                 try:
-                    if len(line[1]) == 9 and not line[1][2] == ".":
-                        time = line[1]
-                        cur_dict = ast.literal_eval(line[-1:][0].split(":",1)[1].replace("false","False").replace("true","True"))
+                    if len(a_line[1]) == 9 and not a_line[1][2] == ".":
+                        time = a_line[1]
+                        cur_dict = ast.literal_eval(a_line[-1:][0].split(":",1)[1].replace("false","False").replace("true","True"))
                         if cur_dict["Type"] == 307:
                             cur_dict.pop("Type")
                             cur_dict.pop("Passed")
                             self.packets.append(cur_dict)
-                except: pass
+                except:
+                    pass
+                last_line = line
+            hackers = last_line[-1:][0].split()[4]
+            hackers = ast.literal_eval(str(hackers).split(":",1))[1]
+            print(hackers)
+        return hackers
 
-    def add_labels(self):
+
+    def add_labels(self, hackers):
         #example = {'VotesFor0':0, 'VotesFor1':1, 'VotesFor2':0, 'VotesFor3':1....}
-        hackers = [0,2]
         self.new_list = []
         for packet in self.packets:
             new_dict = {}
@@ -107,7 +113,6 @@ class Data:
                 new_dict['VotesAgainst4'] = 1
             else:
                 new_dict['VotesAgainst4'] = 0
-
 
 
             new_dict["Hackers"] = [0,0,0,0,0]
