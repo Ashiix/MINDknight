@@ -11,17 +11,13 @@ def add_data():
         with open(('games/e_game{}.txt'.format(i)),'r') as f:
             with open(final_data, 'a') as export:
                 f_list = ast.literal_eval(f.read()) # translate read file into the list it really is
-                for packet in f_list:
-                    packet.pop("Type") # remove Type, dont need in data
-                    packet.pop("Passed")
-                #print(f_list)
                 for item in f_list:
-                    export.write((str(item)+','))
+                    export.write((str(item)+',')) # write each item, putting a , afterwards.
 
-with open(final_data, 'w') as final:
+with open(final_data, 'w') as final: # startthe list with open bracket
     final.write('[')
 
-with open(final_data, 'a') as final:
+with open(final_data, 'a') as final: # add data to open list, get size in bytes, remove a single char worth of bytes (removes list comma), and end list ]
     add_data()
     final.seek(0,2)
     size = final.tell() # size in bytes
