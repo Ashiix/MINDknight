@@ -34,7 +34,8 @@ class Data:
         # if not pathlib.Path(self.log_path).exists():
         #     sys.exit("The file can't be found in the given log path. This is most likely because you entered your home dir incorrectly.")
 
-        self.log_path = 'src/games/game1.txt'
+
+        self.log_path = 'src/games/game5.txt'
         # Declare packet list
         self.packets = [] # empty list to append packets to
 
@@ -55,7 +56,7 @@ class Data:
 
     def add_labels(self):
         #example = {'VotesFor0':0, 'VotesFor1':1, 'VotesFor2':0, 'VotesFor3':1....}
-        hackers = [1,2]
+        hackers = [0,2]
         self.new_list = []
         for packet in self.packets:
             new_dict = {}
@@ -113,23 +114,7 @@ class Data:
                 else:
                     new_dict["Hackers"][hacker] = 1
 
-
-            # for x in range(len(votesforpacket)):
-            #     for item in votesforpacket: # chages values to 1 if player voted (THIS CAN BE IMPROVED!!!)
-            #         new_dict['VotesFor{}'.format(item)] = 1
-                #print('-')
-        #print(new_dict)
             self.new_list.append(new_dict)
-
-
-
-
-
-
-        #hackers = [0,2] # do the hackers later
-
-
-        #
 
     def export(self, file):
         with open(file, 'w') as f:

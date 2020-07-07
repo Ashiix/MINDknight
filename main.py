@@ -10,11 +10,12 @@ def main():
     model = Model()
     # model.parse()
     # model.add_labels()
-    # model.export('src/games/test_log.txt')
+    # model.export('src/games/e_game5.txt')
     model.data_format()
-    #model.temp()
+    model.temp()
     model.log_regression()
     model.predict()
+
 
 if __name__ == "__main__":
     main()
