@@ -1,2 +1,2 @@
-/src/__pycache__/
-/src/.tmp/*
+*/__pycache__/
+src/games/*
