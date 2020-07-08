@@ -56,14 +56,17 @@ class Data:
                 except:
                     pass
                 last_line = line
-            hackers = last_line[-1:][0].split()[4]
-            hackers = ast.literal_eval(str(hackers).split(":",1))[1]
-            print(hackers)
+
+            hackers = (str(last_line).split(":",4)[4][:-4].replace('\"\"','\"').replace("false","'False'").replace("true","'True'"))
+            hackers = list(hackers.split("Canceled", 1))[0][:-2] +'}'
+            hackers = ast.literal_eval(hackers)['Hackers']
+            #print(hackers)
         return hackers
 
 
     def add_labels(self, hackers):
         #example = {'VotesFor0':0, 'VotesFor1':1, 'VotesFor2':0, 'VotesFor3':1....}
+        print(hackers)
         self.new_list = []
         for packet in self.packets:
             new_dict = {}
@@ -116,6 +119,7 @@ class Data:
 
 
             new_dict["Hackers"] = [0,0,0,0,0]
+
             for hacker in hackers: # setup a new list for hackers, instead of listing who the hackers are, put in a list and change the value to 1 if they are a hacker (needed for logreg later on)
                 if hacker == 0:
                     new_dict["Hackers"][0] = 1

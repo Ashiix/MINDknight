@@ -34,6 +34,7 @@ def data(should_parse):
             for i in range(num_games):
                 log_path = data.filepath(i)
                 hackers = data.parse(log_path)
+                print(i)
                 data.add_labels(hackers)
                 data.export('src/games/e_game{}.txt'.format(i))
         getfilenum(num_games)
