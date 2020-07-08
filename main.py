@@ -28,7 +28,7 @@ def data(should_parse):
         #num_games = int(input("How many games we parsin?\n> "))
         for file in os.listdir('src/games/'):
             if file[0:4] == 'game' and file[-4:] == '.txt':
-                print(file)
+                #print(file)
                 num_games += 1
 
         #print(num_games)
@@ -47,8 +47,10 @@ def data(should_parse):
                         #print("test")
                         data.add_labels(hackers)
                         data.export('src/games/e_game{}.txt'.format(game_num))
+        print("\n Parsing data from game files...")
         getfilenum()
         collect()
+        print("\nDone!")
     else:
         pass
 
