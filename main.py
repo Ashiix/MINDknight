@@ -8,7 +8,9 @@ import os
 from src.model import Model
 from src.data import Data
 from src.collect_data import collect
-
+def clear():
+    os.system('clear')
+clear()
 def main():
 
     should_parse = input("Parse data?\n[ y / n]\n> ")
@@ -18,7 +20,7 @@ def main():
         model = Model()
         model.data_format()
         model.log_regression()
-        model.predict()
+        model.analysis()
 
 
 def data(should_parse):
