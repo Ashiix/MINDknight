@@ -37,9 +37,9 @@ class Data:
         # Declare packet list
         self.packets = [] # empty list to append packets to
 
-    def filepath(self, game_number):
-        log_path = 'src/games/game{}.txt'.format(game_number+1)
-        return log_path
+    # def filepath(self, game_number):
+    #     log_path = 'src/games/game{}.txt'.format(game_number+1)
+    #     return log_path
     # Read log in realtime (WIP)
     def parse(self,log_path):
         with open(log_path, 'r') as log: # Open player.log as log
@@ -52,7 +52,7 @@ class Data:
                         if cur_dict["Type"] == 307:
                             cur_dict.pop("Type")
                             cur_dict.pop("Passed")
-                            self.packers.append(cur_dict)
+                            self.packets.append(cur_dict)
                 except:
                     pass
                 last_line = line
@@ -64,10 +64,9 @@ class Data:
             return hackers
 
 
-
-
     def add_labels(self, hackers):
         self.new_list = []
+        #print(self.packets)
         for packet in self.packets:
             new_dict = {}
             #make VotesFor Columns
@@ -118,12 +117,10 @@ class Data:
                 new_dict['VotesAgainst4'] = 0
 
             new_dict["Hackers"] = [0,0,0,0,0]
-            print(hackers)
+            #print(hackers)
             for hacker in hackers: # setup a new list for hackers, instead of listing who the hackers are, put in a list and change the value to 1 if they are a hacker (needed for logreg later on)
-                if hacker == 0:
-                    new_dict["Hackers"][0] = 1
-                else:
-                    new_dict["Hackers"][hacker] = 1
+                new_dict["Hackers"][hacker] = 1
+            #print(new_dict)
 
             # for i in range(2): # setup a new list for hackers, instead of listing who the hackers are, put in a list and change the value to 1 if they are a hacker (needed for logreg later on)
             #     if i == 0:
@@ -164,8 +161,9 @@ class Data:
 
             self.new_list.append(new_dict)
 
+
     def export(self, file):
-        with open(file, 'w') as f:
+        with open(file, 'w+') as f:
             f.write(str(self.new_list))
 
 

@@ -23,10 +23,13 @@ class Model:
 
         with open('final_data.txt', 'r') as f:
             a_data = ast.literal_eval(f.read()) # set text inside to this var which is now a list of our data
+            a_data = [d for d in a_data if d]
+
 
         f.close()
         self.df = pd.DataFrame(a_data)
         self.df.dropna()
+        self.df.isna()
         print(self.df)
         #print(self.df)
 
@@ -35,6 +38,7 @@ class Model:
         self.x_train = self.train_df[['VotesFor0','VotesFor1','VotesFor2','VotesFor3','VotesFor4','VotesAgainst0','VotesAgainst1','VotesAgainst2','VotesAgainst3','VotesAgainst4']].copy() # Create a copy of the original df, only using the first two columns
         self.y_train = self.train_df[['Hackers']].copy() # train labels
         self.x_test = test_df[['VotesFor0','VotesFor1','VotesFor2','VotesFor3','VotesFor4','VotesAgainst0','VotesAgainst1','VotesAgainst2','VotesAgainst3','VotesAgainst4']].copy() # test data
+
     # LOGISTIC REGRESSION!!!!
 
     def temp(self):
@@ -44,10 +48,14 @@ class Model:
 
 
     def log_regression(self):
-        self.log_reg = LogisticRegression() # define logreg model, and set solver var.
+        self.train_df.fillna(0)
+        for i in range(5):
+            self.train_df['Hackers'].str[i].fillna(0)
+            print(type(self.train_df['Hackers'].str[i]))
+        self.log_reg = LogisticRegression(solver='lbfgs') # define logreg model, and set solver var.
         for i in range(5):
             self.log_reg.fit(self.x_train, self.train_df['Hackers'].str[i])
-        self.log_reg.fit(self.x_train, self.y_train) # train model
+        #self.log_reg.fit(self.x_train, self.y_train) # train model
 
     #now predict!
     def predict(self):

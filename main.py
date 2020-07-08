@@ -22,27 +22,33 @@ def main():
 
 
 def data(should_parse):
-    num_games = 1
+    num_games = 0
     if should_parse == 'y':
         data = Data()
         #num_games = int(input("How many games we parsin?\n> "))
-        while True:
-            if not os.path.isfile('src/games/e_game{}.txt'.format(num_games)):
-                break
-            num_games += 1
-        def getfilenum(num_games):
-            for i in range(num_games):
-                log_path = data.filepath(i)
-                hackers = data.parse(log_path)
-                #data.remove_5_plus()
-                if len(hackers) > 2 or hackers[0] == 5 or hackers[1] == 5:
-                    pass
-                else:
-                    print(hackers)
-                    data.add_labels(hackers)
-                    data.export('src/games/e_game{}.txt'.format(i))
-        getfilenum(num_games)
-        collect(num_games)
+        for file in os.listdir('src/games/'):
+            if file[0:4] == 'game' and file[-4:] == '.txt':
+                print(file)
+                num_games += 1
+
+        #print(num_games)
+        def getfilenum():
+            for file in os.listdir('src/games/'):
+                if file[0:4] == 'game' and file[-4:] == '.txt':
+                    game_num = (file[:-4])[4:]
+                    log_path = 'src/games/game{}.txt'.format(game_num)
+                    #log_path = data.filepath(game_num)
+                    hackers = data.parse(log_path)
+                    #data.remove_5_plus()
+                    #print(hackers)
+                    if len(hackers) > 2 or hackers[0] == 5 or hackers[1] == 5:
+                        continue
+                    else:
+                        #print("test")
+                        data.add_labels(hackers)
+                        data.export('src/games/e_game{}.txt'.format(game_num))
+        getfilenum()
+        collect()
     else:
         pass
 
