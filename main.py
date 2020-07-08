@@ -34,9 +34,13 @@ def data(should_parse):
             for i in range(num_games):
                 log_path = data.filepath(i)
                 hackers = data.parse(log_path)
-                print(i)
-                data.add_labels(hackers)
-                data.export('src/games/e_game{}.txt'.format(i))
+                #data.remove_5_plus()
+                if len(hackers) > 2 or hackers[0] == 5 or hackers[1] == 5:
+                    pass
+                else:
+                    print(hackers)
+                    data.add_labels(hackers)
+                    data.export('src/games/e_game{}.txt'.format(i))
         getfilenum(num_games)
         collect(num_games)
     else:

@@ -52,7 +52,7 @@ class Data:
                         if cur_dict["Type"] == 307:
                             cur_dict.pop("Type")
                             cur_dict.pop("Passed")
-                            self.packets.append(cur_dict)
+                            self.packers.append(cur_dict)
                 except:
                     pass
                 last_line = line
@@ -60,13 +60,13 @@ class Data:
             hackers = (str(last_line).split(":",4)[4][:-4].replace('\"\"','\"').replace("false","'False'").replace("true","'True'"))
             hackers = list(hackers.split("Canceled", 1))[0][:-2] +'}'
             hackers = ast.literal_eval(hackers)['Hackers']
-            #print(hackers)
-        return hackers
+
+            return hackers
+
+
 
 
     def add_labels(self, hackers):
-        #example = {'VotesFor0':0, 'VotesFor1':1, 'VotesFor2':0, 'VotesFor3':1....}
-        print(hackers)
         self.new_list = []
         for packet in self.packets:
             new_dict = {}
@@ -117,15 +117,40 @@ class Data:
             else:
                 new_dict['VotesAgainst4'] = 0
 
-
             new_dict["Hackers"] = [0,0,0,0,0]
-
+            print(hackers)
             for hacker in hackers: # setup a new list for hackers, instead of listing who the hackers are, put in a list and change the value to 1 if they are a hacker (needed for logreg later on)
                 if hacker == 0:
                     new_dict["Hackers"][0] = 1
                 else:
                     new_dict["Hackers"][hacker] = 1
 
+            # for i in range(2): # setup a new list for hackers, instead of listing who the hackers are, put in a list and change the value to 1 if they are a hacker (needed for logreg later on)
+            #     if i == 0:
+            #         if hackers[0] == 0:
+            #             new_dict["Hackers"][0] = 0
+            #         elif hackers[0] == 1:
+            #             new_dict["Hackers"][1] = 1
+            #         elif hackers[0] == 2:
+            #             new_dict["Hackers"][2] = 2
+            #         elif hackers[0] == 3:
+            #             new_dict["Hackers"][3] = 3
+            #
+            #     if i == 1:
+            #         if hackers[1] == 1:
+            #             new_dict["Hackers"][1] = 1
+            #         elif hackers[1] == 2:
+            #             new_dict["Hackers"][2] = 2
+            #         elif hackers[1] == 3:
+            #             new_dict["Hackers"][3] = 3
+            #         elif hackers[1] == 4:
+            #             new_dict["Hackers"][4] = 4
+            #
+            #             print(new_dict["Hackers"])
+
+
+
+ # need to fix this, it makes an empty dictionary {} in final data file
             if new_dict['VotesFor0'] == 0 and new_dict['VotesFor1'] == 0 and new_dict['VotesFor2'] == 0 and new_dict['VotesFor3'] == 0 and new_dict['VotesFor4'] == 0:
                 for i in range(5):
                     new_dict.pop("VotesFor{}".format(i))
