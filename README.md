@@ -24,7 +24,12 @@
 ### Parsing data
 
 ![Parse Data](https://i.imgur.com/rt7qLF0.gif)
+---
 
-### Gett F1 Score, Accuracy, Recall, Precesion
+### Get F1 Score, Accuracy, Recall, Precesion
 
 ![Make Predictions](https://i.imgur.com/1TE2hyJ.gif)
+---
+
+Credits:
+Will update soon!
