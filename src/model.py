@@ -145,8 +145,8 @@ class Model:
 
         f1 = f1_score(f1_true, f1_pred, average='binary')
 
-        print("\nModel Analytics:\n")
-        print("Accuracy (avg.): ", round(avg_acc, 4), "\n")
-        print("Precision (avg.): ", round(avg_prec, 4), "\n")
-        print("Recall (avg.): ", round(avg_rec, 4), "\n")
-        print("F1 Score: ", f1, "\n")
+        print("\nModel Analytics:")
+        print("Accuracy (avg.): ", round(avg_acc, 4))
+        print("Precision (avg.): ", round(avg_prec, 4))
+        print("Recall (avg.): ", round(avg_rec, 4))
+        print("F1 Score: ", f1)

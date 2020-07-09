@@ -27,10 +27,11 @@ class Data:
         #     sys.exit("The file can't be found in the given log path. This is most likely because you entered your home dir incorrectly.")
 
         # Declare packet list
-        self.packets = []  # Empty list to append packets to
+        self.packets = []
 
     def parse(self, log_path):
-        with open(log_path, 'r') as log:  # Open player.log as log
+        # Open player.log as log
+        with open(log_path, 'r') as log:
             for line in enumerate(log):
                 a_line = line[1].split(" ", 4)
                 try:
