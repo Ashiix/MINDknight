@@ -1,23 +1,14 @@
 #!/usr/bin/env python3
 
-# 205 - Message
-# 102 - GameFound
-# 201 - GameStart
-# 202 - SpawnPlayer
-# 304 - SelectPhaseEnd
-# 307 - VotePhaseEnd
-# 311 - MissionPhaseEnd
-# 203 - GameEnd
 
 # Import libraries
 import sys
 import pathlib
 import ast
+import os
 
 
-# Create class Parse
 class Data:
-    # Init
     def __init__(self):
         # # Get currently running OS
         # os = sys.platform
@@ -36,12 +27,8 @@ class Data:
         #     sys.exit("The file can't be found in the given log path. This is most likely because you entered your home dir incorrectly.")
 
         # Declare packet list
-        self.packets = []  # empty list to append packets to
+        self.packets = []  # Empty list to append packets to
 
-    # def filepath(self, game_number):
-    #     log_path = 'src/games/game{}.txt'.format(game_number+1)
-    #     return log_path
-    # Read log in realtime (WIP)
     def parse(self, log_path):
         with open(log_path, 'r') as log:  # Open player.log as log
             for line in enumerate(log):
@@ -68,14 +55,13 @@ class Data:
 
     def add_labels(self, hackers):
         self.new_list = []
-        # print(self.packets)
+
         for packet in self.packets:
             new_dict = {}
-            # make VotesFor Columns
+
             votesforpacket = packet['VotesFor']
             votesagainstpacket = packet['VotesAgainst']
-            # print(votesforpacket)
-            # print(len(votesforpacket))
+
             if 0 in votesforpacket:  # can be improved
                 new_dict['VotesFor0'] = 1
             else:
@@ -119,36 +105,10 @@ class Data:
                 new_dict['VotesAgainst4'] = 0
 
             new_dict["Hackers"] = [0, 0, 0, 0, 0]
-            # print(hackers)
-            # setup a new list for hackers, instead of listing who the hackers are, put in a list and change the value to 1 if they are a hacker (needed for logreg later on)
+
             for hacker in hackers:
                 new_dict["Hackers"][hacker] = 1
-            # print(new_dict)
 
-            # for i in range(2): # setup a new list for hackers, instead of listing who the hackers are, put in a list and change the value to 1 if they are a hacker (needed for logreg later on)
-            #     if i == 0:
-            #         if hackers[0] == 0:
-            #             new_dict["Hackers"][0] = 0
-            #         elif hackers[0] == 1:
-            #             new_dict["Hackers"][1] = 1
-            #         elif hackers[0] == 2:
-            #             new_dict["Hackers"][2] = 2
-            #         elif hackers[0] == 3:
-            #             new_dict["Hackers"][3] = 3
-            #
-            #     if i == 1:
-            #         if hackers[1] == 1:
-            #             new_dict["Hackers"][1] = 1
-            #         elif hackers[1] == 2:
-            #             new_dict["Hackers"][2] = 2
-            #         elif hackers[1] == 3:
-            #             new_dict["Hackers"][3] = 3
-            #         elif hackers[1] == 4:
-            #             new_dict["Hackers"][4] = 4
-            #
-            #             print(new_dict["Hackers"])
-
- # need to fix this, it makes an empty dictionary {} in final data file
             if new_dict['VotesFor0'] == 0 and new_dict['VotesFor1'] == 0 and new_dict['VotesFor2'] == 0 and new_dict['VotesFor3'] == 0 and new_dict['VotesFor4'] == 0:
                 for i in range(5):
                     new_dict.pop("VotesFor{}".format(i))
@@ -166,5 +126,14 @@ class Data:
         with open(file, 'w+') as f:
             f.write(str(self.new_list))
 
-
-# need some room!
+    def getfilenum(self):
+        for file in os.listdir('src/games/'):
+            if file[0:4] == 'game' and file[-4:] == '.txt':
+                game_num = (file[:-4])[4:]
+                log_path = 'src/games/game{}.txt'.format(game_num)
+                hackers = self.parse(log_path)
+                if len(hackers) > 2 or hackers[0] == 5 or hackers[1] == 5:
+                    continue
+                else:
+                    self.add_labels(hackers)
+                    self.export('src/games/e_game{}.txt'.format(game_num))
