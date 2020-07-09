@@ -1,13 +1,24 @@
 # MINDknight
-An AI that plays MINDNIGHT
+### An AI Assistant for the game MINDNIGHT
 
 
-Dependencies:
+### Dependencies:
 
-- Tensorflow
-- Git (for tensorflow)
+- python 3.7+
+- pandas
+- scikit-learn
+- MINDNIGHT (Free on steam!, get it here: [MINDNIGHT](https://en.wikipedia.org/wiki/Markdown))
 
 
-Optional:
+## WIP
+- [ ] Live Data Capture
+- [ ] GUI?
 
-- CUDA (for GPU processing, highly recommended)
+
+### Future Goals:
+- Incoporate NLP
+- Some form of sentiment analysis
+
+![Parse Data](https://i.imgur.com/rt7qLF0.gif)
+
+![Make Predictions](https://i.imgur.com/1TE2hyJ.gif)
