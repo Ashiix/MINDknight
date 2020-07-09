@@ -2,7 +2,7 @@
 ### An AI Assistant for the game MINDNIGHT
 
 
-### Dependencies:
+### Dependencies
 
 - python 3.7+
 - pandas
@@ -15,10 +15,16 @@
 - [ ] GUI?
 
 
-### Future Goals:
+### Future Goals
 - Incoporate NLP
 - Some form of sentiment analysis
 
+## How to run
+
+### Parsing data
+
 ![Parse Data](https://i.imgur.com/rt7qLF0.gif)
+
+### Gett F1 Score, Accuracy, Recall, Precesion
 
 ![Make Predictions](https://i.imgur.com/1TE2hyJ.gif)
