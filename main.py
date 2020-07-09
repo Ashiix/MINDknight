@@ -8,11 +8,10 @@ import os
 from src.model import Model
 from src.data import Data
 from src.collect_data import collect
-def clear():
-    os.system('clear')
-clear()
-def main():
 
+
+def main():
+    os.system('clear')
     should_parse = input("Parse data?\n[ y / n]\n> ")
     if should_parse == 'y':
         data(should_parse)
@@ -30,10 +29,10 @@ def data(should_parse):
         #num_games = int(input("How many games we parsin?\n> "))
         for file in os.listdir('src/games/'):
             if file[0:4] == 'game' and file[-4:] == '.txt':
-                #print(file)
+                # print(file)
                 num_games += 1
 
-        #print(num_games)
+        # print(num_games)
         def getfilenum():
             for file in os.listdir('src/games/'):
                 if file[0:4] == 'game' and file[-4:] == '.txt':
@@ -41,12 +40,12 @@ def data(should_parse):
                     log_path = 'src/games/game{}.txt'.format(game_num)
                     #log_path = data.filepath(game_num)
                     hackers = data.parse(log_path)
-                    #data.remove_5_plus()
-                    #print(hackers)
+                    # data.remove_5_plus()
+                    # print(hackers)
                     if len(hackers) > 2 or hackers[0] == 5 or hackers[1] == 5:
                         continue
                     else:
-                        #print("test")
+                        # print("test")
                         data.add_labels(hackers)
                         data.export('src/games/e_game{}.txt'.format(game_num))
         print("\n Parsing data from game files...")
@@ -55,6 +54,7 @@ def data(should_parse):
         print("\nDone!")
     else:
         pass
+
 
 if __name__ == "__main__":
     main()

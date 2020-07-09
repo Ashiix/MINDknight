@@ -3,6 +3,7 @@
 import sys
 import os.path
 
+
 class Scraping:
     def __init__(self):
         home = "ash"
@@ -29,7 +30,7 @@ class Scraping:
                     if "Received GameEnd" in line_txt:
                         with open("src/games/game{}.txt".format(str(self.game_num)), "a") as game_file:
                             for line_game in enumerate(self.game):
-                                game_file.write(line_game[1]+"\n")
+                                game_file.write(line_game[1] + "\n")
                         print("Wrote game to file.")
                         self.game_num += 1
                         in_game = False
