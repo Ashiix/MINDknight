@@ -4,9 +4,9 @@
 
 ### Dependencies
 
-- python 3.7+
-- pandas
-- scikit-learn
+- Python 3.7+
+- Pandas
+- Scikit-learn
 - MINDNIGHT (Free on steam!, get it here: [MINDNIGHT](https://en.wikipedia.org/wiki/Markdown))
 
 
@@ -16,8 +16,8 @@
 
 
 ### Future Goals
-- Incoporate NLP
-- Some form of sentiment analysis
+- Incoporate NLP with sentiment analysis
+- Fully independent play
 
 ## How to run
 
@@ -30,6 +30,3 @@
 
 ![Make Predictions](https://i.imgur.com/1TE2hyJ.gif)
 ---
-
-Credits:
-Will update soon!
