@@ -8,7 +8,6 @@ import os
 class Collect:
     # Data collection function
     def data(self):
-
         final_data = 'final_data.txt'
 
         def add_data():
@@ -34,5 +33,3 @@ class Collect:
             final.truncate(size - 1)
             # Add extra ] to make it into a list, allowing us to do for item in file when creating dataframe
             final.write("]")
-
-        final.close()

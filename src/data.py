@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-
 # Import libraries
 import sys
 import pathlib
@@ -10,21 +9,13 @@ import os
 
 class Data:
     def __init__(self):
-        # # Get currently running OS
-        # os = sys.platform
-        # # Get user's home directory
-        # self.user_home = input("User home dir name: ")
-        # # Set log_path based on detected OS
-        # if os == "linux":
-        #     self.log_path = "/home/{}/.config/unity3d/Nomoon/Mindnight/Player.log".format(self.user_home)
-        # elif (os == "win32"):
-        #     self.log_path = "%\\{}%\\AppData\\LocalLow\\Nomoon\\Mindnight\\Player.log".format(self.user_home)
-        # else: # If unable to detect OS, ask for manual input
-        #     print("Unable to detect OS for log file path, please input it manually.")
-        #     self.log_path = input("Path: ")
-        # # Check if player.log exists in given file path
-        # if not pathlib.Path(self.log_path).exists():
-        #     sys.exit("The file can't be found in the given log path. This is most likely because you entered your home dir incorrectly.")
+        # Get user's home directory
+        self.user_home = os.system("whoami")
+        # Set log path
+        self.log_path = "/home/{}/.config/unity3d/Nomoon/Mindnight/Player.log".format(self.user_home)
+        # Check if player.log exists in given file path
+        if not pathlib.Path(self.log_path).exists():
+            sys.exit("Log not found.")
 
         # Declare packet list
         self.packets = []
@@ -53,75 +44,6 @@ class Data:
             hackers = ast.literal_eval(hackers)['Hackers']
 
             return hackers
-
-    def add_labels(self, hackers):
-        self.new_list = []
-
-        for packet in self.packets:
-            new_dict = {}
-
-            votesforpacket = packet['VotesFor']
-            votesagainstpacket = packet['VotesAgainst']
-
-            if 0 in votesforpacket:  # can be improved
-                new_dict['VotesFor0'] = 1
-            else:
-                new_dict['VotesFor0'] = 0
-            if 1 in votesforpacket:
-                new_dict['VotesFor1'] = 1
-            else:
-                new_dict['VotesFor1'] = 0
-            if 2 in votesforpacket:
-                new_dict['VotesFor2'] = 1
-            else:
-                new_dict['VotesFor2'] = 0
-            if 3 in votesforpacket:
-                new_dict['VotesFor3'] = 1
-            else:
-                new_dict['VotesFor3'] = 0
-            if 4 in votesforpacket:
-                new_dict['VotesFor4'] = 1
-            else:
-                new_dict['VotesFor4'] = 0
-
-            if 0 in votesagainstpacket:
-                new_dict['VotesAgainst0'] = 1
-            else:
-                new_dict['VotesAgainst0'] = 0
-            if 1 in votesagainstpacket:
-                new_dict['VotesAgainst1'] = 1
-            else:
-                new_dict['VotesAgainst1'] = 0
-            if 2 in votesagainstpacket:
-                new_dict['VotesAgainst2'] = 1
-            else:
-                new_dict['VotesAgainst2'] = 0
-            if 3 in votesagainstpacket:
-                new_dict['VotesAgainst3'] = 1
-            else:
-                new_dict['VotesAgainst3'] = 0
-            if 4 in votesagainstpacket:
-                new_dict['VotesAgainst4'] = 1
-            else:
-                new_dict['VotesAgainst4'] = 0
-
-            new_dict["Hackers"] = [0, 0, 0, 0, 0]
-
-            for hacker in hackers:
-                new_dict["Hackers"][hacker] = 1
-
-            if new_dict['VotesFor0'] == 0 and new_dict['VotesFor1'] == 0 and new_dict['VotesFor2'] == 0 and new_dict['VotesFor3'] == 0 and new_dict['VotesFor4'] == 0:
-                for i in range(5):
-                    new_dict.pop("VotesFor{}".format(i))
-                    new_dict.pop("VotesAgainst{}".format(i))
-                new_dict.pop("Hackers")
-            elif new_dict['VotesAgainst0'] == 0 and new_dict['VotesAgainst1'] == 0 and new_dict['VotesAgainst2'] == 0 and new_dict['VotesAgainst3'] == 0 and new_dict['VotesAgainst4'] == 0:
-                for i in range(5):
-                    new_dict.pop("VotesFor{}".format(i))
-                    new_dict.pop("VotesAgainst{}".format(i))
-                new_dict.pop("Hackers")
-
-            self.new_list.append(new_dict)
 
     def export(self, file):
         with open(file, 'w+') as f:

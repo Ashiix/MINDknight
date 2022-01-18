@@ -4,7 +4,7 @@ import sys
 import os.path
 
 
-class Scraping:
+class Scrape:
     def __init__(self):
         home = "ash"
 
